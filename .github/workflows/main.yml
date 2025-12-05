@@ -5,16 +5,22 @@ on:
     - cron: '0 */3 * * *'  # Co 3 godziny
   workflow_dispatch:         # Ręczne uruchomienie
 
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Pozwala pushować zmiany na GitHub
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
@@ -24,13 +30,17 @@ jobs:
       
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
+      
+      - name: Enrich news with AI
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/enrich-news.js
       
       - name: Fetch market data
-        run: node scripts/fetch-market.js
         env:
-          ALPHA_VANTAGE_KEY: ${{ secrets.ALPHA_VANTAGE_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
+        run: node scripts/fetch-market.js
       
       - name: Build SQLite database
         run: node scripts/build-database.js
@@ -43,5 +53,9 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "Update data $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
       
-      - name: Trigger Pages rebuild
-        run: echo "Data updated, Pages will rebuild automatically"
+      - name: Upload data artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-files
+          path: public/data/*
+          if-no-files-found: warn
