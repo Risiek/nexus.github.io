@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   // Set the base path for GitHub Pages (replace 'repository-name' with your actual repo name)
   // If deploying to user/organization pages, keep it as '/'
-  base: '/',
+  base: '/nexus.github.io/',
   
   build: {
     // Output directory for production build
