@@ -76,8 +76,8 @@ async function main() {
 
   // Initialize AI systems
   const aiQueue = new AIQueue({
-    maxRPM: 15,
-    maxRPD: 900,
+    maxRPM: 10,
+    maxRPD: 600,
     maxTokensPerDay: 250000,
   });
 
@@ -104,19 +104,19 @@ async function main() {
 
     // Step 1: Categorize
     const categorized = await batchProcessor.categorizeArticles(articlesToProcess, {
-      batchSize: priority === 1 ? 5 : 10, // Smaller batches for breaking news
+      batchSize: priority === 1 ? 2 : 3, // Even smaller batches
       priority,
     });
 
     // Step 2: Extract locations
     const withLocations = await batchProcessor.extractLocations(categorized, {
-      batchSize: priority === 1 ? 5 : 10,
+      batchSize: priority === 1 ? 2 : 3,
       priority,
     });
 
     // Step 3: Summarize
     const withSummaries = await batchProcessor.summarizeArticles(withLocations, {
-      batchSize: priority === 1 ? 3 : 5,
+      batchSize: priority === 1 ? 2 : 2,
       priority,
     });
 
