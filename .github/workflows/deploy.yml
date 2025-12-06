@@ -1,10 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
-  # push:
-  #   branches:
-  #     - main  # DISABLED - manual only
-  workflow_dispatch:
+  schedule:
+    - cron: '15 2,8,14,20 * * *'  # 4x dziennie: 15 min po data update (02:15, 08:15, 14:15, 20:15 UTC)
+  push:
+    branches:
+      - main                       # Automatycznie deploy po push
+  workflow_dispatch:              # Ręczne uruchomienie
 
 permissions:
   contents: read

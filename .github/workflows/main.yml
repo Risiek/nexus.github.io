@@ -1,9 +1,9 @@
 name: Update News & Market Data
 
 on:
-  # schedule:
-  #   - cron: '0 */4 * * *'  # Co 4 godziny - DISABLED
-  workflow_dispatch:         # Ręczne uruchomienie ONLY
+  schedule:
+    - cron: '0 2,8,14,20 * * *'  # 4x dziennie: 02:00, 08:00, 14:00, 20:00 UTC
+  workflow_dispatch:              # Ręczne uruchomienie
 
 concurrency:
   group: data-update
