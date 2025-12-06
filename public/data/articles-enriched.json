@@ -8,7 +8,18 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/A9Vk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNTI5ZWQ3NDlkY2IxYmJhOGI4NTQyYjNjZThlYzQxYi5qcGeSlQMAcc0Nw80HvZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "wojna / konflikty",
+    "location": null,
+    "priority": 4,
+    "keywords": [
+      "Amerykańsko-ukraińskie",
+      "Floryda",
+      "rozmowy",
+      "wojna",
+      "konstruktywne"
+    ],
+    "enriched_at": "2025-12-06T00:56:50.784Z"
   },
   {
     "guid": "2611181f-eaeb-4a89-8c61-606dd70a6449",
@@ -19,7 +30,18 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/wirk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84M2FiNGZmZi1jOGM5LTQwYWEtOWEyZi00MjQ2MTY5MDQyMDYuanBlZ5KVAwBdzQu4zQaXkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": []
+    "categories": [],
+    "category": "gospodarka",
+    "location": null,
+    "priority": 4,
+    "keywords": [
+      "rosyjskie aktywa",
+      "zamrożone",
+      "KE",
+      "Niemcy",
+      "Belgia"
+    ],
+    "enriched_at": "2025-12-06T00:56:52.376Z"
   },
   {
     "guid": "62ac8733-38d8-4187-9db2-1faa7a795f5b",
@@ -30,7 +52,18 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Gb8k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83YzhlOWEwNjIxZGJkYmQwN2NkODJlMDgyYjRlMGVhZi5qcGeSlQPM4c0DG80Sws0Kj5MFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "polityka",
+    "location": null,
+    "priority": 3,
+    "keywords": [
+      "Pegasus",
+      "prokuratura",
+      "szef CBA",
+      "Ernest Bejda",
+      "gra polityczna"
+    ],
+    "enriched_at": "2025-12-06T00:56:53.729Z"
   },
   {
     "guid": "bee7f7ed-b9a6-41c0-be6e-c2a74b89fb16",
@@ -41,7 +74,18 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/XgFk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2E3ODNkNS01ZjA5LTRiMGItYjRkNS0zMTM0MzlhNzBhNzguanBlZ5KVAwDNATrNFB3NC1KTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": []
+    "categories": [],
+    "category": "polityka",
+    "location": {},
+    "priority": 2,
+    "keywords": [
+      "wybory",
+      "przewodniczącego",
+      "Koalicja Obywatelska",
+      "termin",
+      "kandydaci"
+    ],
+    "enriched_at": "2025-12-06T00:56:55.435Z"
   },
   {
     "guid": "1a1ebb1d-3a57-4197-978f-3e0d04744e79",
@@ -52,7 +96,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/br7k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82MzY3MzQyOGJlYmQ1YzhhOTQzZTUzYzc5MGQyNzZkZi5qcGeSlQMAAM0GQM0DhJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:55.715Z"
   },
   {
     "guid": "c1a7dfd7-8670-4487-8243-de92085074b8",
@@ -63,7 +112,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/VRYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80Y2NiYjM3NmIyMTE2ZjYzODA0ZmE3OThkZjA2MTZkZi5qcGeSlQMAzQLvzSBAzRIlkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:55.968Z"
   },
   {
     "guid": "996e3ee8-a120-4b56-b0c9-59299a2fabc0",
@@ -74,7 +128,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/K57k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NjFjYjZiOTZiNWVjMzRlODQyZWM2YTAzNzZmZmQ2OS5qcGeSlQMAQs0QKM0JFpMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:56.220Z"
   },
   {
     "guid": "12f0af47-ca7e-4677-a57d-d80b06fce8b9",
@@ -85,7 +144,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/2nYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OTQzYzkxNTkxYTYxMTlmNGUzZWM4MGM4OTUwNDQ1Zi5qcGeSlQMAzJHNEjDNCjuTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:56.463Z"
   },
   {
     "guid": "248345c5-6859-4c33-b720-602afea1e29d",
@@ -96,7 +160,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/bCYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82YjExYTAyNmE3YzRhMzc2YmJmNjA4MWUyYTA5ZGFjNS5qcGeSlQMCzQGIzREZzQmgkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:56.700Z"
   },
   {
     "guid": "b139ad8b-2328-4455-bb65-1405e32774d6",
@@ -107,7 +176,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/ORuk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85NWU2NGNkNi0xMGYzLTRmZTktYmQzOS01NjhkYzAwZjM1ZDguanBlZ5KVAwDM_s0WTc0MjZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:56.940Z"
   },
   {
     "guid": "6efd4bd3-e6f1-4145-9044-ea9d06b41384",
@@ -118,7 +192,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/czNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84NzFlNjUyMDMwZmU3ZmE3ZTc5M2ZjODk3NmZmOTViMS5qcGeSlQMACs0OFc0H65MFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:57.176Z"
   },
   {
     "guid": "ca6a1e9f-df28-49b6-9dca-5f73cd83bede",
@@ -129,7 +208,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/f1Hk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTIwZWMxNjhlN2RjMjdhOTg1N2Y3ZTk5OGJlN2Y0ZS5qcGeSlQMAcc0Nw80HvZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:57.412Z"
   },
   {
     "guid": "759a69ba-411a-4e99-9d94-9009f7e00f5a",
@@ -140,7 +224,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/q1yk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZTNlOWFkNTgzOGExMDU4NDg5OGI2NTMwMTBiZmEyNi5qcGeSlQMAAM0GKM0Dd5MFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:57.649Z"
   },
   {
     "guid": "e814ad35-49b5-46e4-b3b0-bcc690090217",
@@ -151,7 +240,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/MIxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MWY0ZGM1NzU3OTE2ODc0ZjFjNTc4MjRmN2JmODlhZS5wbmeSlQMAAM0EsM0Co5MFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:57.885Z"
   },
   {
     "guid": "39d7f3b7-b56b-4662-8bc4-e16a8301d840",
@@ -162,7 +256,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/LpNk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMmJlMjU4NTgzODJlMDYwNzJhZmRmMmM0MjJhYjRhOS5qcGeSlQMAzQO3zRUqzQvokwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:58.120Z"
   },
   {
     "guid": "c5015413-4b0a-4e7e-8412-ba1618a790fb",
@@ -173,7 +272,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Yskk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMTIyN2UyZDRjODdlMGYxNWRhMDAxNjM2MTA4NjlhZi5qcGeSlQNGAM0FuM0DOJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:58.340Z"
   },
   {
     "guid": "cf531062-10aa-490b-8d31-ddb583555133",
@@ -184,7 +288,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/T34k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kZmQ0M2ExMTYzMzlmZWZhMTU0OGJiMjU3NTIxZjFjZC5qcGeSlQMAzQEGzRVfzQwGkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:58.576Z"
   },
   {
     "guid": "8136430d-00e6-4f09-8f3f-6e66f7ba79ad",
@@ -195,7 +304,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/uVak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNzQwNGU0OWE4OTUwNGJjMzAzNTcyNjU4YTJlNDNmNC5qcGeSlQMAAM0KAM0FoJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:58.813Z"
   },
   {
     "guid": "e79b5adc-2edc-441b-a0c1-846376332d53",
@@ -206,7 +320,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/nYrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mZGExYTBmNjVlZTBhZTY1MWE1NzVkMzhlODlmOWI5Yi5qcGeSlQMAXM0Lic0GfZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:59.038Z"
   },
   {
     "guid": "0814937a-a386-44c9-91a1-1d4a863abfb7",
@@ -217,7 +336,12 @@
     "source": "Onet",
     "sourceCategory": "News",
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/ytYk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jODRiZDgzMy1lNDUzLTQ1YWEtYTkzNi0yZDYyMzVkZjMyZGUuanBlZ5KVA80CUgDNEsnNCpKTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:59.262Z"
   },
   {
     "guid": "https://tvn24.pl/swiat/frank-gehry-zmarl-w-wieku-96-lat-budynki-slynnego-architekta-sa-znane-na-calym-swiecie-st8788285",
@@ -228,7 +352,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:59.479Z"
   },
   {
     "guid": "https://tvn24.pl/polska/tak-sie-usmiecham-ale-sam-czuje-oddech-na-plecach-tusk-rozbawil-sale-st8788258",
@@ -239,7 +368,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:59.696Z"
   },
   {
     "guid": "https://tvn24.pl/fakty-artykuly/dzieci-porwane-z-ukrainy-trafiaja-do-jeszcze-gorszego-miejsca-niz-rosja-st8788096",
@@ -250,7 +384,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:56:59.913Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-5-6-12-gesta-mgla-tu-pogoda-sprawi-klopoty-imgw-ostrzega-st8787738",
@@ -261,7 +400,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:00.140Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-losowania-z-5-grudnia-2025-padla-glowna-wygrana-liczby-i-wygrane-st8788215",
@@ -272,7 +416,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:00.362Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nocna-cisza-alkoholowa-pierwsze-statystyki-strazy-miejskiej-st8788200",
@@ -283,7 +432,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:00.591Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/nauka/epidemia-dzumy-co-doprowadzilo-do-czarnej-smierci-zaskakujace-ustalenia-naukowcow-st8788194",
@@ -294,7 +448,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:00.825Z"
   },
   {
     "guid": "https://tvn24.pl/polska/wojna-w-ukrainie-profesor-robert-galazkowski-o-dzialaniach-polskich-mediow-i-pomocy-rannym-ukraincom-st8788205",
@@ -305,7 +464,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:01.044Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-najlepsze-miasto-swiata-opera-o-warszawie-za-darmo-w-internecie-st8788248",
@@ -316,7 +480,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:01.258Z"
   },
   {
     "guid": "https://tvn24.pl/polska/uchwala-dwoch-izb-sadu-najwyzszego-ministerstwo-sprawiedliwosci-prawnie-wadliwa-i-niewiazaca-st8788113",
@@ -327,7 +496,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:01.487Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/ze-swiata/media-calkowite-i-krytyczne-uzaleznienie-rosji-od-chin-st8788133",
@@ -338,7 +512,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:01.703Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/ursynow/ursynow-ursynoteka-z-drewna-i-z-trawa-na-dachu-wyniki-konkursu-na-projekt-nowej-biblioteki-st8787970",
@@ -349,7 +528,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:01.920Z"
   },
   {
     "guid": "https://tvn24.pl/polska/czarzasty-wystartuje-popatrzyl-mi-gleboko-w-oczy-i-wszystko-bylo-juz-jasne-st8788189",
@@ -360,7 +544,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:02.135Z"
   },
   {
     "guid": "https://tvn24.pl/polska/ustawa-o-kryptoaktywach-podtrzymane-weto-donald-tusk-na-radzie-krajowej-ko-beda-bardzo-zalowali-tej-decyzji-st8788110",
@@ -371,7 +560,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:02.360Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-6-12-mikolajki-noc-bedzie-pochmurna-miejscami-deszczowa-st8787932",
@@ -382,7 +576,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:02.587Z"
   },
   {
     "guid": "https://tvn24.pl/szczecin/szczecin-czolowe-zderzenie-karetki-z-samochodem-zolnierz-z-wyrokiem-st8787995",
@@ -393,7 +592,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:02.801Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/handel/goracy-okres-dla-branzy-handlowej-czas-pelnej-gotowosci-st8788064",
@@ -404,7 +608,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:03.013Z"
   },
   {
     "guid": "https://tvn24.pl/poznan/poznan-odglosy-wybuchow-na-torach-i-akcja-sluzb-na-przejezdzie-zatrzymany-43-latek-st8787645",
@@ -415,7 +624,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:03.227Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-pociagi-km-nie-zatrzymaja-sie-na-przystanku-ursus-polnocny-st8788093",
@@ -426,7 +640,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:03.441Z"
   },
   {
     "guid": "https://tvn24.pl/swiat/francja-drony-nad-baza-wojskowa-z-okretami-podwodnymi-z-napedem-atomowym-wojsko-oddalo-strzaly-st8787872",
@@ -437,7 +656,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:03.661Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/swiat/francja-silna-burza-przyniosla-zniszczenia-traba-powietrzna-uszkodzila-dom-ulewa-zawalila-budynek-st8788051",
@@ -448,7 +672,12 @@
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:03.890Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567595",
@@ -462,7 +691,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:04.112Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568640",
@@ -476,7 +710,12 @@
     "categories": [
       "Tech",
       "Sztuczna inteligencja"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:04.339Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568635",
@@ -490,7 +729,12 @@
     "categories": [
       "Tech",
       "Programy i systemy"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:04.568Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568628",
@@ -505,7 +749,12 @@
       "Tech",
       "Aplikacje",
       "Sztuczna inteligencja"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:04.785Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568597",
@@ -518,7 +767,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:05.010Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568622",
@@ -533,7 +787,12 @@
       "Tech",
       "Programy i systemy",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:05.240Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568617",
@@ -547,7 +806,12 @@
     "categories": [
       "Tech",
       "Aplikacje"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:05.455Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568601",
@@ -562,7 +826,12 @@
       "Tech",
       "Gadżety",
       "Promocje"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:05.666Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567778",
@@ -576,7 +845,12 @@
     "categories": [
       "Testy",
       "Hardware"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:05.883Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568591",
@@ -589,7 +863,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:06.116Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568472",
@@ -603,7 +882,12 @@
     "categories": [
       "Tech",
       "Energetyka"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:06.338Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568524",
@@ -616,7 +900,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:06.550Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568471",
@@ -629,7 +918,12 @@
     "thumbnail": null,
     "categories": [
       "Moto"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:06.768Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568299",
@@ -643,7 +937,12 @@
     "categories": [
       "Tech",
       "Promocje"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:06.980Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568469",
@@ -656,7 +955,12 @@
     "thumbnail": null,
     "categories": [
       "Moto"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:07.199Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568456",
@@ -669,7 +973,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:07.418Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1564214",
@@ -683,7 +992,12 @@
     "categories": [
       "Lokowanie produktu",
       "CHIP Święta 2025"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:07.628Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567596",
@@ -697,7 +1011,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:07.840Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567903",
@@ -711,7 +1030,12 @@
     "categories": [
       "Lokowanie produktu",
       "CHIP Święta 2025"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:08.049Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568470",
@@ -724,7 +1048,12 @@
     "thumbnail": null,
     "categories": [
       "Moto"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:08.262Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567760",
@@ -738,7 +1067,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:08.476Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567758",
@@ -752,7 +1086,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:08.689Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568370",
@@ -766,7 +1105,12 @@
     "categories": [
       "Tech",
       "Cyberbezpieczeństwo"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:08.912Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568148",
@@ -779,7 +1123,12 @@
     "thumbnail": null,
     "categories": [
       "Nauka"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:09.127Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568362",
@@ -794,7 +1143,12 @@
       "Tech",
       "Programy i systemy",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:09.351Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568333",
@@ -807,7 +1161,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:09.573Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568357",
@@ -822,7 +1181,12 @@
       "Tech",
       "Programy i systemy",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:09.782Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568330",
@@ -838,7 +1202,12 @@
       "Gadżety",
       "Programy i systemy",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:10.006Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568316",
@@ -853,7 +1222,12 @@
       "Tech",
       "Aplikacje",
       "Sztuczna inteligencja"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:10.215Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568303",
@@ -867,7 +1241,12 @@
     "categories": [
       "Testy",
       "RTV/AGD"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:10.439Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568300",
@@ -880,7 +1259,12 @@
     "thumbnail": "https://konto.chip.pl/wp-content/uploads/2025/12/GooglePhotosBlogPostHeroImagery_1000heads_12.2Updated.mp4",
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:10.654Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1566272",
@@ -893,7 +1277,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:10.865Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568170",
@@ -907,7 +1296,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:11.072Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567676",
@@ -922,7 +1316,12 @@
       "Lokowanie produktu",
       "Gadżety",
       "Moto"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:11.288Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568526",
@@ -938,7 +1337,12 @@
       "Lokowanie produktu",
       "Smartfony i tablety",
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:11.507Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1566507",
@@ -952,7 +1356,12 @@
     "categories": [
       "Lokowanie produktu",
       "CHIP Święta 2025"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:11.723Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568165",
@@ -966,7 +1375,12 @@
     "categories": [
       "Tech",
       "Gadżety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:11.941Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567948",
@@ -979,7 +1393,12 @@
     "thumbnail": null,
     "categories": [
       "Nauka"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:12.158Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568197",
@@ -992,7 +1411,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:12.371Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567762",
@@ -1006,7 +1430,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:12.591Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568093",
@@ -1021,7 +1450,12 @@
       "Testy",
       "Gaming",
       "Gry i filmy"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:12.802Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568164",
@@ -1035,7 +1469,12 @@
     "categories": [
       "Tech",
       "Militaria"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:13.020Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567729",
@@ -1049,7 +1488,12 @@
     "categories": [
       "Nauka",
       "Nauka i technika"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:13.239Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568114",
@@ -1064,7 +1508,12 @@
       "Tech",
       "Aplikacje",
       "Cyberbezpieczeństwo"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:13.461Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1554728",
@@ -1077,7 +1526,12 @@
     "thumbnail": null,
     "categories": [
       "Tech"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:13.675Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568112",
@@ -1092,7 +1546,12 @@
       "Tech",
       "Programy i systemy",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:13.892Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568090",
@@ -1107,7 +1566,12 @@
       "Tech",
       "Aplikacje",
       "Sztuczna inteligencja"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:14.122Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568087",
@@ -1121,7 +1585,12 @@
     "categories": [
       "Tech",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:14.349Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568082",
@@ -1135,7 +1604,12 @@
     "categories": [
       "Tech",
       "Smartfony i tablety"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:14.564Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567994",
@@ -1151,7 +1625,12 @@
       "Smartfony",
       "Smartfony i tablety",
       "Testy"
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:14.772Z"
   },
   {
     "guid": "/z-wizyta-w-rodzinnym-domu-zenka-martyniuka-tu-spedzil-mlodosc-i-zawsze-chetnie-wraca/ar/c1-15600661",
@@ -1169,7 +1648,12 @@
           "domain": "https://gs24.pl/dom/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:14.984Z"
   },
   {
     "guid": "/najdrozsze-koty-w-polsce-sprawdzilismy-ceny-unikatowych-ras-na-olx-ile-dzis-kosztuje-luksusowy-pupil/ar/c8-17839213",
@@ -1187,7 +1671,12 @@
           "domain": "https://gs24.pl/strefa-agro/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:15.201Z"
   },
   {
     "guid": "/bialystok-w-latach-19101943-na-wyjatkowych-pocztowkach-i-zdjeciach-znalezionych-na-ebayu-zobacz-unikalne-archiwalne-fotografie/ar/c1-17044769",
@@ -1205,7 +1694,12 @@
           "domain": "https://gs24.pl/historia/polska-do-1945/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:15.419Z"
   },
   {
     "guid": "/plaza-nudystow-nad-zalewem-sulejowskim-dzika-plaza-naturystow-w-swolszewicach-nad-zalewem-sulejowskim-robi-sie-bardzo-popularna/ar/c6-13410756",
@@ -1223,7 +1717,12 @@
           "domain": "https://gs24.pl/styl-zycia/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:15.632Z"
   },
   {
     "guid": "/odszkodowanie-za-karambol-kto-dostanie-pieniadze-wystarczy-sama-polisa-oc/ar/c4-17245683",
@@ -1241,7 +1740,12 @@
           "domain": "https://gs24.pl/motofakty/na-drogach/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:15.839Z"
   },
   {
     "guid": "/skutki-niedoboru-magnezu-niedobor-magnezu-objawy-i-przyczyny-jak-mozna-szybko-uzupelnic-magnez-w-organizmie/ar/c1-15907161",
@@ -1259,7 +1763,12 @@
           "domain": "https://gs24.pl/zdrowie/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:16.045Z"
   },
   {
     "guid": "/co-zrobic-zeby-scieta-choinka-nie-gubila-igiel-sprawdz-najlepsze-domowe-triki-jak-przedluzyc-trwalosc-swiatecznego-drzewka/ar/c9-17142679",
@@ -1277,7 +1786,12 @@
           "domain": "https://gs24.pl/dom/porady-domowe/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:16.256Z"
   },
   {
     "guid": "/lubisz-buraki-sprawdz-efekty-picia-soku-z-buraka-burak-jest-bogaty-w-mikroelementy-i-witaminy/ar/c1-15895149",
@@ -1295,7 +1809,12 @@
           "domain": "https://gs24.pl/kulinaria/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:16.470Z"
   },
   {
     "guid": "/jak-walczyc-z-bezsennoscia-sprawdzone-sposoby-na-bezsennosc-poradnik-dla-majacych-problemy-z-zasypianiem-dzieki-temu-szybciej/ar/c14-15874845",
@@ -1313,7 +1832,12 @@
           "domain": "https://gs24.pl/zdrowie/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:16.685Z"
   },
   {
     "guid": "/kto-zna-historie-tego-obiektu-na-pomorzu-zachowalo-sie-tylko-jedno-stare-zdjecie/ar/c1-17180905",
@@ -1331,7 +1855,12 @@
           "domain": "https://gs24.pl/turystyka/region/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:16.899Z"
   },
   {
     "guid": "/kto-wymyslil-andrzejki-bez-wrozb-traca-swoja-magie-to-wyjatkowa-noc/ar/c13-15317108",
@@ -1349,7 +1878,12 @@
           "domain": "https://gs24.pl/styl-zycia/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:17.121Z"
   },
   {
     "guid": "/absolutnie-nie-odbieraj-tych-polaczen-z-tych-numerow-dzwonia-oszusci-stracisz-pieniadze-29112025/ar/c1-18976655",
@@ -1367,7 +1901,12 @@
           "domain": "https://gs24.pl/styl-zycia/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:17.333Z"
   },
   {
     "guid": "/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c1-15351553",
@@ -1385,7 +1924,12 @@
           "domain": "https://gs24.pl/strona-kobiet/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:17.549Z"
   },
   {
     "guid": "/maka-wycofana-ze-sprzedazy-jej-spozycie-moze-byc-niebezpieczne-dla-zdrowia-najnowsze-ostrzezenie-gis/ar/c1-15169020",
@@ -1403,7 +1947,12 @@
           "domain": "https://gs24.pl/strefa-biznesu/"
         }
       }
-    ]
+    ],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:17.773Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
@@ -1414,7 +1963,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:17.980Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
@@ -1425,7 +1979,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:18.197Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
@@ -1436,7 +1995,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:18.409Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
@@ -1447,7 +2011,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:18.625Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
@@ -1458,7 +2027,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:18.840Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
@@ -1469,7 +2043,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:19.052Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
@@ -1480,7 +2059,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:19.260Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
@@ -1491,7 +2075,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:19.475Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
@@ -1502,7 +2091,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:19.685Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
@@ -1513,7 +2107,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:19.905Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
@@ -1524,7 +2123,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:20.128Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
@@ -1535,7 +2139,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:20.359Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
@@ -1546,7 +2155,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:20.574Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
@@ -1557,7 +2171,12 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:20.798Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
@@ -1568,6 +2187,11 @@
     "source": "Niebezpiecznik",
     "sourceCategory": "Security",
     "thumbnail": null,
-    "categories": []
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T00:57:21.019Z"
   }
 ]
