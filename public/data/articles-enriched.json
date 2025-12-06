@@ -13,13 +13,13 @@
     "location": null,
     "priority": 4,
     "keywords": [
-      "Amerykańsko-ukraińskie",
-      "Floryda",
       "rozmowy",
+      "Ukraina",
       "wojna",
-      "konstruktywne"
+      " Departament Stanu USA",
+      "Floryda"
     ],
-    "enriched_at": "2025-12-06T00:56:50.784Z"
+    "enriched_at": "2025-12-06T02:02:57.068Z"
   },
   {
     "guid": "2611181f-eaeb-4a89-8c61-606dd70a6449",
@@ -41,7 +41,7 @@
       "Niemcy",
       "Belgia"
     ],
-    "enriched_at": "2025-12-06T00:56:52.376Z"
+    "enriched_at": "2025-12-06T02:02:58.657Z"
   },
   {
     "guid": "62ac8733-38d8-4187-9db2-1faa7a795f5b",
@@ -59,11 +59,11 @@
     "keywords": [
       "Pegasus",
       "prokuratura",
-      "szef CBA",
-      "Ernest Bejda",
-      "gra polityczna"
+      "CBA",
+      "Bejda",
+      "politycznej"
     ],
-    "enriched_at": "2025-12-06T00:56:53.729Z"
+    "enriched_at": "2025-12-06T02:03:00.049Z"
   },
   {
     "guid": "bee7f7ed-b9a6-41c0-be6e-c2a74b89fb16",
@@ -76,16 +76,16 @@
     "thumbnail": "https://cdn.wiadomosci.onet.pl/1/XgFk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jM2E3ODNkNS01ZjA5LTRiMGItYjRkNS0zMTM0MzlhNzBhNzguanBlZ5KVAwDNATrNFB3NC1KTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "polityka",
-    "location": {},
+    "location": null,
     "priority": 2,
     "keywords": [
       "wybory",
-      "przewodniczącego",
+      "przewodniczący",
       "Koalicja Obywatelska",
       "termin",
-      "kandydaci"
+      "zgłaszać"
     ],
-    "enriched_at": "2025-12-06T00:56:55.435Z"
+    "enriched_at": "2025-12-06T02:03:01.851Z"
   },
   {
     "guid": "1a1ebb1d-3a57-4197-978f-3e0d04744e79",
@@ -101,7 +101,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:55.715Z"
+    "enriched_at": "2025-12-06T02:03:02.495Z"
   },
   {
     "guid": "c1a7dfd7-8670-4487-8243-de92085074b8",
@@ -117,7 +117,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:55.968Z"
+    "enriched_at": "2025-12-06T02:03:02.706Z"
   },
   {
     "guid": "996e3ee8-a120-4b56-b0c9-59299a2fabc0",
@@ -133,7 +133,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:56.220Z"
+    "enriched_at": "2025-12-06T02:03:02.919Z"
   },
   {
     "guid": "12f0af47-ca7e-4677-a57d-d80b06fce8b9",
@@ -149,7 +149,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:56.463Z"
+    "enriched_at": "2025-12-06T02:03:03.134Z"
   },
   {
     "guid": "248345c5-6859-4c33-b720-602afea1e29d",
@@ -165,7 +165,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:56.700Z"
+    "enriched_at": "2025-12-06T02:03:03.347Z"
   },
   {
     "guid": "b139ad8b-2328-4455-bb65-1405e32774d6",
@@ -181,7 +181,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:56.940Z"
+    "enriched_at": "2025-12-06T02:03:03.550Z"
   },
   {
     "guid": "6efd4bd3-e6f1-4145-9044-ea9d06b41384",
@@ -197,7 +197,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:57.176Z"
+    "enriched_at": "2025-12-06T02:03:03.741Z"
   },
   {
     "guid": "ca6a1e9f-df28-49b6-9dca-5f73cd83bede",
@@ -213,7 +213,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:57.412Z"
+    "enriched_at": "2025-12-06T02:03:03.936Z"
   },
   {
     "guid": "759a69ba-411a-4e99-9d94-9009f7e00f5a",
@@ -229,7 +229,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:57.649Z"
+    "enriched_at": "2025-12-06T02:03:04.137Z"
   },
   {
     "guid": "e814ad35-49b5-46e4-b3b0-bcc690090217",
@@ -245,7 +245,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:57.885Z"
+    "enriched_at": "2025-12-06T02:03:04.330Z"
   },
   {
     "guid": "39d7f3b7-b56b-4662-8bc4-e16a8301d840",
@@ -261,7 +261,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:58.120Z"
+    "enriched_at": "2025-12-06T02:03:04.540Z"
   },
   {
     "guid": "c5015413-4b0a-4e7e-8412-ba1618a790fb",
@@ -277,7 +277,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:58.340Z"
+    "enriched_at": "2025-12-06T02:03:04.735Z"
   },
   {
     "guid": "cf531062-10aa-490b-8d31-ddb583555133",
@@ -293,7 +293,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:58.576Z"
+    "enriched_at": "2025-12-06T02:03:04.922Z"
   },
   {
     "guid": "8136430d-00e6-4f09-8f3f-6e66f7ba79ad",
@@ -309,7 +309,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:58.813Z"
+    "enriched_at": "2025-12-06T02:03:05.115Z"
   },
   {
     "guid": "e79b5adc-2edc-441b-a0c1-846376332d53",
@@ -325,7 +325,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:59.038Z"
+    "enriched_at": "2025-12-06T02:03:05.306Z"
   },
   {
     "guid": "0814937a-a386-44c9-91a1-1d4a863abfb7",
@@ -341,7 +341,23 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:59.262Z"
+    "enriched_at": "2025-12-06T02:03:05.494Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-6-12-mikolajki-miejscami-przyda-sie-parasol-st8788054",
+    "title": "Pogoda na dziś - sobota, 6.12. W Mikołajki miejscami przyda się parasol",
+    "description": "Pogoda na dziś, czyli na sobotę, 6.12. W Mikołajki będzie pochmurno, miejscami spadnie deszcz. Na termometrach zobaczymy do 8 stopni.",
+    "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-6-12-mikolajki-miejscami-przyda-sie-parasol-st8788054?source=rss",
+    "publishedAt": "2025-12-06T01:00:00.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "inne",
+    "location": null,
+    "priority": 3,
+    "keywords": [],
+    "enriched_at": "2025-12-06T02:03:05.693Z"
   },
   {
     "guid": "https://tvn24.pl/swiat/frank-gehry-zmarl-w-wieku-96-lat-budynki-slynnego-architekta-sa-znane-na-calym-swiecie-st8788285",
@@ -357,7 +373,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:59.479Z"
+    "enriched_at": "2025-12-06T02:03:05.885Z"
   },
   {
     "guid": "https://tvn24.pl/polska/tak-sie-usmiecham-ale-sam-czuje-oddech-na-plecach-tusk-rozbawil-sale-st8788258",
@@ -373,7 +389,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:59.696Z"
+    "enriched_at": "2025-12-06T02:03:06.080Z"
   },
   {
     "guid": "https://tvn24.pl/fakty-artykuly/dzieci-porwane-z-ukrainy-trafiaja-do-jeszcze-gorszego-miejsca-niz-rosja-st8788096",
@@ -389,7 +405,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:56:59.913Z"
+    "enriched_at": "2025-12-06T02:03:06.271Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-5-6-12-gesta-mgla-tu-pogoda-sprawi-klopoty-imgw-ostrzega-st8787738",
@@ -405,7 +421,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:00.140Z"
+    "enriched_at": "2025-12-06T02:03:06.469Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-losowania-z-5-grudnia-2025-padla-glowna-wygrana-liczby-i-wygrane-st8788215",
@@ -421,7 +437,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:00.362Z"
+    "enriched_at": "2025-12-06T02:03:06.652Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nocna-cisza-alkoholowa-pierwsze-statystyki-strazy-miejskiej-st8788200",
@@ -437,7 +453,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:00.591Z"
+    "enriched_at": "2025-12-06T02:03:06.822Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/nauka/epidemia-dzumy-co-doprowadzilo-do-czarnej-smierci-zaskakujace-ustalenia-naukowcow-st8788194",
@@ -453,7 +469,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:00.825Z"
+    "enriched_at": "2025-12-06T02:03:07.004Z"
   },
   {
     "guid": "https://tvn24.pl/polska/wojna-w-ukrainie-profesor-robert-galazkowski-o-dzialaniach-polskich-mediow-i-pomocy-rannym-ukraincom-st8788205",
@@ -469,7 +485,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:01.044Z"
+    "enriched_at": "2025-12-06T02:03:07.184Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-najlepsze-miasto-swiata-opera-o-warszawie-za-darmo-w-internecie-st8788248",
@@ -485,7 +501,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:01.258Z"
+    "enriched_at": "2025-12-06T02:03:07.371Z"
   },
   {
     "guid": "https://tvn24.pl/polska/uchwala-dwoch-izb-sadu-najwyzszego-ministerstwo-sprawiedliwosci-prawnie-wadliwa-i-niewiazaca-st8788113",
@@ -501,7 +517,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:01.487Z"
+    "enriched_at": "2025-12-06T02:03:07.552Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/ze-swiata/media-calkowite-i-krytyczne-uzaleznienie-rosji-od-chin-st8788133",
@@ -517,7 +533,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:01.703Z"
+    "enriched_at": "2025-12-06T02:03:07.739Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/ursynow/ursynow-ursynoteka-z-drewna-i-z-trawa-na-dachu-wyniki-konkursu-na-projekt-nowej-biblioteki-st8787970",
@@ -533,7 +549,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:01.920Z"
+    "enriched_at": "2025-12-06T02:03:07.945Z"
   },
   {
     "guid": "https://tvn24.pl/polska/czarzasty-wystartuje-popatrzyl-mi-gleboko-w-oczy-i-wszystko-bylo-juz-jasne-st8788189",
@@ -549,7 +565,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:02.135Z"
+    "enriched_at": "2025-12-06T02:03:08.127Z"
   },
   {
     "guid": "https://tvn24.pl/polska/ustawa-o-kryptoaktywach-podtrzymane-weto-donald-tusk-na-radzie-krajowej-ko-beda-bardzo-zalowali-tej-decyzji-st8788110",
@@ -565,7 +581,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:02.360Z"
+    "enriched_at": "2025-12-06T02:03:08.302Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-6-12-mikolajki-noc-bedzie-pochmurna-miejscami-deszczowa-st8787932",
@@ -581,7 +597,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:02.587Z"
+    "enriched_at": "2025-12-06T02:03:08.474Z"
   },
   {
     "guid": "https://tvn24.pl/szczecin/szczecin-czolowe-zderzenie-karetki-z-samochodem-zolnierz-z-wyrokiem-st8787995",
@@ -597,7 +613,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:02.801Z"
+    "enriched_at": "2025-12-06T02:03:08.653Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/handel/goracy-okres-dla-branzy-handlowej-czas-pelnej-gotowosci-st8788064",
@@ -613,7 +629,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:03.013Z"
+    "enriched_at": "2025-12-06T02:03:08.829Z"
   },
   {
     "guid": "https://tvn24.pl/poznan/poznan-odglosy-wybuchow-na-torach-i-akcja-sluzb-na-przejezdzie-zatrzymany-43-latek-st8787645",
@@ -629,7 +645,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:03.227Z"
+    "enriched_at": "2025-12-06T02:03:09.000Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-pociagi-km-nie-zatrzymaja-sie-na-przystanku-ursus-polnocny-st8788093",
@@ -645,7 +661,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:03.441Z"
+    "enriched_at": "2025-12-06T02:03:09.170Z"
   },
   {
     "guid": "https://tvn24.pl/swiat/francja-drony-nad-baza-wojskowa-z-okretami-podwodnymi-z-napedem-atomowym-wojsko-oddalo-strzaly-st8787872",
@@ -661,23 +677,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:03.661Z"
-  },
-  {
-    "guid": "https://tvn24.pl/tvnmeteo/swiat/francja-silna-burza-przyniosla-zniszczenia-traba-powietrzna-uszkodzila-dom-ulewa-zawalila-budynek-st8788051",
-    "title": "Groźna pogoda we Francji. Trąba powietrzna uszkodziła dom",
-    "description": "Południowo-zachodnią Francję nawiedziły silne burze. Krajowe media donoszą o trąbie powietrznej, która spowodowała poważne szkody. Ponadto w wyniku ulewy zawalił się niezamieszkany budynek. W usuwaniu szkód uczestniczyło około 100 strażaków.",
-    "url": "https://tvn24.pl/tvnmeteo/swiat/francja-silna-burza-przyniosla-zniszczenia-traba-powietrzna-uszkodzila-dom-ulewa-zawalila-budynek-st8788051?source=rss",
-    "publishedAt": "2025-12-05T18:05:36.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "inne",
-    "location": null,
-    "priority": 3,
-    "keywords": [],
-    "enriched_at": "2025-12-06T00:57:03.890Z"
+    "enriched_at": "2025-12-06T02:03:09.347Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567595",
@@ -696,7 +696,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:04.112Z"
+    "enriched_at": "2025-12-06T02:03:09.525Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568640",
@@ -715,7 +715,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:04.339Z"
+    "enriched_at": "2025-12-06T02:03:09.691Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568635",
@@ -734,7 +734,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:04.568Z"
+    "enriched_at": "2025-12-06T02:03:09.860Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568628",
@@ -754,7 +754,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:04.785Z"
+    "enriched_at": "2025-12-06T02:03:10.038Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568597",
@@ -772,7 +772,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:05.010Z"
+    "enriched_at": "2025-12-06T02:03:10.210Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568622",
@@ -792,7 +792,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:05.240Z"
+    "enriched_at": "2025-12-06T02:03:10.385Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568617",
@@ -811,7 +811,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:05.455Z"
+    "enriched_at": "2025-12-06T02:03:10.544Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568601",
@@ -831,7 +831,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:05.666Z"
+    "enriched_at": "2025-12-06T02:03:10.705Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567778",
@@ -850,7 +850,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:05.883Z"
+    "enriched_at": "2025-12-06T02:03:10.868Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568591",
@@ -868,7 +868,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:06.116Z"
+    "enriched_at": "2025-12-06T02:03:11.076Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568472",
@@ -887,7 +887,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:06.338Z"
+    "enriched_at": "2025-12-06T02:03:11.246Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568524",
@@ -905,7 +905,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:06.550Z"
+    "enriched_at": "2025-12-06T02:03:11.406Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568471",
@@ -923,7 +923,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:06.768Z"
+    "enriched_at": "2025-12-06T02:03:11.570Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568299",
@@ -942,7 +942,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:06.980Z"
+    "enriched_at": "2025-12-06T02:03:11.744Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568469",
@@ -960,7 +960,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:07.199Z"
+    "enriched_at": "2025-12-06T02:03:11.914Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568456",
@@ -978,7 +978,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:07.418Z"
+    "enriched_at": "2025-12-06T02:03:12.083Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1564214",
@@ -997,7 +997,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:07.628Z"
+    "enriched_at": "2025-12-06T02:03:12.251Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567596",
@@ -1016,7 +1016,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:07.840Z"
+    "enriched_at": "2025-12-06T02:03:12.415Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567903",
@@ -1035,7 +1035,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:08.049Z"
+    "enriched_at": "2025-12-06T02:03:12.583Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568470",
@@ -1053,7 +1053,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:08.262Z"
+    "enriched_at": "2025-12-06T02:03:12.754Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567760",
@@ -1072,7 +1072,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:08.476Z"
+    "enriched_at": "2025-12-06T02:03:12.910Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567758",
@@ -1091,7 +1091,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:08.689Z"
+    "enriched_at": "2025-12-06T02:03:13.084Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568370",
@@ -1110,7 +1110,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:08.912Z"
+    "enriched_at": "2025-12-06T02:03:13.244Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568148",
@@ -1128,7 +1128,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:09.127Z"
+    "enriched_at": "2025-12-06T02:03:13.407Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568362",
@@ -1148,7 +1148,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:09.351Z"
+    "enriched_at": "2025-12-06T02:03:13.572Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568333",
@@ -1166,7 +1166,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:09.573Z"
+    "enriched_at": "2025-12-06T02:03:13.746Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568357",
@@ -1186,7 +1186,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:09.782Z"
+    "enriched_at": "2025-12-06T02:03:13.904Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568330",
@@ -1207,7 +1207,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:10.006Z"
+    "enriched_at": "2025-12-06T02:03:14.074Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568316",
@@ -1227,7 +1227,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:10.215Z"
+    "enriched_at": "2025-12-06T02:03:14.243Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568303",
@@ -1246,7 +1246,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:10.439Z"
+    "enriched_at": "2025-12-06T02:03:14.397Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568300",
@@ -1264,7 +1264,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:10.654Z"
+    "enriched_at": "2025-12-06T02:03:14.560Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1566272",
@@ -1282,7 +1282,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:10.865Z"
+    "enriched_at": "2025-12-06T02:03:14.727Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568170",
@@ -1301,7 +1301,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:11.072Z"
+    "enriched_at": "2025-12-06T02:03:14.886Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567676",
@@ -1321,7 +1321,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:11.288Z"
+    "enriched_at": "2025-12-06T02:03:15.046Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568526",
@@ -1342,7 +1342,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:11.507Z"
+    "enriched_at": "2025-12-06T02:03:15.200Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1566507",
@@ -1361,7 +1361,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:11.723Z"
+    "enriched_at": "2025-12-06T02:03:15.362Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568165",
@@ -1380,7 +1380,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:11.941Z"
+    "enriched_at": "2025-12-06T02:03:15.526Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567948",
@@ -1398,7 +1398,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:12.158Z"
+    "enriched_at": "2025-12-06T02:03:15.694Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568197",
@@ -1416,7 +1416,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:12.371Z"
+    "enriched_at": "2025-12-06T02:03:15.859Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567762",
@@ -1435,7 +1435,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:12.591Z"
+    "enriched_at": "2025-12-06T02:03:16.027Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568093",
@@ -1455,7 +1455,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:12.802Z"
+    "enriched_at": "2025-12-06T02:03:16.200Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568164",
@@ -1474,7 +1474,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:13.020Z"
+    "enriched_at": "2025-12-06T02:03:16.371Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567729",
@@ -1493,7 +1493,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:13.239Z"
+    "enriched_at": "2025-12-06T02:03:16.537Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568114",
@@ -1513,7 +1513,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:13.461Z"
+    "enriched_at": "2025-12-06T02:03:16.698Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1554728",
@@ -1531,7 +1531,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:13.675Z"
+    "enriched_at": "2025-12-06T02:03:16.859Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568112",
@@ -1551,7 +1551,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:13.892Z"
+    "enriched_at": "2025-12-06T02:03:17.018Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568090",
@@ -1571,7 +1571,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:14.122Z"
+    "enriched_at": "2025-12-06T02:03:17.185Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568087",
@@ -1590,7 +1590,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:14.349Z"
+    "enriched_at": "2025-12-06T02:03:17.352Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568082",
@@ -1609,7 +1609,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:14.564Z"
+    "enriched_at": "2025-12-06T02:03:17.506Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1567994",
@@ -1630,7 +1630,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:14.772Z"
+    "enriched_at": "2025-12-06T02:03:17.655Z"
   },
   {
     "guid": "/z-wizyta-w-rodzinnym-domu-zenka-martyniuka-tu-spedzil-mlodosc-i-zawsze-chetnie-wraca/ar/c1-15600661",
@@ -1653,7 +1653,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:14.984Z"
+    "enriched_at": "2025-12-06T02:03:17.813Z"
   },
   {
     "guid": "/najdrozsze-koty-w-polsce-sprawdzilismy-ceny-unikatowych-ras-na-olx-ile-dzis-kosztuje-luksusowy-pupil/ar/c8-17839213",
@@ -1676,7 +1676,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:15.201Z"
+    "enriched_at": "2025-12-06T02:03:17.981Z"
   },
   {
     "guid": "/bialystok-w-latach-19101943-na-wyjatkowych-pocztowkach-i-zdjeciach-znalezionych-na-ebayu-zobacz-unikalne-archiwalne-fotografie/ar/c1-17044769",
@@ -1699,7 +1699,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:15.419Z"
+    "enriched_at": "2025-12-06T02:03:18.148Z"
   },
   {
     "guid": "/plaza-nudystow-nad-zalewem-sulejowskim-dzika-plaza-naturystow-w-swolszewicach-nad-zalewem-sulejowskim-robi-sie-bardzo-popularna/ar/c6-13410756",
@@ -1722,7 +1722,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:15.632Z"
+    "enriched_at": "2025-12-06T02:03:18.346Z"
   },
   {
     "guid": "/odszkodowanie-za-karambol-kto-dostanie-pieniadze-wystarczy-sama-polisa-oc/ar/c4-17245683",
@@ -1745,7 +1745,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:15.839Z"
+    "enriched_at": "2025-12-06T02:03:18.511Z"
   },
   {
     "guid": "/skutki-niedoboru-magnezu-niedobor-magnezu-objawy-i-przyczyny-jak-mozna-szybko-uzupelnic-magnez-w-organizmie/ar/c1-15907161",
@@ -1768,7 +1768,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:16.045Z"
+    "enriched_at": "2025-12-06T02:03:18.671Z"
   },
   {
     "guid": "/co-zrobic-zeby-scieta-choinka-nie-gubila-igiel-sprawdz-najlepsze-domowe-triki-jak-przedluzyc-trwalosc-swiatecznego-drzewka/ar/c9-17142679",
@@ -1791,7 +1791,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:16.256Z"
+    "enriched_at": "2025-12-06T02:03:18.842Z"
   },
   {
     "guid": "/lubisz-buraki-sprawdz-efekty-picia-soku-z-buraka-burak-jest-bogaty-w-mikroelementy-i-witaminy/ar/c1-15895149",
@@ -1814,7 +1814,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:16.470Z"
+    "enriched_at": "2025-12-06T02:03:19.008Z"
   },
   {
     "guid": "/jak-walczyc-z-bezsennoscia-sprawdzone-sposoby-na-bezsennosc-poradnik-dla-majacych-problemy-z-zasypianiem-dzieki-temu-szybciej/ar/c14-15874845",
@@ -1837,7 +1837,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:16.685Z"
+    "enriched_at": "2025-12-06T02:03:19.170Z"
   },
   {
     "guid": "/kto-zna-historie-tego-obiektu-na-pomorzu-zachowalo-sie-tylko-jedno-stare-zdjecie/ar/c1-17180905",
@@ -1860,7 +1860,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:16.899Z"
+    "enriched_at": "2025-12-06T02:03:19.336Z"
   },
   {
     "guid": "/kto-wymyslil-andrzejki-bez-wrozb-traca-swoja-magie-to-wyjatkowa-noc/ar/c13-15317108",
@@ -1883,7 +1883,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:17.121Z"
+    "enriched_at": "2025-12-06T02:03:19.490Z"
   },
   {
     "guid": "/absolutnie-nie-odbieraj-tych-polaczen-z-tych-numerow-dzwonia-oszusci-stracisz-pieniadze-29112025/ar/c1-18976655",
@@ -1906,7 +1906,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:17.333Z"
+    "enriched_at": "2025-12-06T02:03:19.650Z"
   },
   {
     "guid": "/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c1-15351553",
@@ -1929,7 +1929,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:17.549Z"
+    "enriched_at": "2025-12-06T02:03:19.805Z"
   },
   {
     "guid": "/maka-wycofana-ze-sprzedazy-jej-spozycie-moze-byc-niebezpieczne-dla-zdrowia-najnowsze-ostrzezenie-gis/ar/c1-15169020",
@@ -1952,7 +1952,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:17.773Z"
+    "enriched_at": "2025-12-06T02:03:19.973Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
@@ -1968,7 +1968,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:17.980Z"
+    "enriched_at": "2025-12-06T02:03:20.141Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
@@ -1984,7 +1984,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:18.197Z"
+    "enriched_at": "2025-12-06T02:03:20.317Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
@@ -2000,7 +2000,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:18.409Z"
+    "enriched_at": "2025-12-06T02:03:20.485Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
@@ -2016,7 +2016,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:18.625Z"
+    "enriched_at": "2025-12-06T02:03:20.647Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
@@ -2032,7 +2032,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:18.840Z"
+    "enriched_at": "2025-12-06T02:03:20.807Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
@@ -2048,7 +2048,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:19.052Z"
+    "enriched_at": "2025-12-06T02:03:20.987Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
@@ -2064,7 +2064,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:19.260Z"
+    "enriched_at": "2025-12-06T02:03:21.162Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
@@ -2080,7 +2080,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:19.475Z"
+    "enriched_at": "2025-12-06T02:03:21.323Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
@@ -2096,7 +2096,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:19.685Z"
+    "enriched_at": "2025-12-06T02:03:21.480Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
@@ -2112,7 +2112,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:19.905Z"
+    "enriched_at": "2025-12-06T02:03:21.643Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
@@ -2128,7 +2128,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:20.128Z"
+    "enriched_at": "2025-12-06T02:03:21.806Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
@@ -2144,7 +2144,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:20.359Z"
+    "enriched_at": "2025-12-06T02:03:21.976Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
@@ -2160,7 +2160,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:20.574Z"
+    "enriched_at": "2025-12-06T02:03:22.143Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
@@ -2176,7 +2176,7 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:20.798Z"
+    "enriched_at": "2025-12-06T02:03:22.305Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
@@ -2192,6 +2192,6 @@
     "location": null,
     "priority": 3,
     "keywords": [],
-    "enriched_at": "2025-12-06T00:57:21.019Z"
+    "enriched_at": "2025-12-06T02:03:22.454Z"
   }
 ]
