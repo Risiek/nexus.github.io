@@ -7,7 +7,16 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "fetch:rss": "node scripts/fetch-rss.js",
+    "enrich:news": "node scripts/enrich-news.js",
+    "fetch:market": "node scripts/fetch-market.js",
+    "fetch:conflicts": "node scripts/fetch-conflicts.js",
+    "enrich:conflicts": "node scripts/enrich-conflicts.js",
+    "build:database": "npm run fetch:rss && npm run enrich:news && node scripts/build-database.js",
+    "build:conflicts": "npm run fetch:conflicts && npm run enrich:conflicts",
+    "ai:monitor": "node scripts/ai-monitor.js",
+    "ai:status": "node scripts/ai-monitor.js"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
@@ -21,6 +30,8 @@
     "better-sqlite3": "^12.5.0",
     "gsap": "^3.13.0",
     "rss-parser": "^3.13.0",
+    "sql.js": "^1.13.0",
+    "sql.js-httpvfs": "^0.8.12",
     "three": "^0.181.2",
     "topojson-client": "^3.1.0",
     "world-atlas": "^2.0.2"

@@ -1,22 +1,12 @@
 // scripts/enrich-news.js
-// AI-powered news enrichment using Gemini 2.5 Flash-Lite
+// AI-powered news enrichment using Gemini 2.5 Flash-Lite + Intelligent Queue System
 import fs from 'fs';
 import path from 'path';
+import AIQueue from '../lib/ai-queue.js';
+import GeminiService from '../lib/gemini-service.js';
+import BatchProcessor from '../lib/batch-processor.js';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-
-const CATEGORIES = [
-  'polityka',
-  'wojna / konflikty',
-  'kryzysy',
-  'nauka',
-  'gospodarka',
-  'zdrowie',
-  'globalne incydenty',
-  'bezpieczeństwo cyfrowe',
-  'katastrofy naturalne',
-  'inne'
-];
 
 function ensureDataDir(rootDir) {
   const dataDir = path.join(rootDir, 'public', 'data');
@@ -26,92 +16,13 @@ function ensureDataDir(rootDir) {
   return dataDir;
 }
 
-async function callGemini(prompt) {
-  if (!GEMINI_API_KEY) {
-    return null;
-  }
-
-  try {
-    const resp = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${GEMINI_API_KEY}`,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-        }),
-      }
-    );
-
-    if (!resp.ok) {
-      console.error(`Gemini API error: ${resp.status}`);
-      return null;
-    }
-
-    const json = await resp.json();
-    if (json.candidates && json.candidates[0]) {
-      return json.candidates[0].content.parts[0].text;
-    }
-  } catch (err) {
-    console.error('Gemini request failed:', err.message);
-  }
-  return null;
-}
-
-async function enrichArticle(article) {
-  const { title, description } = article;
-  const text = `${title}. ${description || ''}`.slice(0, 500);
-
-  // 1. Kategoria
-  const categoryPrompt = `Classify this news into ONE category only. Categories: ${CATEGORIES.join(', ')}. News: "${text}". Answer ONLY with category name, nothing else.`;
-  const category = await callGemini(categoryPrompt);
-
-  // 2. Geokodowanie (miasto, region, kraj)
-  const geoPrompt = `Extract location from this news. Return JSON with: {city, region, country, lat, lon}. If no specific location, return empty. News: "${text}". Answer ONLY with valid JSON, nothing else.`;
-  const geoRaw = await callGemini(geoPrompt);
-  let location = null;
-  if (geoRaw) {
-    try {
-      location = JSON.parse(geoRaw);
-    } catch {
-      location = null;
-    }
-  }
-
-  // 3. Priority (1-5, where 5 is most important)
-  const priorityPrompt = `Rate importance of this news on scale 1-5 (1=local, 5=critical global event). Consider: tone, keywords, topic. News: "${text}". Answer ONLY with number 1-5.`;
-  const priorityRaw = await callGemini(priorityPrompt);
-  const priority = priorityRaw ? parseInt(priorityRaw, 10) : 3;
-
-  // 4. Keywords
-  const keywordsPrompt = `Extract 3-5 key words from this news as JSON array. News: "${text}". Answer ONLY with JSON array like ["word1", "word2"], nothing else.`;
-  const keywordsRaw = await callGemini(keywordsPrompt);
-  let keywords = [];
-  if (keywordsRaw) {
-    try {
-      keywords = JSON.parse(keywordsRaw);
-    } catch {
-      keywords = [];
-    }
-  }
-
-  return {
-    ...article,
-    category: (category || 'inne').trim(),
-    location,
-    priority: Math.max(1, Math.min(5, priority)),
-    keywords: Array.isArray(keywords) ? keywords : [],
-    enriched_at: new Date().toISOString(),
-  };
-}
-
-async function deduplicateArticles(articles) {
-  // Simple deduplication: group by normalized title + source
+function deduplicateArticles(articles) {
+  // Simple deduplication: group by normalized title
   const seen = new Map();
   const deduped = [];
 
   for (const article of articles) {
-    const key = `${article.title.toLowerCase().slice(0, 50)}|${article.source}`;
+    const key = `${article.title.toLowerCase()}|${article.source}`;
     if (!seen.has(key)) {
       seen.set(key, article);
       deduped.push(article);
@@ -121,58 +32,134 @@ async function deduplicateArticles(articles) {
   return deduped;
 }
 
+function assignPriority(article) {
+  // Rule-based priority assignment (before AI)
+  const now = Date.now();
+  const pubTime = new Date(article.publishedAt).getTime();
+  const hoursOld = (now - pubTime) / (1000 * 60 * 60);
+
+  if (hoursOld < 0.17) {
+    // <10 min = Priority 1 (breaking)
+    return 1;
+  } else if (hoursOld < 24) {
+    // <24h = Priority 2
+    return 2;
+  } else {
+    // >24h = Priority 3
+    return 3;
+  }
+}
+
 async function main() {
+  if (!GEMINI_API_KEY) {
+    console.error('❌ GEMINI_API_KEY not set. Set it in environment variables.');
+    process.exit(1);
+  }
+
   const rootDir = process.cwd();
   const dataDir = ensureDataDir(rootDir);
   const articlesPath = path.join(dataDir, 'articles.json');
   const enrichedPath = path.join(dataDir, 'articles-enriched.json');
 
   if (!fs.existsSync(articlesPath)) {
-    console.error(`Articles file not found: ${articlesPath}`);
+    console.error(`❌ Articles file not found: ${articlesPath}`);
     process.exit(1);
   }
 
+  // Load articles
   const articles = JSON.parse(fs.readFileSync(articlesPath, 'utf-8'));
-  console.log(`📰 Enriching ${articles.length} articles with AI...\n`);
+  console.log(`\n📰 Enriching ${articles.length} articles with AI Queue System...\n`);
 
-  // Deduplicate first
-  const deduped = await deduplicateArticles(articles);
-  if (deduped.length < articles.length) {
-    console.log(`   🗑️  Removed ${articles.length - deduped.length} duplicates`);
-  }
+  // Deduplicate
+  const deduped = deduplicateArticles(articles);
+  console.log(`   🗑️  Deduped: ${articles.length} → ${deduped.length} articles\n`);
 
-  // Enrich each article
+  // Initialize AI systems
+  const aiQueue = new AIQueue({
+    maxRPM: 15,
+    maxRPD: 900,
+    maxTokensPerDay: 250000,
+  });
+
+  const geminiService = new GeminiService(GEMINI_API_KEY);
+  const batchProcessor = new BatchProcessor(geminiService, aiQueue);
+
+  // Sort by priority (breaking news first)
+  const byPriority = {
+    1: deduped.filter((a) => assignPriority(a) === 1),
+    2: deduped.filter((a) => assignPriority(a) === 2),
+    3: deduped.filter((a) => assignPriority(a) === 3),
+  };
+
+  console.log(`   📊 By priority: P1=${byPriority[1].length}, P2=${byPriority[2].length}, P3=${byPriority[3].length}\n`);
+
   const enriched = [];
-  for (let i = 0; i < deduped.length; i++) {
-    const article = deduped[i];
-    const enriched_article = await enrichArticle(article);
-    enriched.push(enriched_article);
 
-    if ((i + 1) % 5 === 0) {
-      console.log(`   ✓ Enriched ${i + 1}/${deduped.length}`);
-    }
+  // Process by priority (breaking news first)
+  for (const priority of [1, 2, 3]) {
+    const articlesToProcess = byPriority[priority];
+    if (articlesToProcess.length === 0) continue;
+
+    console.log(`\n🚀 PRIORITY ${priority} (${articlesToProcess.length} articles):\n`);
+
+    // Step 1: Categorize
+    const categorized = await batchProcessor.categorizeArticles(articlesToProcess, {
+      batchSize: priority === 1 ? 5 : 10, // Smaller batches for breaking news
+      priority,
+    });
+
+    // Step 2: Extract locations
+    const withLocations = await batchProcessor.extractLocations(categorized, {
+      batchSize: priority === 1 ? 5 : 10,
+      priority,
+    });
+
+    // Step 3: Summarize
+    const withSummaries = await batchProcessor.summarizeArticles(withLocations, {
+      batchSize: priority === 1 ? 3 : 5,
+      priority,
+    });
+
+    // Add enrichment metadata
+    const enrichedBatch = withSummaries.map((article) => ({
+      ...article,
+      priority: priority * 2, // Convert to 2-6 scale for importance
+      enriched_at: new Date().toISOString(),
+    }));
+
+    enriched.push(...enrichedBatch);
   }
 
   // Save enriched articles
   fs.writeFileSync(enrichedPath, JSON.stringify(enriched, null, 2));
   console.log(`\n✅ Enriched articles saved to ${enrichedPath}`);
 
-  // Statistics
+  // Print statistics
+  console.log('\n' + '='.repeat(50));
+  aiQueue.printStatus();
+  console.log('\n' + '='.repeat(50));
+  geminiService.printStats();
+  console.log('\n' + '='.repeat(50));
+
+  // Category distribution
   const categoryCounts = enriched.reduce((acc, a) => {
     acc[a.category] = (acc[a.category] || 0) + 1;
     return acc;
   }, {});
 
-  console.log('\n📊 Category distribution:');
-  Object.entries(categoryCounts).forEach(([cat, count]) => {
-    console.log(`   ${cat}: ${count}`);
-  });
+  console.log('\n📊 Category Distribution:');
+  Object.entries(categoryCounts)
+    .sort((a, b) => b[1] - a[1])
+    .forEach(([cat, count]) => {
+      const percentage = ((count / enriched.length) * 100).toFixed(1);
+      console.log(`   ${cat}: ${count} (${percentage}%)`);
+    });
 
-  const avgPriority = (enriched.reduce((sum, a) => sum + a.priority, 0) / enriched.length).toFixed(1);
-  console.log(`\n📈 Average priority: ${avgPriority}`);
+  console.log('\n✨ Enrichment complete!');
 }
 
 main().catch((err) => {
-  console.error('❌ Enrichment failed:', err.message);
+  console.error('\n❌ Enrichment failed:', err.message);
+  console.error(err);
   process.exit(1);
 });

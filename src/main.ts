@@ -1,6 +1,7 @@
 import './style.css'
 import { NexusDashboard } from './dashboard.ts'
 import { ArticleDetail } from './article-detail.ts'
+import ConflictMonitor from './conflict-monitor.ts'
 import { ArticlesService } from './services/articles'
 
 const app = document.querySelector<HTMLDivElement>('#app')
@@ -25,6 +26,10 @@ async function initializeApp() {
     // Show dashboard
     const dashboard = new NexusDashboard(app);
     await dashboard.render();
+
+    // Initialize conflict monitor
+    const conflictMonitor = new ConflictMonitor();
+    await conflictMonitor.populate();
   }
 }
 

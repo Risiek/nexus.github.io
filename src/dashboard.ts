@@ -21,7 +21,7 @@ export class NexusDashboard {
     this.container.innerHTML = this.getTemplate()
     this.setupEventListeners()
     this.initMap()
-    this.populateArticles()
+    await this.populateArticles()
   }
 
   private initMap(): void {
@@ -239,43 +239,10 @@ export class NexusDashboard {
                     </div>
 
                     <!-- Conflict Monitor -->
-                    <div class="space-y-4">
+                    <div id="conflict-monitor" class="space-y-4">
                         <h3 class="text-sm font-medium flex items-center gap-2 text-neutral-200 mb-2">⚠️ Monitor konfliktów</h3>
-
-                        <div class="bg-neutral-925/50 border rounded-lg overflow-hidden border-neutral-800">
-                            <div class="p-4 border-b border-neutral-800 bg-red-900/5">
-                                <div class="flex items-center gap-2 mb-1">
-                                    <span class="w-1.5 h-1.5 bg-red-500 rounded-full animate-pulse"></span>
-                                    <span class="text-[10px] font-bold uppercase tracking-widest text-red-400">Aktualizacja Ukrainy</span>
-                                </div>
-                                <h4 class="text-sm font-medium text-neutral-200">Nasilona działalność w obwodzie charkowskim</h4>
-                            </div>
-                            <div class="p-3 bg-neutral-950">
-                                <div class="relative pl-3 border-l space-y-4 border-neutral-800">
-                                    <div class="relative">
-                                        <div class="absolute -left-[17px] top-1 w-2 h-2 rounded-full border bg-neutral-800 border-neutral-600"></div>
-                                        <p class="text-[10px] text-neutral-500 mb-0.5">10:45</p>
-                                        <p class="text-xs text-neutral-300">Konwój pomocy dociera do strefy krytycznej w pobliżu linii frontu.</p>
-                                    </div>
-                                    <div class="relative">
-                                        <div class="absolute -left-[17px] top-1 w-2 h-2 rounded-full border bg-neutral-800 border-neutral-600"></div>
-                                        <p class="text-[10px] text-neutral-500 mb-0.5">09:12</p>
-                                        <p class="text-xs text-neutral-300">Infrastruktura strategiczna pozostaje nieuszkodzona pomimo nocnych ostrzałów.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="bg-neutral-925 border rounded-lg p-4 border-neutral-800">
-                            <span class="text-[10px] font-bold uppercase tracking-widest text-orange-400">Bliski Wschód</span>
-                            <h4 class="text-sm font-medium mb-1 text-neutral-300 mt-2">Rozmowy dyplomatyczne utknęły w Kairze</h4>
-                            <div class="w-full h-1 mt-3 rounded-full overflow-hidden bg-neutral-800">
-                                <div class="bg-orange-500 h-full w-[40%]"></div>
-                            </div>
-                            <div class="flex justify-between mt-1">
-                                <span class="text-[9px] text-neutral-600">Poziom napięcia</span>
-                                <span class="text-[9px] text-orange-400">Wysoki</span>
-                            </div>
+                        <div class="bg-neutral-925/50 border rounded-lg p-4 text-center border-neutral-800">
+                            <p class="text-xs text-neutral-500">Ładowanie danych...</p>
                         </div>
                     </div>
 
@@ -358,20 +325,18 @@ export class NexusDashboard {
     window.location.hash = '#article/' + guid;
   }
 
-  private populateArticles(): void {
+  private async populateArticles(): Promise<void> {
     if (this.articles.length === 0) {
       console.warn('No articles loaded');
       return;
     }
 
     // Get top articles sorted by priority/date
-    const topArticles = this.articlesService.getTopArticles(5);
-    const politicsArticles = this.articles
-      .filter((a) => {
-        const cat = (a.category || a.sourceCategory || 'inne').toLowerCase();
-        return cat.includes('polityka') || cat.includes('społeczeństwo') || cat.includes('gospodarka');
-      })
-      .slice(0, 3);
+    const topArticles = await this.articlesService.getTopArticles(1);  // Best article for featured
+    
+    // Get last 4 political/social articles
+    const politicsArticles = await this.articlesService.getArticlesByCategory('polityka');
+    const politicsSliced = politicsArticles.slice(0, 4);
 
     // Populate featured story (first top article)
     if (topArticles.length > 0) {
@@ -379,10 +344,11 @@ export class NexusDashboard {
     }
 
     // Populate politics section
-    this.populateSectionArticles('politics-articles', politicsArticles);
+    this.populateSectionArticles('politics-articles', politicsSliced);
 
-    // Update ticker
-    this.updateTicker(topArticles);
+    // Update ticker with top 5
+    const ticker = await this.articlesService.getTopArticles(5);
+    this.updateTicker(ticker);
   }
 
   private populateFeaturedStory(article: Article): void {
@@ -390,12 +356,13 @@ export class NexusDashboard {
     if (!featuredContainer) return;
 
     const timeAgo = this.getTimeAgo(article.publishedAt);
+    const category = article.category || article.sourceCategory || 'Wiadomość';
 
     featuredContainer.innerHTML = `
       <div class="article-card cursor-pointer transition" data-guid="${article.guid}">
         <div>
           <div class="flex items-center gap-2 mb-4">
-            <span class="bg-indigo-500/10 border border-indigo-500/20 text-[10px] font-semibold px-2 py-0.5 rounded uppercase tracking-wider text-indigo-400">Wiadomość</span>
+            <span class="bg-indigo-500/10 border border-indigo-500/20 text-[10px] font-semibold px-2 py-0.5 rounded uppercase tracking-wider text-indigo-400">${category}</span>
             <span class="text-[10px] text-neutral-500 font-medium">${timeAgo}</span>
           </div>
           <h2 class="text-xl font-medium leading-snug tracking-tight mb-3 text-neutral-100">${article.title}</h2>
@@ -415,18 +382,27 @@ export class NexusDashboard {
     const container = this.container.querySelector('#' + containerId);
     if (!container) return;
 
+    if (articles.length === 0) {
+      container.innerHTML = '<div class="bg-neutral-925 border rounded-lg p-5 text-xs text-neutral-500 border-neutral-800">Brak artykułów w tej kategorii</div>';
+      return;
+    }
+
     container.innerHTML = articles.map((article) => {
       const category = article.category || article.sourceCategory || 'Inne';
       const categoryColor = this.getCategoryColor(category);
+      const timeAgo = this.getTimeAgo(article.publishedAt);
 
       return `
         <div class="article-card bg-neutral-925 border rounded-lg p-5 transition group cursor-pointer border-neutral-800 hover:bg-neutral-900" data-guid="${article.guid}">
           <div class="flex justify-between items-start mb-2">
             <span class="text-[10px] font-semibold uppercase tracking-widest ${categoryColor}">${category}</span>
-            <span class="text-neutral-500">↗</span>
+            <span class="text-[10px] text-neutral-500">${timeAgo}</span>
           </div>
-          <h4 class="text-base font-medium tracking-tight mb-1 group-hover:text-indigo-300 transition-colors text-neutral-200">${article.title}</h4>
+          <h4 class="text-base font-medium tracking-tight mb-2 group-hover:text-indigo-300 transition-colors text-neutral-200">${article.title}</h4>
           <p class="text-xs text-neutral-500 line-clamp-2">${article.description || 'Brak opisu'}</p>
+          <div class="mt-3 pt-3 border-t border-neutral-800/50">
+            <span class="text-[10px] text-neutral-600">📰 ${article.source}</span>
+          </div>
         </div>
       `;
     }).join('');

@@ -13,7 +13,7 @@ export class ArticleDetail {
   }
 
   public async render(guid: string): Promise<void> {
-    this.article = this.service.getArticleByGuid(guid) || null;
+    this.article = await this.service.getArticleByGuid(guid) || null;
 
     if (!this.article) {
       this.container.innerHTML = '<div class="p-8 text-center text-neutral-400">Artykuł nie znaleziony.</div>';

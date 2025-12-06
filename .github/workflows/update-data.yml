@@ -45,6 +45,14 @@ jobs:
       - name: Build SQLite database
         run: node scripts/build-database.js
       
+      - name: Fetch conflict data
+        run: node scripts/fetch-conflicts.js
+      
+      - name: Enrich conflicts with AI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/enrich-conflicts.js
+      
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
