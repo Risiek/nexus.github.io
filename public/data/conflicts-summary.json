@@ -1,0 +1,62 @@
+{
+  "generated_at": "2024-12-06T12:00:00Z",
+  "total_articles": 43,
+  "total_regions": 3,
+  "top_conflicts": [
+    {
+      "region": "Middle East & North Africa",
+      "conflict_name": "US-Saudi Regional Strategy",
+      "tension_level": "Medium",
+      "tension_score": 5,
+      "trend": "stable",
+      "article_count": 15,
+      "latest_headline": "The U.S.-Saudi Reconfiguration Is Real and It No Longer Depends on Oil",
+      "latest_time": "2024-12-06T10:30:00Z",
+      "color": "#eab308"
+    },
+    {
+      "region": "Europe",
+      "conflict_name": "European Defense Posture",
+      "tension_level": "Medium",
+      "tension_score": 6,
+      "trend": "escalating",
+      "article_count": 12,
+      "latest_headline": "Europe's New Lines of Defense Are Not Maginot 2.0",
+      "latest_time": "2024-12-06T09:45:00Z",
+      "color": "#ea580c"
+    },
+    {
+      "region": "Americas",
+      "conflict_name": "Drug Trafficking & Border Security",
+      "tension_level": "High",
+      "tension_score": 7,
+      "trend": "escalating",
+      "article_count": 10,
+      "latest_headline": "What Washington Can Do to Address Fentanyl Flows from China",
+      "latest_time": "2024-12-06T08:15:00Z",
+      "color": "#ea580c"
+    },
+    {
+      "region": "Asia-Pacific",
+      "conflict_name": "Regional Defense Challenges",
+      "tension_level": "Low",
+      "tension_score": 3,
+      "trend": "stable",
+      "article_count": 4,
+      "latest_headline": "Defense Research and Development in the Indo-Pacific",
+      "latest_time": "2024-12-06T07:00:00Z",
+      "color": "#3b82f6"
+    },
+    {
+      "region": "Global",
+      "conflict_name": "International Security Analysis",
+      "tension_level": "Medium",
+      "tension_score": 5,
+      "trend": "stable",
+      "article_count": 2,
+      "latest_headline": "Strategic Defense Posture Assessment",
+      "latest_time": "2024-12-06T06:30:00Z",
+      "color": "#eab308"
+    }
+  ]
+}
