@@ -1,4 +1,4 @@
-name: Update News & Market Data
+aname: Update News & Market Data
 
 on:
   schedule:
@@ -31,10 +31,8 @@ jobs:
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
 
-      - name: Enrich news with AI
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/enrich-news.js
+      - name: Process news (simple, no AI)
+        run: node scripts/process-news-simple.js
 
       - name: Fetch market data
         env:

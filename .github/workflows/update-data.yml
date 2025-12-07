@@ -31,10 +31,8 @@ jobs:
       - name: Fetch RSS feeds
         run: node scripts/fetch-rss.js
       
-      - name: Enrich news with AI
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/enrich-news.js
+      - name: Process news (simple, no AI)
+        run: node scripts/process-news-simple.js
       
       - name: Fetch market data
         env:
@@ -48,10 +46,8 @@ jobs:
       - name: Fetch conflict data
         run: node scripts/fetch-conflicts.js
       
-      - name: Enrich conflicts with AI
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/enrich-conflicts.js
+      - name: Process conflicts (simple, no AI)
+        run: node scripts/process-conflicts-simple.js
       
       - name: Commit changes
         run: |
