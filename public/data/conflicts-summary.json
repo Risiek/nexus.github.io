@@ -1,62 +1,54 @@
-{
-  "generated_at": "2024-12-06T12:00:00Z",
-  "total_articles": 43,
-  "total_regions": 3,
-  "top_conflicts": [
-    {
-      "region": "Middle East & North Africa",
-      "conflict_name": "US-Saudi Regional Strategy",
-      "tension_level": "Medium",
-      "tension_score": 5,
-      "trend": "stable",
-      "article_count": 15,
-      "latest_headline": "The U.S.-Saudi Reconfiguration Is Real and It No Longer Depends on Oil",
-      "latest_time": "2024-12-06T10:30:00Z",
-      "color": "#eab308"
+[
+  {
+    "region": "East Asia",
+    "tension": 9,
+    "articleCount": 6,
+    "latestUpdate": "Tue, 02 Dec 2025 18:45:11 +0000",
+    "location": {
+      "lat": 25.03,
+      "lon": 121.56,
+      "name": "Taiwan/China"
     },
-    {
-      "region": "Europe",
-      "conflict_name": "European Defense Posture",
-      "tension_level": "Medium",
-      "tension_score": 6,
-      "trend": "escalating",
-      "article_count": 12,
-      "latest_headline": "Europe's New Lines of Defense Are Not Maginot 2.0",
-      "latest_time": "2024-12-06T09:45:00Z",
-      "color": "#ea580c"
+    "headline": "What Washington Can Do to Address Fentanyl Flows from China",
+    "description": "<p>Since 2013, synthetic opioids, such as fentanyl, have driven an enormous crisis in overdose deaths in the United States, along with the other damaging consequences of addiction and the illegal drug trade. China is a major source of fentanyl and fentanyl precursors &#8212; a key challenge in U.S.-Chinese relations. In late 2023, China resumed some cooperation with the United States to reduce the supply of precursors. Earlier this year, the Trump administration imposed specific tariffs on China to pressure Beijing to do more to disrupt the opioid supply chain, and China retaliated with its own tariffs. On Oct. 30, U.S.</p>\n<p>The post <a href=\"https://warontherocks.com/2025/12/what-washington-can-do-to-address-fentanyl-flows-from-china/\">What Washington Can Do to Address Fentanyl Flows from China</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>\n"
+  },
+  {
+    "region": "Global",
+    "tension": 8.7,
+    "articleCount": 15,
+    "latestUpdate": "Thu, 04 Dec 2025 08:25:49 +0000",
+    "location": {
+      "lat": 0,
+      "lon": 0,
+      "name": "Multiple"
     },
-    {
-      "region": "Americas",
-      "conflict_name": "Drug Trafficking & Border Security",
-      "tension_level": "High",
-      "tension_score": 7,
-      "trend": "escalating",
-      "article_count": 10,
-      "latest_headline": "What Washington Can Do to Address Fentanyl Flows from China",
-      "latest_time": "2024-12-06T08:15:00Z",
-      "color": "#ea580c"
+    "headline": "Decades of Lost Potential in Defense Research and Development",
+    "description": "<p>America&#8217;s greatest national security threat is an enemy born from and nurtured by the Pentagon: crippling bureaucracy. It starves the oxygen from good ideas, good people, and good technologies while creating ideal conditions for mediocrity to thrive. It has permeated every corner of the system, including the defense-sponsored innovation initiatives &#8212; like the Small Business Innovation Research Program &#8212; that purportedly exist as its counter.In 1982, President Ronald Reagan signed the Small Business Innovation Development Act, creating the Small Business Innovation Research program. Its stated objectives include providing American small businesses with non-dilutive funding for research and development in areas</p>\n<p>The post <a href=\"https://warontherocks.com/2025/12/decades-of-lost-potential-in-defense-research-and-development/\">Decades of Lost Potential in Defense Research and Development</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>\n"
+  },
+  {
+    "region": "Middle East",
+    "tension": 8.3,
+    "articleCount": 10,
+    "latestUpdate": "Fri, 05 Dec 2025 08:30:13 +0000",
+    "location": {
+      "lat": 31.5,
+      "lon": 34.47,
+      "name": "Israel/Palestine"
     },
-    {
-      "region": "Asia-Pacific",
-      "conflict_name": "Regional Defense Challenges",
-      "tension_level": "Low",
-      "tension_score": 3,
-      "trend": "stable",
-      "article_count": 4,
-      "latest_headline": "Defense Research and Development in the Indo-Pacific",
-      "latest_time": "2024-12-06T07:00:00Z",
-      "color": "#3b82f6"
+    "headline": "The U.S.-Saudi Reconfiguration Is Real and It No Longer Depends on Israel",
+    "description": "<p>Saudi Crown Prince Mohammed bin Salman&#8217;s recent White House visit has crystallized a fundamental shift in U.S.-Saudi relations: Washington no longer has the leverage to demand Saudi normalization with Israel.After the Biden administration distanced itself from Riyadh following the 2018 Jamal Khashoggi killing, Washington has now recalibrated. This was driven not by diplomacy or values alignment but by structural pressures, including the political blowback that Washington has faced for its military and diplomatic support for Israel&#8217;s Gaza campaign, which strained U.S. credibility across the region. Key to these structural pressures were supply-chain vulnerabilities exposed during the COVID-19 pandemic, the shock</p>\n<p>The post <a href=\"https://warontherocks.com/2025/12/the-u-s-saudi-reconfiguration-is-real-and-it-no-longer-depends-on-israel/\">The U.S.-Saudi Reconfiguration Is Real and It No Longer Depends on Israel</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>\n"
+  },
+  {
+    "region": "Eastern Europe",
+    "tension": 8,
+    "articleCount": 12,
+    "latestUpdate": "Wed, 03 Dec 2025 08:30:48 +0000",
+    "location": {
+      "lat": 48.38,
+      "lon": 31.17,
+      "name": "Ukraine"
     },
-    {
-      "region": "Global",
-      "conflict_name": "International Security Analysis",
-      "tension_level": "Medium",
-      "tension_score": 5,
-      "trend": "stable",
-      "article_count": 2,
-      "latest_headline": "Strategic Defense Posture Assessment",
-      "latest_time": "2024-12-06T06:30:00Z",
-      "color": "#eab308"
-    }
-  ]
-}
+    "headline": "Europe’s New Lines of Defense Are Not Maginot 2.0",
+    "description": "<p>Across Europe, nations have signaled a desire to dig, wire, and network their frontiers. From the Baltic Defense Line and the European Union&#8217;s proposed &#8220;drone wall&#8221; to Finland&#8217;s pilot barriers and Poland&#8217;s East Shield, the continent has embarked upon its most significant defensive hardening since the Cold War. Rather than nostalgia for the trenches, this effort represents a calculated adaptation to the war in Ukraine, one designed to ensure aggression is neither quick nor cheap.That strategic shift began at NATO&#8217;s Madrid Summit in 2022, when the alliance moved from deterrence by punishment to deterrence by denial. The old idea accepted</p>\n<p>The post <a href=\"https://warontherocks.com/2025/12/europes-new-lines-of-defense-are-not-maginot-2-0/\">Europe’s New Lines of Defense Are Not Maginot 2.0</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>\n"
+  }
+]
