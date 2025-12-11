@@ -1,408 +1,382 @@
 [
   {
-    "guid": "aaaeb8a8-a84d-45cf-99de-f527976f2340",
-    "title": "Donald Tusk zabrał głos po spotkaniu z ambasadorem USA. Zamieścił krótki wpis",
-    "description": "W czwartek doszło do spotkania premiera Donalda Tuska i ambasadora Stanów Zjednoczonych w Polsce Thomasa Rose'a. \"Ambasador Rose świetnie rozumie naszą zewnętrzną i wewnętrzną sytuację\" — napisał premier w serwisie X po zakończonej rozmowie.",
-    "url": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-ambasadorem-usa-zamiescil-krotki-wpis/0kptb3d",
-    "publishedAt": "2025-12-11T14:20:01.000Z",
+    "guid": "0c317fb6-fd69-47d5-8ece-75da918b6ed5",
+    "title": "Przemysław Czarnek o słowach Mateusza Morawieckiego. \"Cieszę się, że jest refleksja\"",
+    "description": "— Cieszę, że jest refleksja wśród głównych aktorów pewnych nieporozumień — oświadczył poseł PiS Przemysław Czarnek, komentując w \"Gościu Wydarzeń\" w Polsat News ostatnią wypowiedź Mateusza Morawieckiego. Polityk dodał, że ostatnie \"nieporozumienia\" w partii zostały już wyjaśnione. Parlamentarzysta z",
+    "url": "https://wiadomosci.onet.pl/kraj/przemyslaw-czarnek-o-slowach-mateusza-morawieckiego-jest-refleksja/m02sz18",
+    "publishedAt": "2025-12-11T20:19:20.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/yC1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82YTYxOGY4NzdmNjNhMmM1YjA1NTAxZDc0NmZhYjYzNC5qcGeSlQMAzKnNFTDNC-uTBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/TIYk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lYjNmZDQzOTVlNzhhNWQyZjg5ODY0OGU2Yzk0NTJlYS5qcGeSlQMAzJnNEyDNCsKTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "— Cieszę, że jest refleksja wśród głównych aktorów pewnych nieporozumień — oświadczył poseł PiS Przemysław Czarnek, komentując w \"Gościu Wydarzeń\" w Polsat News ostatnią wypowiedź Mateusza Morawieckiego. Polityk dodał, że ostatnie \"nieporozumienia\" w partii zostały już wyjaśnione. Parlamentarzysta z",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.037Z"
+  },
+  {
+    "guid": "1d593064-f701-4d7c-ae7d-037fb59e345d",
+    "title": "\"Raport międzynarodowy\". Nowa doktryna USA: Europa na bocznym torze, Polska w roli konia trojańskiego?",
+    "description": "W najnowszym odcinku \"Raportu Międzynarodowego\" Witold Jurasz i Zbigniew Parafianowicz analizują konsekwencje nowej strategii bezpieczeństwa narodowego USA. Czy Polska ma pełnić rolę \"konia trojańskiego\" w Unii Europejskiej?",
+    "url": "https://wiadomosci.onet.pl/swiat/raport-miedzynarodowy-nowa-doktryna-usa-europa-na-bocznym-torze-polska-w-roli-konia/l6yrmvl",
+    "publishedAt": "2025-12-11T20:02:55.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/kMmk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMjRkZTg2ZDJiNTYyYTY2ZjkxOWM2NGQ1MTExOGI0Ni5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
     "location": {
       "name": "USA",
       "lat": 37.09,
       "lon": -95.71
     },
-    "summary": "W czwartek doszło do spotkania premiera Donalda Tuska i ambasadora Stanów Zjednoczonych w Polsce Thomasa Rose'a. \"Ambasador Rose świetnie rozumie naszą zewnętrzną i wewnętrzną sytuację\" — napisał premier w serwisie X po zakończonej rozmowie.",
+    "summary": "W najnowszym odcinku \"Raportu Międzynarodowego\" Witold Jurasz i Zbigniew Parafianowicz analizują konsekwencje nowej strategii bezpieczeństwa narodowego USA. Czy Polska ma pełnić rolę \"konia trojańskiego\" w Unii Europejskiej?",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.463Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "278dae2f-7382-4bce-97da-cef369d62a63",
-    "title": "Szef MON o wymianie informacji z prezydentem w sprawie MIG-ów. \"Są granice\"",
-    "description": "— Są granice wprowadzania w błąd opinii publicznej przez przedstawicieli pana prezydenta. Na kłamstwa wielokrotnie powtarzane nie można się godzić — powiedział minister obrony narodowej Władysław Kosiniak-Kamysz, odnosząc się do chaosu wokół wymiany informacji wokół MIG-ów.",
-    "url": "https://wiadomosci.onet.pl/kraj/szef-mon-o-wymianie-informacji-z-prezydentem-w-sprawie-mig-ow-sa-granice/xzztzvh",
-    "publishedAt": "2025-12-11T14:18:52.000Z",
+    "guid": "3cfb7613-8e8f-4567-ac9f-cce59187fe8b",
+    "title": "Spięcie w studiu o Grzegorza Brauna. \"Sztuka wicia się\" [WIDEO]",
+    "description": "Poseł KO Adrian Witczak zaapelował w Polsat News, aby Anna Zalewska odcięła się od plotek o możliwych przyszłych partyjnych sojuszach z Grzegorzem Braunem. Europosłanka PiS przypomniała, że wielokrotnie potępiała jego słowa, ale o układzie w przyszłym Sejmie zadecydują wyborcy. — To jest dopiero szt",
+    "url": "https://wiadomosci.onet.pl/kraj/burza-przed-kamerami-w-programie-na-zywo-spieli-sie-o-grzegorza-brauna/vspxxb4",
+    "publishedAt": "2025-12-11T19:54:50.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/ZS6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTVhMWZjNWI0MGQ0MjFiZjlkZWVmYTI2ODhkYTFjOC5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "polityka",
-    "subcategory": "Międzynarodowe",
-    "categoryConfidence": 0.7,
-    "location": null,
-    "summary": "— Są granice wprowadzania w błąd opinii publicznej przez przedstawicieli pana prezydenta. Na kłamstwa wielokrotnie powtarzane nie można się godzić — powiedział minister obrony narodowej Władysław Kosiniak-Kamysz, odnosząc się do chaosu wokół wymiany informacji wokół MIG-ów.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "38829c15-7486-4b96-a05d-b4f373cd9b03",
-    "title": "Zabił księdza toporem. Sąd podjął decyzję",
-    "description": "Z powodu niepoczytalności podejrzany o zabójstwo proboszcza ze Szczytna trafi do zakładu psychiatrycznego — zdecydował Sąd Okręgowy w Olsztynie i umorzył wobec niego postępowanie.",
-    "url": "https://wiadomosci.onet.pl/olsztyn/zabil-ksiedza-toporem-teraz-trafi-do-zakladu-psychiatrycznego/hhn1nrn",
-    "publishedAt": "2025-12-11T14:09:04.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/wawk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xNGRlZTk5ZmJmNjIxZjgxZjAzNGNmZGQxODcwM2MxZi5qcGeSlQMAzLrNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Xa4k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMjFhMjNhZTFlMTkyY2U4NDU0YjJiNjZmNjBiMjZmMy5wbmeSlQPNAUwAzQX0zQNZkwXNCWDNBkDeAAKhMAehMQQ",
     "categories": [],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Z powodu niepoczytalności podejrzany o zabójstwo proboszcza ze Szczytna trafi do zakładu psychiatrycznego — zdecydował Sąd Okręgowy w Olsztynie i umorzył wobec niego postępowanie.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "f0edc9e9-b65e-4ba6-952f-00145272b113",
-    "title": "Bruksela składa skargę na Polskę do TSUE. \"Wysiłki władz są niewystarczające\"",
-    "description": "Komisja Europejska poinformowała w czwartek o skierowaniu skargi na Polskę do Trybunału Sprawiedliwości UE (TSUE) w związku z niewdrożeniem w pełni unijnego prawa dotyczącego dostępu do adwokata. KE wytyka Polsce m.in. zezwalanie na przesłuchanie lub gromadzenie dowodów bez udziału prawnika.",
-    "url": "https://wiadomosci.onet.pl/kraj/bruksela-sklada-skarge-na-polske-do-tsue-wysilki-wladz-sa-niewystarczajace/2yn9mr2",
-    "publishedAt": "2025-12-11T14:04:06.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/F66k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iNTdkM2JlZDQ1NDg5Y2E2NmM2NGQyODc5MDdmYjAwNi5qcGeSlQMAzOfNHLzNEC6TBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Komisja Europejska poinformowała w czwartek o skierowaniu skargi na Polskę do Trybunału Sprawiedliwości UE (TSUE) w związku z niewdrożeniem w pełni unijnego prawa dotyczącego dostępu do adwokata. KE wytyka Polsce m.in. zezwalanie na przesłuchanie lub gromadzenie dowodów bez udziału prawnika.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "c189c7a3-97fa-4e63-a865-ea16915a926a",
-    "title": "Poważny wypadek w Sufczynie. Cztery osoby ranne, w tym roczne dziecko",
-    "description": "Dwa samochody osobowe i samochód ciężarowy zderzyły się w miejscowości Sufczyn w Małopolsce. Cztery osoby odniosły obrażenia — informuje bochniazbliska.pl.",
-    "url": "https://wiadomosci.onet.pl/krakow/zderzenie-samochodow-z-ciezarowka-w-sufczynie-wsrod-rannych-roczne-dziecko/rygknpm",
-    "publishedAt": "2025-12-11T13:59:17.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/cm1k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81MDViZDBlOWZiZGVjNDBiYzM5ZjFhMDFjNjExYzI2NS5wbmeSlQMAEs0EHM0CUJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Dwa samochody osobowe i samochód ciężarowy zderzyły się w miejscowości Sufczyn w Małopolsce. Cztery osoby odniosły obrażenia — informuje bochniazbliska.pl.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "fb8b00ca-68f9-4782-83e8-41adf52318ad",
-    "title": "Pijany potrącił księdza. Były naczelnik OSP Witnica odpowie przed sądem",
-    "description": "Prokuratura Okręgowa w Gorzowie Wielkopolskim finalizuje śledztwo w sprawie wypadku, do którego doszło na placu manewrowym OSP w Witnicy (woj. lubuskie). Do sądu ma wkrótce zostać przesłany akt oskarżenia przeciwko ówczesnemu naczelnikowi jednostki, Krzysztofowi M., który jest podejrzany o spowodowa",
-    "url": "https://wiadomosci.onet.pl/lubuskie/byly-naczelnik-osp-witnica-odpowie-za-wypadek-pijany-potracil-ksiedza/09zkw96",
-    "publishedAt": "2025-12-11T13:53:30.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/pVbk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OWI3ZGQ2M2YyZWJhMjgxYjU0ZWNiMmM2YzE4NTJlMy5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Prokuratura Okręgowa w Gorzowie Wielkopolskim finalizuje śledztwo w sprawie wypadku, do którego doszło na placu manewrowym OSP w Witnicy (woj. lubuskie). Do sądu ma wkrótce zostać przesłany akt oskarżenia przeciwko ówczesnemu naczelnikowi jednostki, Krzysztofowi M., który jest podejrzany o spowodowa",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "6f1145cc-8357-4c31-b806-0ff252bfb609",
-    "title": "Karol Nawrocki w czołgu. Sieć obiegło nietypowe nagranie z poligonu",
-    "description": "Kancelaria Prezydenta zamieściła w mediach społecznościowych nietypowe nagranie z poligonu na Łotwie. Karol Nawrocki spotkał się tam z polskimi żołnierzami. Sieć błyskawicznie obiegł film z wydarzenia, ukazujący prezydenta w czołgu.",
-    "url": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-w-czolgu-siec-obieglo-nietypowe-nagranie-z-poligonu/5d0msxt",
-    "publishedAt": "2025-12-11T13:47:16.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/eUKk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85ZGYwNjI4YTljMWNmZjlkMGZhOTQ5YmMwNzU4MTNmYS5qcGeSlQMAAM0GQM0DhJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Kancelaria Prezydenta zamieściła w mediach społecznościowych nietypowe nagranie z poligonu na Łotwie. Karol Nawrocki spotkał się tam z polskimi żołnierzami. Sieć błyskawicznie obiegł film z wydarzenia, ukazujący prezydenta w czołgu.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "0f463d63-5843-446f-b062-c546219291d5",
-    "title": "Szef NATO ostrzega przed eskalacją wojny. \"Jesteśmy kolejnym celem Rosji\"",
-    "description": "Sekretarz Generalny NATO Mark Rutte ostrzegał przed eskalacją działań wojennych ze strony Rosji oraz apelował o zwiększenie wysiłków obronnych. — Jesteśmy kolejnym celem Rosji. Obawiam się, że zbyt wielu po cichu spoczywa na laurach. Zbyt wielu nie odczuwa pilności — mówił podczas wspólnej konferenc",
-    "url": "https://wiadomosci.onet.pl/swiat/szef-nato-ostrzega-przed-eskalacja-wojny-jestesmy-kolejnym-celem-rosji/zbd8310",
-    "publishedAt": "2025-12-11T13:42:30.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/iFOk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wZWZiYjI3MC02YTRhLTRhMDktOWRkMy02N2FjNjVlNDUyODAuanBlZ5KVAwDMwc0X-s0NfZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Sekretarz Generalny NATO Mark Rutte ostrzegał przed eskalacją działań wojennych ze strony Rosji oraz apelował o zwiększenie wysiłków obronnych. — Jesteśmy kolejnym celem Rosji. Obawiam się, że zbyt wielu po cichu spoczywa na laurach. Zbyt wielu nie odczuwa pilności — mówił podczas wspólnej konferenc",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "3aa2bf01-b8d2-4d8e-a6f5-432f16917e80",
-    "title": "Niebezpieczny incydent z samolotem Zełenskiego. Media donoszą, że w pobliżu pojawił się statek \"floty cieni\"",
-    "description": "Podczas lądowania w Irlandii 1 grudnia samolotu, na pokładzie którego leciał prezydent Ukrainy Wołodymyr Zełenski, w Zatoce Dublińskiej pojawił się statek \"floty cieni\" — podał w czwartek dziennik \"Irish Times\". Wcześniej poinformowano, że w pobliżu trasy lotu dostrzeżono drony, przypominające maszy",
-    "url": "https://wiadomosci.onet.pl/swiat/niebezpieczny-incydent-z-samolotem-zelenskiego-media-w-poblizu-statek-floty-cieni/trwcfsy",
-    "publishedAt": "2025-12-11T13:37:49.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/pc-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OWE0NmI1N2E4NzAyNTFkMjI3ZDYwNTdjZjU4YWIyMS5wbmeSlQMUJs0Co80BfJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Podczas lądowania w Irlandii 1 grudnia samolotu, na pokładzie którego leciał prezydent Ukrainy Wołodymyr Zełenski, w Zatoce Dublińskiej pojawił się statek \"floty cieni\" — podał w czwartek dziennik \"Irish Times\". Wcześniej poinformowano, że w pobliżu trasy lotu dostrzeżono drony, przypominające maszy",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "3f280873-6767-46c3-9f05-69a7f84edc74",
-    "title": "Porozumienie, którego nikt nie chce podpisać. Dlaczego \"plan pokojowy\" Trumpa nadal nie działa i jak wpisuje się w to scenariusz \"koreański\". Wyjaśniamy",
-    "description": "Plan pokojowy dla Ukrainy i Rosji, który otwarcie wynagradza Kreml za agresję, a który USA uparcie promują, przypomina obecnie gorący kartofel. Wiele rozmów, podróży emisariuszy, krzykliwych nagłówków w mediach o \"ostatecznych terminach\" i \"zbliżającym się zakończeniu\" nie zmienia faktu, że rosyjski",
-    "url": "https://wiadomosci.onet.pl/swiat/porozumienie-ktorego-nikt-nie-chce-podpisac-dlaczego-plan-pokojowy-trumpa-nadal-nie/8jgglwe",
-    "publishedAt": "2025-12-11T13:35:18.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/URJk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yN2I0NzE4Yjc4NjJmODhhNWMzNmM0NTA4M2UzOGVhMy5qcGeSlQNMzQEYzRVPzQv8kwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": [],
-    "category": "polityka",
-    "subcategory": "Międzynarodowe",
-    "categoryConfidence": 0.7,
     "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
+      "name": "UK",
+      "lat": 51.51,
+      "lon": -0.13
     },
-    "summary": "Plan pokojowy dla Ukrainy i Rosji, który otwarcie wynagradza Kreml za agresję, a który USA uparcie promują, przypomina obecnie gorący kartofel. Wiele rozmów, podróży emisariuszy, krzykliwych nagłówków w mediach o \"ostatecznych terminach\" i \"zbliżającym się zakończeniu\" nie zmienia faktu, że rosyjski",
+    "summary": "Poseł KO Adrian Witczak zaapelował w Polsat News, aby Anna Zalewska odcięła się od plotek o możliwych przyszłych partyjnych sojuszach z Grzegorzem Braunem. Europosłanka PiS przypomniała, że wielokrotnie potępiała jego słowa, ale o układzie w przyszłym Sejmie zadecydują wyborcy. — To jest dopiero szt",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "23059e07-5e20-4e0a-8ec2-92b152872589",
-    "title": "Fala protestów w Bułgarii. Premier podał się do dymisji",
-    "description": "Premier Bułgarii Rosen Żelazkow oświadczył w czwartek, że w obliczu masowych protestów, które wstrząsnęły krajem, składa dymisję swojego rządu.",
-    "url": "https://wiadomosci.onet.pl/swiat/fala-protestow-w-bulgarii-premier-podal-sie-do-dymisji/gb67rcw",
-    "publishedAt": "2025-12-11T13:33:08.000Z",
+    "guid": "df8f5771-540e-4fc7-bb0d-a8ab02f697d2",
+    "title": "Rośnie napięcie u wybrzeży Wenezueli. Amerykanie planują kolejne kroki",
+    "description": "Stany Zjednoczone zamierzają przechwycić kolejne tankowce u wybrzeży Wenezueli — informuje Reuters, powołując się na sześć źródeł zaznajomionych ze sprawą. W środę Amerykanie przejęli wenezuelski tankowiec, który przewoził ropę naftową i który był obłożony amerykańskimi sankcjami.",
+    "url": "https://wiadomosci.onet.pl/swiat/rosnie-napiecie-u-wybrzezy-wenezueli-amerykanie-planuja-kolejne-kroki/426hwdw",
+    "publishedAt": "2025-12-11T19:41:50.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/rRyk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMzkzYWYxNzQ0NDc1YThhZDQ4YTYyNjljMGNkOTcxZS5qcGeSlQMAzQECzSBAzRIkkwXNCWDNBkDeAAKhMAehMQQ",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/B-Rk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iY2M1MzYyMTAzOGQ4NzRlZDQ3MjdmYjVjNmIwNTk3OS5qcGeSlQMAzQEXzRdwzQ0vkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Stany Zjednoczone zamierzają przechwycić kolejne tankowce u wybrzeży Wenezueli — informuje Reuters, powołując się na sześć źródeł zaznajomionych ze sprawą. W środę Amerykanie przejęli wenezuelski tankowiec, który przewoził ropę naftową i który był obłożony amerykańskimi sankcjami.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.038Z"
+  },
+  {
+    "guid": "00b5e8a4-ca9c-4f46-9fbb-7ec37390c20b",
+    "title": "Nożownik został zastrzelony przez policjanta. Śledczy mają nagranie",
+    "description": "Prokuratura ma zrobione przez świadka nagranie z interwencji w Myślenicach, podczas której policjant śmiertelnie postrzelił nożownika. W rozmowie z \"Gazetą Wyborczą\" Katarzyna Cisło z małopolskiej policji poinformowała, że materiał dowodzi, iż na miejscu doszło do bezpośredniego kontaktu napastnika ",
+    "url": "https://wiadomosci.onet.pl/krakow/policjant-oddal-smiertelny-strzal-po-ataku-nozownika-prokuratura-ma-nagranie/l1zkddg",
+    "publishedAt": "2025-12-11T19:35:41.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/9T_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82OWYzMDViODRkOWRkMTJiMDlkM2VkZTMwMmE1NDFjZi5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Prokuratura ma zrobione przez świadka nagranie z interwencji w Myślenicach, podczas której policjant śmiertelnie postrzelił nożownika. W rozmowie z \"Gazetą Wyborczą\" Katarzyna Cisło z małopolskiej policji poinformowała, że materiał dowodzi, iż na miejscu doszło do bezpośredniego kontaktu napastnika ",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.038Z"
+  },
+  {
+    "guid": "cae67972-be70-4f56-ab84-1dfeaa5e1b40",
+    "title": "Walka o kosmos i pieniądze. Gdzie powstanie siedziba ESA w Polsce? Ekspert: dużo do powiedzenia mają Francuzi i Niemcy",
+    "description": "Centrum Europejskiej Agencji Kosmicznej (ESA) powstanie w Polsce. Samorządowcy piszą listy do premiera, rekomendując swoje miasta jako doskonałe miejsce pod tę inwestycję. Swój akces zgłosiły cztery miasta: Łódź, Katowice, Gdańsk i Kraków. Ministerstwo Rozwoju podało wstępne kryteria, jednak to nie ",
+    "url": "https://wiadomosci.onet.pl/walka-o-kosmos-i-pieniadze-gdzie-powstanie-nowa-siedziba-esa/1t9xskb",
+    "publishedAt": "2025-12-11T19:13:12.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/VWTk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84YmE3NzZmYjZhZDAyZjZhN2ExYmU1Y2Y4ZjdiY2RiZi5qcGeSlQMAzPvNH3TNEbGTBc0JYM0GQN4AAqEwB6ExBA",
+    "categories": [],
+    "category": "polityka",
+    "subcategory": "Międzynarodowe",
+    "categoryConfidence": 0.7,
+    "location": null,
+    "summary": "Centrum Europejskiej Agencji Kosmicznej (ESA) powstanie w Polsce. Samorządowcy piszą listy do premiera, rekomendując swoje miasta jako doskonałe miejsce pod tę inwestycję. Swój akces zgłosiły cztery miasta: Łódź, Katowice, Gdańsk i Kraków. Ministerstwo Rozwoju podało wstępne kryteria, jednak to nie ",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.038Z"
+  },
+  {
+    "guid": "66f6a466-feac-45d3-884f-de69b0d9b53e",
+    "title": "Ostry komentarz Radosława Sikorskiego. \"Agentura na turbodoładowaniu\"",
+    "description": "Radosław Sikorski w dosadnych słowach skomentował trend w polskim internecie. Chodzi o antyukraińskie treści, których liczba w ciągu ostatnich czterech miesięcy drastycznie wzrosła. Według danych Instytutu Monitorowania Mediów (IMM) i Stowarzyszenia Demagog, najwięcej z nich publikują konta politycz",
+    "url": "https://wiadomosci.onet.pl/kraj/ostry-komentarz-radoslawa-sikorskiego-agentura-na-turbodoladowaniu/dgndq8l",
+    "publishedAt": "2025-12-11T18:58:42.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/gopk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kODM3N2ViNWJhMjkzYWEyNTQxZGM3YzhhNzlmMTU3Ni5qcGeSlQPNAo3NBgDNEVTNCb-TBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "wojna/konflikt",
     "subcategory": "Konflikty zbrojne",
     "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Premier Bułgarii Rosen Żelazkow oświadczył w czwartek, że w obliczu masowych protestów, które wstrząsnęły krajem, składa dymisję swojego rządu.",
+    "summary": "Radosław Sikorski w dosadnych słowach skomentował trend w polskim internecie. Chodzi o antyukraińskie treści, których liczba w ciągu ostatnich czterech miesięcy drastycznie wzrosła. Według danych Instytutu Monitorowania Mediów (IMM) i Stowarzyszenia Demagog, najwięcej z nich publikują konta politycz",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "80f8e83a-e3bc-4ec4-afd2-29ff37d8c672",
-    "title": "Eksplozja na rosyjskiej uczelni. Są ofiary śmiertelne",
-    "description": "W Rosji na terenie Permskiego Narodowego Badawczego Uniwersytetu Politechnicznego doszło w czwartek do eksplozji. W wyniku wybuchu zginęły dwie osoby — mężczyzna i jego ośmioletnia córka. Trzy inne zostały ranne. Śledczy prowadzą dochodzenie, które ma wyjaśnić, jak doszło do zdarzenia i dlaczego dzi",
-    "url": "https://wiadomosci.onet.pl/swiat/eksplozja-w-rosyjskim-miescie-naruszenie-przepisow-bezpieczenstwa/166cc0w",
-    "publishedAt": "2025-12-11T13:16:22.000Z",
+    "guid": "3d6498b1-23fc-43a0-bfe3-fd50fb1599db",
+    "title": "Burza po słowach Karola Nawrockiego o MiG-29 dla Ukrainy. \"Kłamią albo się ze sobą nie kontaktują\"",
+    "description": "Prezydent Karol Nawrocki powiedział, że nie miał informacji na temat przekazania polskich myśliwców MiG-29 Ukrainie. Słowa te wywołały poruszenie. Padły oskarżenia, że w Kancelarii Prezydenta nie ma zainteresowania bezpieczeństwem kraju. \"Nawrocki nie wie, co się dzieje u niego w kancelarii, bo mu s",
+    "url": "https://wiadomosci.onet.pl/kraj/burza-po-slowach-karola-nawrockiego-klamia-albo-sie-ze-soba-nie-kontaktuja/9ymfl0e",
+    "publishedAt": "2025-12-11T18:56:10.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/fRok9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNjAwYjU4MWI5MWRiNWM5NDExNzIyYjY1NjVlNGI1Ni5qcGeSlQMAN80TiM0K_JMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "W Rosji na terenie Permskiego Narodowego Badawczego Uniwersytetu Politechnicznego doszło w czwartek do eksplozji. W wyniku wybuchu zginęły dwie osoby — mężczyzna i jego ośmioletnia córka. Trzy inne zostały ranne. Śledczy prowadzą dochodzenie, które ma wyjaśnić, jak doszło do zdarzenia i dlaczego dzi",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.464Z"
-  },
-  {
-    "guid": "eb98e8d1-c75d-405d-a097-ae0016fff539",
-    "title": "Hajlował i groził ukraińskiej sprzedawczyni. Policja zatrzymała 41-latka z Gdyni",
-    "description": "Gdyńscy policjanci w rozmowie z Onetem poinformowali, że zatrzymali 41-letniego mężczyznę, który 9 grudnia groził ukraińskiej sprzedawczyni. Polak, który, co widać na nagraniu, hajlował w sklepie, został zatrzymany u siebie w mieszkaniu.",
-    "url": "https://wiadomosci.onet.pl/kraj/hajlowal-i-grozil-ukrainskiej-sprzedawczyni-policja-zatrzymala-41-latka-z-gdyni/fgz9g1f",
-    "publishedAt": "2025-12-11T13:14:17.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/WR-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kODY2Zjc1NmU1NmI0NTc5MWM1OTM0MTUwZTM2ZmU2MC5qcGeSlQMAzKvNFWDNDAaTBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/CWdk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYTA0N2RhM2I5MDQzOGUxYjRiYzBmNTk0MDU0NmQ1NS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
     "categories": [],
     "category": "nauka",
     "subcategory": "Badania",
     "categoryConfidence": 0.6,
     "location": null,
-    "summary": "Gdyńscy policjanci w rozmowie z Onetem poinformowali, że zatrzymali 41-letniego mężczyznę, który 9 grudnia groził ukraińskiej sprzedawczyni. Polak, który, co widać na nagraniu, hajlował w sklepie, został zatrzymany u siebie w mieszkaniu.",
+    "summary": "Prezydent Karol Nawrocki powiedział, że nie miał informacji na temat przekazania polskich myśliwców MiG-29 Ukrainie. Słowa te wywołały poruszenie. Padły oskarżenia, że w Kancelarii Prezydenta nie ma zainteresowania bezpieczeństwem kraju. \"Nawrocki nie wie, co się dzieje u niego w kancelarii, bo mu s",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "4ba2ffc7-1265-4572-a4ad-c93394cce277",
-    "title": "Kongres pokazuje pazury. Sojusze ważniejsze niż kaprysy Trumpa. USA nie zamierzają opuszczać Europy w kluczowym momencie",
-    "description": "Amerykański Kongres 10 grudnia wysłał jasny sygnał: Stany Zjednoczone nie zamierzają odwracać się od Europy ani zostawiać Ukrainy. Wbrew politycznym zapowiedziom Donalda Trumpa, Izba Reprezentantów przegłosowała ustawę, która na nowo kotwiczy USA w roli kluczowego sojusznika NATO. Decyzja ta obnaża ",
-    "url": "https://wiadomosci.onet.pl/swiat/kongres-pokazuje-pazury-sojusze-wazniejsze-niz-kaprysy-trumpa-usa-nie-zamierzaja/y3k4twg",
-    "publishedAt": "2025-12-11T13:10:51.000Z",
+    "guid": "7c4177b5-deba-40c2-b7ed-ef7273938f6a",
+    "title": "Biały Dom komentuje rozmowy pokojowe. \"Trump jest mocno sfrustrowany\"",
+    "description": "— Prezydent [Trump] jest mocno sfrustrowany [działaniami] obu stron tej wojny. Ma dość spotkań, które odbywają się tylko dla samego spotkania. Nie chce już więcej rozmów, chce działań. Chce, żeby ta wojna się zakończyła — przekazała rzeczniczka prasowa Białego Domu Karoline Leavitt, komentując negoc",
+    "url": "https://wiadomosci.onet.pl/swiat/bialy-dom-komentuje-rozmowy-pokojowe-donald-trump-jest-mocno-sfrustrowany/t8q9bl8",
+    "publishedAt": "2025-12-11T18:51:05.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/elCk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81N2JkNTA5ODliMWM1YzAyMDBjNTI1MTNlNTI3MjI0NS5qcGeSlQPNAV_NAfXNFhHNDGmTBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Nfmk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kOGVhZGFkZTRmZDYzMzgxM2ZiNDQyOTE2M2Y5ZjJiYi5qcGeSlQPNAgfNASbNFD3NC2GTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "polityka",
     "subcategory": "Międzynarodowe",
     "categoryConfidence": 0.7,
-    "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
-    },
-    "summary": "Amerykański Kongres 10 grudnia wysłał jasny sygnał: Stany Zjednoczone nie zamierzają odwracać się od Europy ani zostawiać Ukrainy. Wbrew politycznym zapowiedziom Donalda Trumpa, Izba Reprezentantów przegłosowała ustawę, która na nowo kotwiczy USA w roli kluczowego sojusznika NATO. Decyzja ta obnaża ",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
-  },
-  {
-    "guid": "7db41218-6976-4f38-9616-deaf754ef748",
-    "title": "\"Kompletna bzdura\". Człowiek Tuska zabiera głos w sprawie zamieszania wokół myśliwców dla Ukrainy",
-    "description": "\"Kompletna bzdura, sprawa Migów jest procedowana od ponad roku\" — pisze na X Paweł Graś. To odpowiedź na komentarze z Pałacu Prezydenckiego o tym, że Karol Nawrocki nie jest na bieżąco informowany o planowanym przekazaniu Ukrainie polskich myśliwców. Szef gabinetu politycznego premiera zaznacza, że ",
-    "url": "https://wiadomosci.onet.pl/kraj/kompletna-bzdura-pawel-gras-odpowiada-prezydentowi/cc9rtph",
-    "publishedAt": "2025-12-11T12:46:53.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/6E5k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iZTZmMDgzZTQzZWZhYTdjOTM4NTIwOGUyNTk0MjY0MC5qcGeSlQMAb80LUM0GXZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
     "location": null,
-    "summary": "\"Kompletna bzdura, sprawa Migów jest procedowana od ponad roku\" — pisze na X Paweł Graś. To odpowiedź na komentarze z Pałacu Prezydenckiego o tym, że Karol Nawrocki nie jest na bieżąco informowany o planowanym przekazaniu Ukrainie polskich myśliwców. Szef gabinetu politycznego premiera zaznacza, że ",
+    "summary": "— Prezydent [Trump] jest mocno sfrustrowany [działaniami] obu stron tej wojny. Ma dość spotkań, które odbywają się tylko dla samego spotkania. Nie chce już więcej rozmów, chce działań. Chce, żeby ta wojna się zakończyła — przekazała rzeczniczka prasowa Białego Domu Karoline Leavitt, komentując negoc",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "3b7fe1d8-a46c-40d3-9099-99c98ace1a60",
-    "title": "Ważne rady dla kierowców",
-    "description": "Zimą, gdy warunki na drogach są najtrudniejsze, warto pamiętać, że nieostrożna jazda znacząco zwiększa ryzyko wypadku. O ostrożność w trasie – szczególnie w okresie świątecznym - apelują autorzy kampanii „Nie zderzakuj. Posłuchaj. Jedź bezpiecznie”.",
-    "url": "https://wiadomosci.onet.pl/kraj/wazne-rady-dla-kierowcow/bbps509",
-    "publishedAt": "2025-12-11T12:45:00.000Z",
+    "guid": "401079d3-0711-45a2-9889-083381848a79",
+    "title": "Karol Nawrocki spotkał się z rodakami na Łotwie. \"Łączą nas te same wartości\"",
+    "description": "— To dla mnie zaszczyt, kiedy odwiedzam Polaków na Łotwie i witają mnie dzieci tak wspaniałym językiem polskim, tak wspaniałym koncertem — oświadczył Karol Nawrocki podczas spotkania z przedstawicielami łotewskiej Polonii w Rydze. — Uświadamiamy sobie wówczas, jak silna jest polskość, którą kochamy ",
+    "url": "https://wiadomosci.onet.pl/swiat/karol-nawrocki-spotkal-sie-z-rodakami-na-lotwie-lacza-nas-wartosci/yq03e22",
+    "publishedAt": "2025-12-11T18:47:56.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/aEek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yOGFhZjRmNmY3OWZjODhmMDJkYTRlYTdmZTBjNGNhMC5qcGeSlQMAzQEmzRSYzQuVkwXNCWDNBkDeAAKhMAehMQQ",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/fBVk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zZWZmYTgwZGJjODI2ZTViMmQxNzNmZGE2Y2QwNDcxNS5qcGeSlQMAzQMrzRJEzQpGkwXNCWDNBkDeAAKhMAehMQQ",
     "categories": [],
     "category": "wojna/konflikt",
     "subcategory": "Konflikty zbrojne",
     "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Zimą, gdy warunki na drogach są najtrudniejsze, warto pamiętać, że nieostrożna jazda znacząco zwiększa ryzyko wypadku. O ostrożność w trasie – szczególnie w okresie świątecznym - apelują autorzy kampanii „Nie zderzakuj. Posłuchaj. Jedź bezpiecznie”.",
+    "summary": "— To dla mnie zaszczyt, kiedy odwiedzam Polaków na Łotwie i witają mnie dzieci tak wspaniałym językiem polskim, tak wspaniałym koncertem — oświadczył Karol Nawrocki podczas spotkania z przedstawicielami łotewskiej Polonii w Rydze. — Uświadamiamy sobie wówczas, jak silna jest polskość, którą kochamy ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "92db33e1-f0a4-4aa7-814a-35a136893e62",
-    "title": "11-letni Ukrainiec zabrał głos w Parlamencie Europejskim. Tłumaczka zalała się łzami",
-    "description": "Dziś 11-letni Roman Oleksiw, który stracił mamę w jednym z rosyjskich ataków na Ukrainę, opowiedział w Parlamencie Europejskim swoją historię. Chłopiec podczas ataku doznał również poważnych obrażeń. Jego wystąpienie poruszyło zgromadzonych, pojawiły się łzy. Emocji nie powstrzymała także tłumaczka,",
-    "url": "https://wiadomosci.onet.pl/swiat/11-letni-roman-oleksiw-stracil-mame-w-rosyjskim-ataku-jego-historia-poruszyla-pe/90xew14",
-    "publishedAt": "2025-12-11T12:43:50.000Z",
+    "guid": "5344fbaa-b10a-4459-af89-559747382894",
+    "title": "Dlaczego Trump tak bardzo nienawidzi Europy? Ekspert: temat wydatków NATO i handlu to jedynie pretekst. Jego pogarda jest głębiej zakorzeniona [WYWIAD]",
+    "description": "Ostatnia seria ataków prezydenta Donalda Trumpa na Europę sprawiła, że sojusznicy Stanów Zjednoczonych po drugiej stronie Atlantyku ponownie zadali sobie odwieczne pytanie: dlaczego Trump tak bardzo nienawidzi Europy? W wywiadzie dla POLITICO Jeremy Shapiro, dyrektor ds. badań w Europejskiej Radzie ",
+    "url": "https://wiadomosci.onet.pl/politico/dlaczego-trump-tak-bardzo-nienawidzi-europy-ekspert-temat-wydatkow-nato-i-handlu-to/2xbwnz6",
+    "publishedAt": "2025-12-11T18:45:54.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/FUrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MjFkYzhjNWU1ZjU4ZTAxNGYxYTU5Yzk0NWJjMDllOS5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/K7lk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84NGY4NGM2OThiMTgxNzM4ZGQ5YWVhYTYxNzA5MmM2Yy5qcGeSlQMAzJXNDqDNCDqTBc0JYM0GQN4AAqEwB6ExBA",
+    "categories": [],
+    "category": "polityka",
+    "subcategory": "Międzynarodowe",
+    "categoryConfidence": 0.7,
+    "location": null,
+    "summary": "Ostatnia seria ataków prezydenta Donalda Trumpa na Europę sprawiła, że sojusznicy Stanów Zjednoczonych po drugiej stronie Atlantyku ponownie zadali sobie odwieczne pytanie: dlaczego Trump tak bardzo nienawidzi Europy? W wywiadzie dla POLITICO Jeremy Shapiro, dyrektor ds. badań w Europejskiej Radzie ",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.038Z"
+  },
+  {
+    "guid": "c9fe9b43-d853-41e8-9d1d-55148328d011",
+    "title": "Posłowie i senatorowie bez immunitetów? Polacy stawiają sprawę jasno [SONDAŻ]",
+    "description": "Immunitety posłów i senatorów budzą ogromne emocje w społeczeństwie. Ponad dwie trzecie Polaków uważa, że parlamentarzyści nie powinni móc chować się za immunitetem przed wymiarem sprawiedliwości — wynika z najnowszego sondażu SW Research na zlecenie Onetu. Za utrzymaniem obecnego systemu jest mniej",
+    "url": "https://wiadomosci.onet.pl/kraj/immunitety-dla-poslow-i-senatorow-polacy-stawiaja-sprawe-jasno-sondaz/w9gqttd",
+    "publishedAt": "2025-12-11T18:17:28.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/aymk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iNDBlODBjMWI3ZWQyZjEyMzhlZmE2NTRiNDM5MTM1NS5qcGeSlQMAAM0XcM0NL5MFzQlgzQZA3gACoTAHoTEE",
     "categories": [],
     "category": "nauka",
     "subcategory": "Badania",
     "categoryConfidence": 0.6,
     "location": null,
-    "summary": "Dziś 11-letni Roman Oleksiw, który stracił mamę w jednym z rosyjskich ataków na Ukrainę, opowiedział w Parlamencie Europejskim swoją historię. Chłopiec podczas ataku doznał również poważnych obrażeń. Jego wystąpienie poruszyło zgromadzonych, pojawiły się łzy. Emocji nie powstrzymała także tłumaczka,",
+    "summary": "Immunitety posłów i senatorów budzą ogromne emocje w społeczeństwie. Ponad dwie trzecie Polaków uważa, że parlamentarzyści nie powinni móc chować się za immunitetem przed wymiarem sprawiedliwości — wynika z najnowszego sondażu SW Research na zlecenie Onetu. Za utrzymaniem obecnego systemu jest mniej",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.038Z"
   },
   {
-    "guid": "d430014e-5f12-4c2a-911b-f5a86214d08f",
-    "title": "Grzegorz Braun przyjedzie do Szczecina. Miał być w seminarium duchownym, ale to \"nieaktualne\"",
-    "description": "Grzegorz Braun w piątek pojawi się w Szczecinie. Według plakatów spotkanie ma się odbyć w Arcybiskupim Wyższym Seminarium Duchownym, a całość ma być połączona z promocją najnowszej książki Mateusza Piskorskiego, znanego z prorosyjskich wypowiedzi i oskarżanego o szpiegostwo na rzecz Rosji byłego pos",
-    "url": "https://wiadomosci.onet.pl/szczecin/grzegorz-braun-i-mateusz-piskorski-maja-pojawic-sie-w-szczecinie-burza-wokol-miejsca/x7jz983",
-    "publishedAt": "2025-12-11T12:43:17.000Z",
+    "guid": "6aeb5708-3639-459d-850f-dde5bff73c42",
+    "title": "Waldemar Żurek ostro o Viktorze Orbanie. \"Chce rozsadzić UE od środka\"",
+    "description": "Minister sprawiedliwości, prokurator generalny Waldemar Żurek powiedział w czwartkowym wywiadzie dla Reutera, że rządowi Węgier bliżej do Moskwy niż do Brukseli, a premier Viktor Orban chce rozsadzić UE od środka, podczas gdy jego prorosyjska polityka jest nie do zaakceptowania dla obywateli Unii.",
+    "url": "https://wiadomosci.onet.pl/kraj/waldemar-zurek-ostro-o-viktorze-orbanie-chce-rozsadzic-ue-od-srodka/d2yqpkv",
+    "publishedAt": "2025-12-11T18:10:45.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/BYok9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85ODE0MWJjYTNkMWNkYjk5ODAzZmRhMDJjZjE5NzQxYy5qcGeSlQMAzKjNFTDNC-uTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Grzegorz Braun w piątek pojawi się w Szczecinie. Według plakatów spotkanie ma się odbyć w Arcybiskupim Wyższym Seminarium Duchownym, a całość ma być połączona z promocją najnowszej książki Mateusza Piskorskiego, znanego z prorosyjskich wypowiedzi i oskarżanego o szpiegostwo na rzecz Rosji byłego pos",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
-  },
-  {
-    "guid": "04e8b428-5d84-4fa5-8bbe-8777916e436c",
-    "title": "Trump chce \"odciągnąć\" Polskę od UE? Groźny plan Amerykanów to sygnał alarmowy. USA mogą rozbić Europę [ANALIZA]",
-    "description": "Opublikowanie strategii bezpieczeństwa narodowego przez rząd USA wywołało falę szoku w Europie. Na tym jednak kontrowersje się nie kończą. Teraz amerykański serwis Defense One donosi, że Biały Dom opublikował jedynie skróconą wersję dokumentu. Pełna strategia ma zawierać zawiera konkretne działania ",
-    "url": "https://wiadomosci.onet.pl/swiat/trump-chce-odciagnac-polske-od-ue-grozny-plan-amerykanow-to-sygnal-alarmowy-usa-moga/2d9wqn8",
-    "publishedAt": "2025-12-11T12:41:03.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/sM5k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xYjFiYTI3MGQ3ODE0NjZkNzBlNTU4NjY3MjFiNWZlNi5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/ZNxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNjZmMzJkNjg4OTMyYjRmOTQ5MzE2M2I4YzMyNmZhMS5qcGeSlQMAzNLNGkDNDsSTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "polityka",
     "subcategory": "Międzynarodowe",
     "categoryConfidence": 0.7,
+    "location": null,
+    "summary": "Minister sprawiedliwości, prokurator generalny Waldemar Żurek powiedział w czwartkowym wywiadzie dla Reutera, że rządowi Węgier bliżej do Moskwy niż do Brukseli, a premier Viktor Orban chce rozsadzić UE od środka, podczas gdy jego prorosyjska polityka jest nie do zaakceptowania dla obywateli Unii.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.038Z"
+  },
+  {
+    "guid": "1a89c27d-ab9a-48aa-b06f-f3443923d8e4",
+    "title": "Zełenski reaguje na propozycję USA w sprawie Donbasu. \"To wpływa na całą sytuację dyplomatyczną\"",
+    "description": "Prezydent Ukrainy, Wołodymyr Zełenski, nie wyklucza przeprowadzenia referendum dotyczącego wycofania wojsk z części Donbasu. — Wierzę, że naród ukraiński odpowie na to pytanie — powiedział w czwartek w rozmowie z dziennikarzami radia RBK-Ukraina. Odniósł się tym samym do amerykańskiej propozycji dot",
+    "url": "https://wiadomosci.onet.pl/swiat/zelenski-reaguje-na-propozycje-usa-w-sprawie-donbasu-ma-pytania/00mrke4",
+    "publishedAt": "2025-12-11T18:04:44.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/9nVk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MDRkZGU1Y2M4ZmUzNzQzYjVjNjYwZGY4MDgxYzAxMy5qcGeSlQMAzQMlzRubzQ-IkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
     "location": {
       "name": "USA",
       "lat": 37.09,
       "lon": -95.71
     },
-    "summary": "Opublikowanie strategii bezpieczeństwa narodowego przez rząd USA wywołało falę szoku w Europie. Na tym jednak kontrowersje się nie kończą. Teraz amerykański serwis Defense One donosi, że Biały Dom opublikował jedynie skróconą wersję dokumentu. Pełna strategia ma zawierać zawiera konkretne działania ",
+    "summary": "Prezydent Ukrainy, Wołodymyr Zełenski, nie wyklucza przeprowadzenia referendum dotyczącego wycofania wojsk z części Donbasu. — Wierzę, że naród ukraiński odpowie na to pytanie — powiedział w czwartek w rozmowie z dziennikarzami radia RBK-Ukraina. Odniósł się tym samym do amerykańskiej propozycji dot",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "ecfef167-c9b0-40cf-b1f2-3709bd91ab18",
-    "title": "Wybory na szefa Nowej Lewicy. Włodzimierz Czarzasty podjął decyzję",
-    "description": "Marszałek Sejmu Włodzimierz Czarzasty poinformował, że postanowił kandydować na przewodniczącego Nowej Lewicy. Potwierdził tym samym wcześniejsze ustalenia Onetu.",
-    "url": "https://wiadomosci.onet.pl/kraj/wybory-na-szefa-nowej-lewicy-wlodzimierz-czarzasty-podjal-decyzje/8zllqhr",
-    "publishedAt": "2025-12-11T12:35:19.000Z",
+    "guid": "8f51838f-4013-4d03-92b9-ddfd4aeae19e",
+    "title": "Ellinor weźmie Polskę w objęcia. W tych regionach grudniowa wiosna zapanuje na dobre [POGODA]",
+    "description": "W prognozach na piątek widać co prawda nieco niższą temperaturę, ale nadal będzie ona wysoka jak na grudzień. Na przeważającym obszarze kraju przydadzą się parasole, gdyż niebo zdominują chmury i opady deszczu. Będą jednak miejsca w kraju, gdzie stery nad pogodą przejmie antycyklon Ellinor, sprowadz",
+    "url": "https://wiadomosci.onet.pl/pogoda/zbliza-sie-antycyklon-ellinor-tu-wiosenna-pogoda-rozkreci-sie-na-dobre/l3bpn7z",
+    "publishedAt": "2025-12-11T17:39:34.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/XFLk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yYmNjNzdlYy02MmM1LTRkM2EtYWFkNi0yMjNkNmQ2MTI3NWUuanBlZ5KVAwDMsc0WTc0MjZMFzQlgzQZA3gACoTAHoTEE",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/iK0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mODk3ZGFmYmQ1NjM1YmMwNzE0ZTUyMjM0MGQwMmVjMS5wbmeSlQMAzIPNEKDNCVqTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Marszałek Sejmu Włodzimierz Czarzasty poinformował, że postanowił kandydować na przewodniczącego Nowej Lewicy. Potwierdził tym samym wcześniejsze ustalenia Onetu.",
+    "summary": "W prognozach na piątek widać co prawda nieco niższą temperaturę, ale nadal będzie ona wysoka jak na grudzień. Na przeważającym obszarze kraju przydadzą się parasole, gdyż niebo zdominują chmury i opady deszczu. Będą jednak miejsca w kraju, gdzie stery nad pogodą przejmie antycyklon Ellinor, sprowadz",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/swiat/europa-jak-w-dniu-swistaka-der-spigel-o-postawie-europejskich-liderow-wobec-dzialan-prezydenta-usa-donalda-trumpa-st8796185",
-    "title": "Europa jak w \"Dniu Świstaka\". \"Ile jeszcze potrzeba pobudek?\"",
-    "description": "\"Kręcenie głową z niedowierzaniem i przecieranie oczu ze zdumienia stało się w Europie mało przyjemnym rytuałem\" - pisze \"Der Spigel\", krytykując postawę europejskich liderów wobec działań prezydenta USA. Ocenia, że ktoś zawsze \"schlebiał\" Donaldowi Trumpowi i \"często wszystko jakoś działało. \"W koń",
-    "url": "https://tvn24.pl/swiat/europa-jak-w-dniu-swistaka-der-spigel-o-postawie-europejskich-liderow-wobec-dzialan-prezydenta-usa-donalda-trumpa-st8796185?source=rss",
-    "publishedAt": "2025-12-11T14:23:20.000Z",
-    "source": "TVN24",
+    "guid": "d542da72-6821-47cf-93aa-6dd132fe06d4",
+    "title": "Kluczowe spotkania w sprawie Ukrainy. Wysłannicy Donalda Trumpa przylecą do Europy",
+    "description": "Przedstawiciele administracji Trumpa przylecą do Paryża, gdzie w sobotę spotkają się z delegacjami z Ukrainy, Niemiec, Wielkiej Brytanii i Francji — informuje Axios, powołując się na informacje z Białego Domu oraz jedno źródło ukraińskie.",
+    "url": "https://wiadomosci.onet.pl/swiat/kluczowe-spotkania-w-sprawie-ukrainy-wyslannicy-trumpa-przyleca-do-europy/rgtmfgg",
+    "publishedAt": "2025-12-11T17:30:12.000Z",
+    "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": null,
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Kw3k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MWU3MDIzZjM1YjM0YTIyMjJlN2Q1ODAzN2UwZDg4Yi5qcGeSlQMAzI3NFNfNC7iTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "polityka",
     "subcategory": "Międzynarodowe",
     "categoryConfidence": 0.7,
-    "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
-    },
-    "summary": "\"Kręcenie głową z niedowierzaniem i przecieranie oczu ze zdumienia stało się w Europie mało przyjemnym rytuałem\" - pisze \"Der Spigel\", krytykując postawę europejskich liderów wobec działań prezydenta USA. Ocenia, że ktoś zawsze \"schlebiał\" Donaldowi Trumpowi i \"często wszystko jakoś działało. \"W koń",
+    "location": null,
+    "summary": "Przedstawiciele administracji Trumpa przylecą do Paryża, gdzie w sobotę spotkają się z delegacjami z Ukrainy, Niemiec, Wielkiej Brytanii i Francji — informuje Axios, powołując się na informacje z Białego Domu oraz jedno źródło ukraińskie.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/katowice/rybnik-zjechal-z-pasa-i-uderzyl-w-drzewo-25-latek-zginal-na-miejscu-kierowca-zmarl-w-szpitalu-st8796988",
-    "title": "Pasażer zginął na miejscu, kierowca zmarł w szpitalu",
-    "description": "W Rybniku kierujący osobowym volkswagenem zjechał z drogi i uderzył w drzewo. 25-letni pasażer zginął na miejscu. 26-letni kierowca w ciężkim stanie trafił do szpitala, gdzie zmarł.",
-    "url": "https://tvn24.pl/katowice/rybnik-zjechal-z-pasa-i-uderzyl-w-drzewo-25-latek-zginal-na-miejscu-kierowca-zmarl-w-szpitalu-st8796988?source=rss",
-    "publishedAt": "2025-12-11T14:12:36.000Z",
+    "guid": "0d238e97-6b26-4a91-bb0f-8842e8a00676",
+    "title": "\"Onet Rano\" | 12.12",
+    "description": "#płatnawspółpraca | W piątek w \"Onet Rano.\" przywita się Marcin Zawada, którego gośćmi będą: Tomasz Trela, Lewica; Maciej Kawulski, reżyser filmowy; Tomasz Włosok, aktor; Anna Dereszowska, aktorka, przyjaciółka Fundacji Ronalda McDonalda; Stefan Niesiołowski, Koalicja Obywatelska. W części \"Onet Ran",
+    "url": "https://wiadomosci.onet.pl/kraj/onet-rano-or-1212/y1rkf6h",
+    "publishedAt": "2025-12-11T17:17:21.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Czxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82YmE3NjkzZDhlZTRlYjhlY2FhOTE4ZWI2YTUxNjhiZC5wbmeSlQMAAM0JYc0FR5MFzQlgzQZA3gACoTAHoTEE",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "#płatnawspółpraca | W piątek w \"Onet Rano.\" przywita się Marcin Zawada, którego gośćmi będą: Tomasz Trela, Lewica; Maciej Kawulski, reżyser filmowy; Tomasz Włosok, aktor; Anna Dereszowska, aktorka, przyjaciółka Fundacji Ronalda McDonalda; Stefan Niesiołowski, Koalicja Obywatelska. W części \"Onet Ran",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "d7224366-cbab-4e0e-8f1a-d21fd33ecf46",
+    "title": "Szef MSZ o kolejnym spotkaniu koalicji chętnych. \"Europa ma w rękach solidne karty\"",
+    "description": "Wicepremier Radosław Sikorski poinformował o kolejnym spotkaniu koalicji chętnych, w którym wziął udział. \"Europa ma w rękach solidne karty. Najwyższa pora ich użyć\" — ocenił szef MSZ we wpisie w serwisie X.",
+    "url": "https://wiadomosci.onet.pl/kraj/szef-msz-o-kolejnym-spotkaniu-koalicji-chetnych-europa-ma-w-rekach-solidne-karty/ywj899b",
+    "publishedAt": "2025-12-11T17:12:09.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/tL-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85MjU3MDBlZTM0NjU3NzBiOTA0MWFlZDI4Njc1NTNmMy5qcGeSlQMAzLvNECDNCRKTBc0JYM0GQN4AAqEwB6ExBA",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Wicepremier Radosław Sikorski poinformował o kolejnym spotkaniu koalicji chętnych, w którym wziął udział. \"Europa ma w rękach solidne karty. Najwyższa pora ich użyć\" — ocenił szef MSZ we wpisie w serwisie X.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "4659cb59-f55d-4d61-88ee-0faec28f08bd",
+    "title": "Kreml karmi wojenną machinę bez opamiętania. Armia Putina zjada 2 miliardy rubli na godzinę. I nic nie wskazuje na to, by miała zwolnić [ANALIZA]",
+    "description": "Rosja wchodzi w kolejny rok z budżetem skrojonym pod potrzeby frontu, a nie obywateli. Mimo rozmów o możliwym pokoju Kreml nie zamierza zakręcać kurka z wojennymi wydatkami — przeciwnie, armia i służby dostają rekordowe środki. \"Naboje i drony i tak trzeba będzie produkować\", słyszymy z otoczenia wł",
+    "url": "https://wiadomosci.onet.pl/swiat/kreml-karmi-wojenna-machine-bez-opamietania-armia-putina-zjada-2-miliardy-rubli-na/bdnv6fr",
+    "publishedAt": "2025-12-11T17:08:59.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/uVxk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81YmI5MWVmZDVhNTc3N2ZmYjBjOWUxODc5NmY0MzNmMy5qcGeSlQPNAljM0s0T4c0LMZMFzQlgzQZA3gACoTAHoTEE",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Rosja wchodzi w kolejny rok z budżetem skrojonym pod potrzeby frontu, a nie obywateli. Mimo rozmów o możliwym pokoju Kreml nie zamierza zakręcać kurka z wojennymi wydatkami — przeciwnie, armia i służby dostają rekordowe środki. \"Naboje i drony i tak trzeba będzie produkować\", słyszymy z otoczenia wł",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "a570cb6d-423b-4736-b963-70ec4198bbc1",
+    "title": "Viktor Orban szykuje się na utratę władzy? Media: w grze sensacyjny scenariusz",
+    "description": "Premier Węgier Viktor Orban, w związku z możliwością porażki w przyszłorocznych wyborach parlamentarnych, rozważa objęcie urzędu prezydenta i takiej zmiany konstytucji, by uczynić ten urząd najsilniejszym w kraju — podał w czwartek Bloomberg, powołując się na źródło bliskie sprawie.",
+    "url": "https://wiadomosci.onet.pl/swiat/viktor-orban-szykuje-sie-na-utrate-wladzy-media-w-grze-sensacyjny-scenariusz/kryd55s",
+    "publishedAt": "2025-12-11T17:02:11.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/YFhk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNDYyMTY2ZjkzNjZlYWY0NTI0ZTVlZjMyMmNjNDRmOC5qcGeSlQMAWM0LC80GNpMFzQlgzQZA3gACoTAHoTEE",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Premier Węgier Viktor Orban, w związku z możliwością porażki w przyszłorocznych wyborach parlamentarnych, rozważa objęcie urzędu prezydenta i takiej zmiany konstytucji, by uczynić ten urząd najsilniejszym w kraju — podał w czwartek Bloomberg, powołując się na źródło bliskie sprawie.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-pluszowy-jamnik-w-miejskim-autobusie-ostateczna-odpowiedz-st8797276",
+    "title": "Urzędnicy pozostali przy swoim. Koniec afery jamnikowej",
+    "description": "Zielony pluszowy jamnik nie wróci do autobusu kierowanego przez panią Annę. Zarząd Transportu Miejskiego odrzucił petycję w tej sprawie, tłumacząc się kwestiami bezpieczeństwa i estetyki.",
+    "url": "https://tvn24.pl/tvnwarszawa/wawer/warszawa-pluszowy-jamnik-w-miejskim-autobusie-ostateczna-odpowiedz-st8797276?source=rss",
+    "publishedAt": "2025-12-11T20:17:40.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -411,60 +385,88 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "W Rybniku kierujący osobowym volkswagenem zjechał z drogi i uderzył w drzewo. 25-letni pasażer zginął na miejscu. 26-letni kierowca w ciężkim stanie trafił do szpitala, gdzie zmarł.",
+    "summary": "Zielony pluszowy jamnik nie wróci do autobusu kierowanego przez panią Annę. Zarząd Transportu Miejskiego odrzucił petycję w tej sprawie, tłumacząc się kwestiami bezpieczeństwa i estetyki.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://konkret24.tvn24.pl/polityka/politycy-opozycji-teraz-twierdza-nisko-upadlismy-a-jak-bylo-gdy-rzadzili-st8796025",
-    "title": "Teraz twierdzą: \"nisko upadliśmy\". A jak było, gdy rządzili?",
-    "description": "Zgoda Komisji Europejskiej na wsparcie budowy elektrowni jądrowej z polskiego budżetu uruchomiła wśród polityków PiS narrację, że Polska \"nisko upadła\". Kpią, że skoro musimy pytać Brukselę o zgodę na wydanie własnych pieniędzy, to \"tak właśnie wygląda suwerenność Polski w praktyce\". O istotnej rzec",
-    "url": "https://konkret24.tvn24.pl/polityka/politycy-opozycji-teraz-twierdza-nisko-upadlismy-a-jak-bylo-gdy-rzadzili-st8796025?source=rss",
-    "publishedAt": "2025-12-11T14:09:22.000Z",
+    "guid": "https://tvn24.pl/biznes/z-kraju/jacek-semaniak-nie-zyje-mial-61-lat-st8797609",
+    "title": "Jacek Semaniak nie żyje. Prezes Głównego Urzędu Miar miał 61 lat",
+    "description": "Nie żyje profesor Jacek Semaniak, prezes Głównego Urzędu Miar i były wieloletni rektor Uniwersytetu Jana Kochanowskiego w Kielcach. Miał 61 lat. Informację o jego śmierci przekazała w czwartek uczelnia, a także rzeczniczka GUM.",
+    "url": "https://tvn24.pl/biznes/z-kraju/jacek-semaniak-nie-zyje-mial-61-lat-st8797609?source=rss",
+    "publishedAt": "2025-12-11T19:55:45.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
     "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": {
-      "name": "Poland",
-      "lat": 52.23,
-      "lon": 21.01
-    },
-    "summary": "Zgoda Komisji Europejskiej na wsparcie budowy elektrowni jądrowej z polskiego budżetu uruchomiła wśród polityków PiS narrację, że Polska \"nisko upadła\". Kpią, że skoro musimy pytać Brukselę o zgodę na wydanie własnych pieniędzy, to \"tak właśnie wygląda suwerenność Polski w praktyce\". O istotnej rzec",
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Nie żyje profesor Jacek Semaniak, prezes Głównego Urzędu Miar i były wieloletni rektor Uniwersytetu Jana Kochanowskiego w Kielcach. Miał 61 lat. Informację o jego śmierci przekazała w czwartek uczelnia, a także rzeczniczka GUM.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/biznes/tech/ai-w-firmach-polska-druga-od-konca-niepokojace-dane-eurostatu-st8796413",
-    "title": "Polska druga od końca. Niepokojący wynik",
-    "description": "Polska jest na przedostatnim miejscu w Unii Europejskiej pod względem wykorzystania sztucznej inteligencji w firmach - wynika z badania Eurostatu. W całej Wspólnocie stosuje ją w swojej działalności 20 procent przedsiębiorstw. U nas to jedynie 8,4 procent.",
-    "url": "https://tvn24.pl/biznes/tech/ai-w-firmach-polska-druga-od-konca-niepokojace-dane-eurostatu-st8796413?source=rss",
-    "publishedAt": "2025-12-11T14:05:18.000Z",
+    "guid": "https://tvn24.pl/polska/awantura-o-mig-i-29-dla-ukrainy-magdalena-biejat-w-kropce-nad-i-wpuscili-prezydenta-w-maliny-st8797542",
+    "title": "Biejat w \"Kropce nad i\": ludzie prezydenta wpuścili go w maliny",
+    "description": "Wszystko wskazuje na to, że pan prezydent Karol Nawrocki nie jest informowany przez swoich własnych współpracowników - powiedziała w \"Kropce nad i\" Magdalena Biejat na temat zamieszania wokół przekazania Ukrainie polskich myśliwców. Zdaniem Janusza Cieszyńskiego, szef MON Władysław Kosiniak-Kamysz k",
+    "url": "https://tvn24.pl/polska/awantura-o-mig-i-29-dla-ukrainy-magdalena-biejat-w-kropce-nad-i-wpuscili-prezydenta-w-maliny-st8797542?source=rss",
+    "publishedAt": "2025-12-11T19:52:16.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
     "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": {
-      "name": "Poland",
-      "lat": 52.23,
-      "lon": 21.01
-    },
-    "summary": "Polska jest na przedostatnim miejscu w Unii Europejskiej pod względem wykorzystania sztucznej inteligencji w firmach - wynika z badania Eurostatu. W całej Wspólnocie stosuje ją w swojej działalności 20 procent przedsiębiorstw. U nas to jedynie 8,4 procent.",
+    "category": "nauka",
+    "subcategory": "Badania",
+    "categoryConfidence": 0.6,
+    "location": null,
+    "summary": "Wszystko wskazuje na to, że pan prezydent Karol Nawrocki nie jest informowany przez swoich własnych współpracowników - powiedziała w \"Kropce nad i\" Magdalena Biejat na temat zamieszania wokół przekazania Ukrainie polskich myśliwców. Zdaniem Janusza Cieszyńskiego, szef MON Władysław Kosiniak-Kamysz k",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/polska/sejm-justyna-dobrosz-oracz-przerwala-wywiad-z-senatorem-pis-usilowal-wylaczyc-jej-mikrofon-st8796902",
-    "title": "Przerwany wywiad z senatorem PiS. \"Skandaliczne zachowanie\"",
-    "description": "Dziennikarka TVP Justyna Dobrosz-Oracz przerwała wywiad z senatorem PiS Wojciechem Skurkiewiczem. Na nagraniu widać jak ten usiłował wyłączyć jej przyczepiony na wysokości klatki piersiowej mikrofon. Politycy piszą o \"skandalicznym\" zachowaniu byłego wiceministra obrony narodowej i zapowiadają podję",
-    "url": "https://tvn24.pl/polska/sejm-justyna-dobrosz-oracz-przerwala-wywiad-z-senatorem-pis-usilowal-wylaczyc-jej-mikrofon-st8796902?source=rss",
-    "publishedAt": "2025-12-11T14:00:18.000Z",
+    "guid": "https://tvn24.pl/polska/grzegorz-schetyna-o-mig-ach-dla-ukrainy-wszyscy-o-tym-slyszeli-oprocz-prezydenta-karola-nawrockiego-st8797567",
+    "title": "\"Wszyscy o tym słyszeli, rozmawiali i wiedzieli. Oprócz prezydenta\"",
+    "description": "Prezydent Karol Nawrocki jest wprowadzany w błąd przez swoich współpracowników w sprawie MiG-ów dla Ukrainy - ocenił senator KO Grzegorz Schetyna. Gość \"Faktów po Faktach\" TVN24 ocenił, że w takim przypadku wystarczyło przekazanie urzędnikom kancelarii prezydenta odpowiednich dokumentów i to oni pow",
+    "url": "https://tvn24.pl/polska/grzegorz-schetyna-o-mig-ach-dla-ukrainy-wszyscy-o-tym-slyszeli-oprocz-prezydenta-karola-nawrockiego-st8797567?source=rss",
+    "publishedAt": "2025-12-11T19:47:59.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "nauka",
+    "subcategory": "Badania",
+    "categoryConfidence": 0.6,
+    "location": null,
+    "summary": "Prezydent Karol Nawrocki jest wprowadzany w błąd przez swoich współpracowników w sprawie MiG-ów dla Ukrainy - ocenił senator KO Grzegorz Schetyna. Gość \"Faktów po Faktach\" TVN24 ocenił, że w takim przypadku wystarczyło przekazanie urzędnikom kancelarii prezydenta odpowiednich dokumentów i to oni pow",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/biznes/ze-swiata/mcdonald-s-gigant-wycofuje-reklame-miala-pokazywac-stresujace-momenty-st8797513",
+    "title": "Gigant wycofuje reklamę. \"Miała pokazywać stresujące momenty\"",
+    "description": "McDonald’s wycofał w Holandii stworzoną z wykorzystaniem sztucznej inteligencji świąteczną reklamę po tym, jak spot spotkał się z falą krytyki w internecie - poinformował brytyjski Guardian. To kolejne kontrowersje wokół materiałów promocyjnych wygenerowanych z użyciem narzędzi AI.",
+    "url": "https://tvn24.pl/biznes/ze-swiata/mcdonald-s-gigant-wycofuje-reklame-miala-pokazywac-stresujace-momenty-st8797513?source=rss",
+    "publishedAt": "2025-12-11T19:40:47.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "nauka",
+    "subcategory": "Badania",
+    "categoryConfidence": 0.6,
+    "location": null,
+    "summary": "McDonald’s wycofał w Holandii stworzoną z wykorzystaniem sztucznej inteligencji świąteczną reklamę po tym, jak spot spotkał się z falą krytyki w internecie - poinformował brytyjski Guardian. To kolejne kontrowersje wokół materiałów promocyjnych wygenerowanych z użyciem narzędzi AI.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/swiat/to-nagranie-mrozi-krew-w-zylach-spadochroniarz-uwolnil-sie-nozem-st8797364",
+    "title": "To nagranie mrozi krew w żyłach. Spadochroniarz uwolnił się nożem",
+    "description": "Spadochron australijskiego skoczka zaplątał się wokół statecznika samolotu w czasie skoku z wysokości około 4500 metrów. Mężczyźnie udało się uwolnić, rozcinając liny nożem. Pilot samolotu również wyszedł ze zdarzenia cało, choć statecznik został uszkodzony.",
+    "url": "https://tvn24.pl/swiat/to-nagranie-mrozi-krew-w-zylach-spadochroniarz-uwolnil-sie-nozem-st8797364?source=rss",
+    "publishedAt": "2025-12-11T19:28:00.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -473,16 +475,16 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Dziennikarka TVP Justyna Dobrosz-Oracz przerwała wywiad z senatorem PiS Wojciechem Skurkiewiczem. Na nagraniu widać jak ten usiłował wyłączyć jej przyczepiony na wysokości klatki piersiowej mikrofon. Politycy piszą o \"skandalicznym\" zachowaniu byłego wiceministra obrony narodowej i zapowiadają podję",
+    "summary": "Spadochron australijskiego skoczka zaplątał się wokół statecznika samolotu w czasie skoku z wysokości około 4500 metrów. Mężczyźnie udało się uwolnić, rozcinając liny nożem. Pilot samolotu również wyszedł ze zdarzenia cało, choć statecznik został uszkodzony.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/swiat/11-letni-roman-opowiadal-o-mamie-tlumaczka-zamilkla-nie-mogla-powstrzymac-lez-st8796076",
-    "title": "11-letni Roman opowiadał o mamie. Tłumaczka zamilkła, nie mogła powstrzymać łez",
-    "description": "Kiedy 11-letni, okaleczony przez Rosjan Roman opowiadał, jak stracił mamę, tłumaczka Parlamentu Europejskiego w Strasburgu nie mogła powstrzymać łez. Z pomocą przyszedł jeden z obecnych na sali.",
-    "url": "https://tvn24.pl/swiat/11-letni-roman-opowiadal-o-mamie-tlumaczka-zamilkla-nie-mogla-powstrzymac-lez-st8796076?source=rss",
-    "publishedAt": "2025-12-11T13:58:38.000Z",
+    "guid": "https://tvn24.pl/tvnmeteo/swiat/brazylia-korek-po-historycznej-wichurze-mial-200-kilometrow-odwolano-setki-lotow-st8797521",
+    "title": "Historyczna wichura. Korki na 200 kilometrów, odwołano setki lotów",
+    "description": "Cyklon przetoczył się nad Sao Paulo w Brazylii, odcinając dostawy prądu do dwóch milionów odbiorców. Silny wiatr spowodował również utrudnienia w transporcie lotniczym. Na obsługujących metropolię lotniskach odwołano ponad 300 lotów.",
+    "url": "https://tvn24.pl/tvnmeteo/swiat/brazylia-korek-po-historycznej-wichurze-mial-200-kilometrow-odwolano-setki-lotow-st8797521?source=rss",
+    "publishedAt": "2025-12-11T19:24:05.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -491,16 +493,16 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Kiedy 11-letni, okaleczony przez Rosjan Roman opowiadał, jak stracił mamę, tłumaczka Parlamentu Europejskiego w Strasburgu nie mogła powstrzymać łez. Z pomocą przyszedł jeden z obecnych na sali.",
+    "summary": "Cyklon przetoczył się nad Sao Paulo w Brazylii, odcinając dostawy prądu do dwóch milionów odbiorców. Silny wiatr spowodował również utrudnienia w transporcie lotniczym. Na obsługujących metropolię lotniskach odwołano ponad 300 lotów.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/trojmiasto/gdansk-lis-na-dachu-amberexpo-musial-wejsc-po-rusztowaniu-st8796121",
-    "title": "Lis na dachu biurowca",
-    "description": "We wtorek rano straż miejska w Gdańsku interweniowała w sprawie lisa, który chodził po dachu budynku biurowego Centrum Wystawienniczo-Kongresowego Amberexpo przy ulicy Żaglowej.",
-    "url": "https://tvn24.pl/trojmiasto/gdansk-lis-na-dachu-amberexpo-musial-wejsc-po-rusztowaniu-st8796121?source=rss",
-    "publishedAt": "2025-12-11T13:58:21.000Z",
+    "guid": "https://tvn24.pl/polska/bielsko-biala-smierc-po-cesarskim-cieciu-specjalistka-o-historii-pani-anny-az-brak-mi-slow-st8797520",
+    "title": "Specjalistka o historii pani Anny: aż brak mi słów",
+    "description": "Ja sobie takiej sytuacji nie jestem w stanie w ogóle wyobrazić - mówiła w \"Faktach po Faktach\" w TVN24 profesor Marzena Dębska o sprawie śmierci po cesarskim cięciu. - Najbardziej wstrząsające - oprócz tego, że nie było ginekologa na oddziale położniczym - było czekanie personelu szpitala, w tym ane",
+    "url": "https://tvn24.pl/polska/bielsko-biala-smierc-po-cesarskim-cieciu-specjalistka-o-historii-pani-anny-az-brak-mi-slow-st8797520?source=rss",
+    "publishedAt": "2025-12-11T19:19:16.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -509,16 +511,34 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "We wtorek rano straż miejska w Gdańsku interweniowała w sprawie lisa, który chodził po dachu budynku biurowego Centrum Wystawienniczo-Kongresowego Amberexpo przy ulicy Żaglowej.",
+    "summary": "Ja sobie takiej sytuacji nie jestem w stanie w ogóle wyobrazić - mówiła w \"Faktach po Faktach\" w TVN24 profesor Marzena Dębska o sprawie śmierci po cesarskim cięciu. - Najbardziej wstrząsające - oprócz tego, że nie było ginekologa na oddziale położniczym - było czekanie personelu szpitala, w tym ane",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
   },
   {
-    "guid": "https://tvn24.pl/swiat/benin-nieudany-zamach-stanu-na-wybrzezu-pojawily-sie-rosyjskie-okrety-media-st8797027",
-    "title": "Próbowali obalić prezydenta, na wybrzeżu rosyjskie okręty",
-    "description": "Podczas próby puczu w Beninie na wybrzeżu pojawiły się dwa rosyjskie okręty - informuje nowojorska agencja Sahara Reporters. Jej zdaniem pucz mógł być inspirowany przez Kreml, a w dniu puczu rosyjska propaganda w internecie była wyjątkowo silna.",
-    "url": "https://tvn24.pl/swiat/benin-nieudany-zamach-stanu-na-wybrzezu-pojawily-sie-rosyjskie-okrety-media-st8797027?source=rss",
-    "publishedAt": "2025-12-11T13:57:23.000Z",
+    "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-budzet-miasta-na-2026-rok-st8797505",
+    "title": "\"Metro jedzie do Ursusa\". Budżet na przyszły rok przyjęty",
+    "description": "Podczas czwartkowej sesji Rady Warszawy przyjęto uchwałę budżetową na 2026 rok. Kwota na bieżące wydatki wyniesie 28 miliardów złotych.",
+    "url": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-budzet-miasta-na-2026-rok-st8797505?source=rss",
+    "publishedAt": "2025-12-11T18:42:33.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Podczas czwartkowej sesji Rady Warszawy przyjęto uchwałę budżetową na 2026 rok. Kwota na bieżące wydatki wyniesie 28 miliardów złotych.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/polska/profesor-matczak-o-prezydencie-nie-moze-lapac-za-kierownice-bo-powoduje-niebezpieczenstwo-st8797428",
+    "title": "Profesor Matczak o prezydencie: nie może łapać za kierownicę, bo powoduje niebezpieczeństwo",
+    "description": "W sprawie polityki zewnętrznej to prezydent powinien raczej konsultować się z rządem, czy nie wkłada kija w szprychy - mówił w \"Tak Jest\" w TVN24 prawnik, profesor Marcin Matczak. - Traktuję raczej działania prezydenta jako wymuszanie docenienia tego, że on jest ważny - ocenił politykę Karola Nawroc",
+    "url": "https://tvn24.pl/polska/profesor-matczak-o-prezydencie-nie-moze-lapac-za-kierownice-bo-powoduje-niebezpieczenstwo-st8797428?source=rss",
+    "publishedAt": "2025-12-11T18:41:13.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -527,14 +547,140 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Podczas próby puczu w Beninie na wybrzeżu pojawiły się dwa rosyjskie okręty - informuje nowojorska agencja Sahara Reporters. Jej zdaniem pucz mógł być inspirowany przez Kreml, a w dniu puczu rosyjska propaganda w internecie była wyjątkowo silna.",
+    "summary": "W sprawie polityki zewnętrznej to prezydent powinien raczej konsultować się z rządem, czy nie wkłada kija w szprychy - mówił w \"Tak Jest\" w TVN24 prawnik, profesor Marcin Matczak. - Traktuję raczej działania prezydenta jako wymuszanie docenienia tego, że on jest ważny - ocenił politykę Karola Nawroc",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/lubuskie/zary-dziesiatki-osob-psy-i-drony-w-akcji-od-niedzieli-szukaja-zaginionego-27-latka-st8797473",
+    "title": "Dziesiątki osób, psy i drony w akcji. Od niedzieli szukają zaginionego 27-latka",
+    "description": "Piąty dzień trwają poszukiwania 27-letniego Gabriela Nowaka. Mężczyzna ostatni raz widziany był w środę, 3 grudnia. Zaangażowano dziesiątki osób, psy tropiące i drony.",
+    "url": "https://tvn24.pl/lubuskie/zary-dziesiatki-osob-psy-i-drony-w-akcji-od-niedzieli-szukaja-zaginionego-27-latka-st8797473?source=rss",
+    "publishedAt": "2025-12-11T18:26:31.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Piąty dzień trwają poszukiwania 27-letniego Gabriela Nowaka. Mężczyzna ostatni raz widziany był w środę, 3 grudnia. Zaangażowano dziesiątki osób, psy tropiące i drony.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.039Z"
+  },
+  {
+    "guid": "https://tvn24.pl/biznes/ze-swiata/meksyk-cla-w-gore-reakcja-pekinu-powaznie-zaszkodza-st8797365",
+    "title": "Cła w górę, reakcja Pekinu. \"Poważnie zaszkodzą\"",
+    "description": "Meksykański Senat zatwierdził pakiet nowych ceł na ponad 1,4 tysiąca produktów – w tym samochody, odzież i sprzęt AGD – sięgających nawet 50 procent. Decyzja, która zacznie obowiązywać 1 stycznia 2026 roku, wywołała ostrą reakcję Chin i wpisuje się w szersze napięcia handlowe między Meksykiem, Pekin",
+    "url": "https://tvn24.pl/biznes/ze-swiata/meksyk-cla-w-gore-reakcja-pekinu-powaznie-zaszkodza-st8797365?source=rss",
+    "publishedAt": "2025-12-11T18:19:48.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Meksykański Senat zatwierdził pakiet nowych ceł na ponad 1,4 tysiąca produktów – w tym samochody, odzież i sprzęt AGD – sięgających nawet 50 procent. Decyzja, która zacznie obowiązywać 1 stycznia 2026 roku, wywołała ostrą reakcję Chin i wpisuje się w szersze napięcia handlowe między Meksykiem, Pekin",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-drogowcy-planuja-zmiany-na-s8-maja-usprawnic-ruch-st8797224",
+    "title": "Drogowcy planują zmiany na S8. Mają usprawnić ruch",
+    "description": "Generalna Dyrekcja Dróg Krajowych i Autostrad przymierza się do wprowadzenia zmian w organizacji ruchu w czterech miejscach na trasie S8. Chodzi o odcinek między węzłami Łabiszyńska i Powązkowska.",
+    "url": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-drogowcy-planuja-zmiany-na-s8-maja-usprawnic-ruch-st8797224?source=rss",
+    "publishedAt": "2025-12-11T18:11:36.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Generalna Dyrekcja Dróg Krajowych i Autostrad przymierza się do wprowadzenia zmian w organizacji ruchu w czterech miejscach na trasie S8. Chodzi o odcinek między węzłami Łabiszyńska i Powązkowska.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-12-12-na-drogach-moze-sie-zrobic-slisko-st8797368",
+    "title": "Pogoda na jutro - piątek, 12.12. Na drogach może się zrobić ślisko",
+    "description": "Pogoda na jutro, czyli na piątek 12.12. Noc będzie pochmurna, miejscami deszczowa. Również w piątek aura zapowiada się ponuro. W części kraju mogą pojawić się pojedyncze mgły.",
+    "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-12-12-na-drogach-moze-sie-zrobic-slisko-st8797368?source=rss",
+    "publishedAt": "2025-12-11T18:09:05.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Pogoda na jutro, czyli na piątek 12.12. Noc będzie pochmurna, miejscami deszczowa. Również w piątek aura zapowiada się ponuro. W części kraju mogą pojawić się pojedyncze mgły.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/swiat/mjanma-birma-kilkadziesiat-ofiar-nalotu-junty-na-szpital-nowa-fala-przemocy-st8797406",
+    "title": "\"Nowa fala przemocy\". Kilkadziesiąt ofiar śmiertelnych ataku na szpital",
+    "description": "W ataku na szpital przeprowadzonym przez rządzącą Mjanmą (Birmą) juntę zginęło co najmniej 30 osób, a ponad 70 zostało rannych - przekazały w czwartek media, powołując się na lokalne źródła. Wysoki Komisarz ONZ do spraw praw człowieka potępił nalot.",
+    "url": "https://tvn24.pl/swiat/mjanma-birma-kilkadziesiat-ofiar-nalotu-junty-na-szpital-nowa-fala-przemocy-st8797406?source=rss",
+    "publishedAt": "2025-12-11T18:06:01.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "W ataku na szpital przeprowadzonym przez rządzącą Mjanmą (Birmą) juntę zginęło co najmniej 30 osób, a ponad 70 zostało rannych - przekazały w czwartek media, powołując się na lokalne źródła. Wysoki Komisarz ONZ do spraw praw człowieka potępił nalot.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/katowice/zabrze-nie-mogl-sie-skontaktowac-z-dorosla-corka-znalazl-ja-martwa-st8797491",
+    "title": "Nie mógł się skontaktować z dorosłą córką, znalazł ją martwą",
+    "description": "Ojciec nie mógł się dodzwonić do 37-letniej córki. Zaniepokojony pojechał do jej mieszkania, znalazł ją martwą. Zarzut zabójstwa usłyszał partner kobiety.",
+    "url": "https://tvn24.pl/katowice/zabrze-nie-mogl-sie-skontaktowac-z-dorosla-corka-znalazl-ja-martwa-st8797491?source=rss",
+    "publishedAt": "2025-12-11T18:00:51.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Ojciec nie mógł się dodzwonić do 37-letniej córki. Zaniepokojony pojechał do jej mieszkania, znalazł ją martwą. Zarzut zabójstwa usłyszał partner kobiety.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/biznes/z-kraju/kazde-weto-kosztuje-zaskakujaca-reakcja-na-decyzje-nawrockiego-st8797355",
+    "title": "\"Każde weto kosztuje\". Zaskakująca propozycja",
+    "description": "W czwartek senacka komisja klimatu i środowiska pozytywnie zaopiniowała wniosek o zmniejszenie budżetu Kancelarii Prezydenta RP o niemal 218 milionów złotych - napisał na portalu X jej przewodniczący Stanisław Gawłowski. Jak wyjaśniał senator podczas posiedzenia komisji, kwota odpowiada karom, jakie",
+    "url": "https://tvn24.pl/biznes/z-kraju/kazde-weto-kosztuje-zaskakujaca-reakcja-na-decyzje-nawrockiego-st8797355?source=rss",
+    "publishedAt": "2025-12-11T17:57:54.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "W czwartek senacka komisja klimatu i środowiska pozytywnie zaopiniowała wniosek o zmniejszenie budżetu Kancelarii Prezydenta RP o niemal 218 milionów złotych - napisał na portalu X jej przewodniczący Stanisław Gawłowski. Jak wyjaśniał senator podczas posiedzenia komisji, kwota odpowiada karom, jakie",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-zawroty-glowy-i-omdlenia-ewakuowali-szkole-st8797031",
-    "title": "Nieznana substancja i ewakuacja szkoły. Cztery osoby z zawrotami głowy i omdleniami",
-    "description": "W jednej ze szkół podstawowych w Siedlcach trwa akcja służb w związku z podejrzeniem rozpylenia nieznanej substancji. Cztery uskarżały się na zawroty głowy i omdlenia. Z budynku ewakuowano 537 osób.",
+    "title": "Nieznana substancja i ewakuacja szkoły. Jedna osoba trafiła do szpitala",
+    "description": "W jednej ze szkół podstawowych w Siedlcach trwa akcja służb w związku z podejrzeniem rozpylenia nieznanej substancji. Z budynku ewakuowano 537 osób. Pięciu osobom udzielono pomocy medycznej, jedna trafiła do szpitala.",
     "url": "https://tvn24.pl/tvnwarszawa/okolice/siedlce-zawroty-glowy-i-omdlenia-ewakuowali-szkole-st8797031?source=rss",
     "publishedAt": "2025-12-11T13:54:32.000Z",
     "source": "TVN24",
@@ -545,92 +691,16 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "W jednej ze szkół podstawowych w Siedlcach trwa akcja służb w związku z podejrzeniem rozpylenia nieznanej substancji. Cztery uskarżały się na zawroty głowy i omdlenia. Z budynku ewakuowano 537 osób.",
+    "summary": "W jednej ze szkół podstawowych w Siedlcach trwa akcja służb w związku z podejrzeniem rozpylenia nieznanej substancji. Z budynku ewakuowano 537 osób. Pięciu osobom udzielono pomocy medycznej, jedna trafiła do szpitala.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/wroclaw/jelenia-gora-rozbita-grupa-przestepcza-handlujaca-nielegalnym-tytoniem-straty-skarbu-panstwa-siegaja-8-mln-zl-st8796957",
-    "title": "Zatrzymali 11 osób, przejęli gotówkę i samochody",
-    "description": "Zatrzymali 11 osób, przejęli nielegalne wyroby tytoniowe oraz gotówkę i samochody. \"Z dotychczasowych ustaleń wynika, że zorganizowana grupa przestępcza działała od lipca 2024 do stycznia 2025 roku, generując straty podatkowe nie niższe niż 8 milionów złotych\" - podała policja.",
-    "url": "https://tvn24.pl/wroclaw/jelenia-gora-rozbita-grupa-przestepcza-handlujaca-nielegalnym-tytoniem-straty-skarbu-panstwa-siegaja-8-mln-zl-st8796957?source=rss",
-    "publishedAt": "2025-12-11T13:48:49.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Zatrzymali 11 osób, przejęli nielegalne wyroby tytoniowe oraz gotówkę i samochody. \"Z dotychczasowych ustaleń wynika, że zorganizowana grupa przestępcza działała od lipca 2024 do stycznia 2025 roku, generując straty podatkowe nie niższe niż 8 milionów złotych\" - podała policja.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
-  },
-  {
-    "guid": "https://tvn24.pl/biznes/ze-swiata/turystyka-polska-coraz-popularniejszym-kierunkiem-dane-za-2025-rok-i-prognozy-st8797011",
-    "title": "Polska coraz popularniejszym kierunkiem dla turystów",
-    "description": "Ponad 18 milionów turystów, w tym 3,8 miliona z zagranicy, skorzystało z noclegu w Polsce w pierwszej połowie tego roku - wynika z szacunków firmy Cushman & Wakefield. Jak wskazano, rośnie rola Polski jako destynacji na europejskiej mapie turystycznej.",
-    "url": "https://tvn24.pl/biznes/ze-swiata/turystyka-polska-coraz-popularniejszym-kierunkiem-dane-za-2025-rok-i-prognozy-st8797011?source=rss",
-    "publishedAt": "2025-12-11T13:44:08.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": {
-      "name": "Poland",
-      "lat": 52.23,
-      "lon": 21.01
-    },
-    "summary": "Ponad 18 milionów turystów, w tym 3,8 miliona z zagranicy, skorzystało z noclegu w Polsce w pierwszej połowie tego roku - wynika z szacunków firmy Cushman & Wakefield. Jak wskazano, rośnie rola Polski jako destynacji na europejskiej mapie turystycznej.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.465Z"
-  },
-  {
-    "guid": "https://tvn24.pl/polska/jest-oficjalna-lista-kandydatow-na-szefa-polski-2050-co-z-szymonem-holownia-st8796966",
-    "title": "Jest oficjalna lista kandydatów na szefa Polski 2050",
-    "description": "Lista kandydatów na szefa Polski 2050 liczy ostatecznie siedem osób - poinformowała komisja wyborcza partii. Brak wśród nich Szymona Hołowni.",
-    "url": "https://tvn24.pl/polska/jest-oficjalna-lista-kandydatow-na-szefa-polski-2050-co-z-szymonem-holownia-st8796966?source=rss",
-    "publishedAt": "2025-12-11T13:27:43.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Lista kandydatów na szefa Polski 2050 liczy ostatecznie siedem osób - poinformowała komisja wyborcza partii. Brak wśród nich Szymona Hołowni.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
-  },
-  {
-    "guid": "https://tvn24.pl/swiat/wielka-brytania-sfalszowane-nagie-zdjecia-aktywistki-carmen-lau-z-hongkong-wyslane-do-jej-sasiadow-st8796029",
-    "title": "Sfałszowane nagie zdjęcia wysyłane z Chin sąsiadom aktywistki",
-    "description": "Znana działaczka demokratyczna z Hongkongu Carmen Lau stała się celem nękania. Choć uciekła do Wielkiej Brytanii, z Chin wysyłane są do jej sąsiadów listy z jej sfabrykowanymi zdjęciami o charakterze seksualnym. Sprawę bada policja i władze.",
-    "url": "https://tvn24.pl/swiat/wielka-brytania-sfalszowane-nagie-zdjecia-aktywistki-carmen-lau-z-hongkong-wyslane-do-jej-sasiadow-st8796029?source=rss",
-    "publishedAt": "2025-12-11T13:25:13.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Znana działaczka demokratyczna z Hongkongu Carmen Lau stała się celem nękania. Choć uciekła do Wielkiej Brytanii, z Chin wysyłane są do jej sąsiadów listy z jej sfabrykowanymi zdjęciami o charakterze seksualnym. Sprawę bada policja i władze.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
-  },
-  {
-    "guid": "https://tvn24.pl/swiat/szef-nato-mark-rutte-ostrzega-przed-wojna-na-skale-poprzednich-pokolen-apeluje-do-sojusznikow-w-nato-st8796927",
-    "title": "Szef NATO ostrzega przed wojną na \"skalę porównywalną z tą, jaką przeżyli nasi dziadkowie\"",
-    "description": "Obawiam się, że zbyt wielu sojuszników spoczywa na laurach - mówił w czwartek szef NATO Mark Rutte. Ostrzegał przed zagrożeniem ze strony Rosji i wezwał do zintensyfikowania wysiłków obronnych, aby zapobiec wojnie, która \"mogłaby przybrać skalę porównywalną z tą, jaką przeżyli nasi dziadkowie i prad",
-    "url": "https://tvn24.pl/swiat/szef-nato-mark-rutte-ostrzega-przed-wojna-na-skale-poprzednich-pokolen-apeluje-do-sojusznikow-w-nato-st8796927?source=rss",
-    "publishedAt": "2025-12-11T13:21:08.000Z",
+    "guid": "https://tvn24.pl/swiat/statek-rosyjskiej-floty-cieni-niedaleko-miejsca-ladowania-wolodymyra-zelenskiego-w-irlandii-st8797356",
+    "title": "Statek \"floty cieni\" niedaleko miejsca lądowania Zełenskiego",
+    "description": "Zanim samolot z Wołodymyrem Zełenskim na pokładzie przyleciał do Dublina, w pobliżu zaobserwowano statek rosyjskiej \"floty cieni\" - podał w czwartek dziennik \"Irish Times\". Już w czasie lotu ukraińskiego prezydenta doszło do sytuacji, którą premier Irlandii nazwał \"bardzo niepokojącym incydentem\".",
+    "url": "https://tvn24.pl/swiat/statek-rosyjskiej-floty-cieni-niedaleko-miejsca-ladowania-wolodymyra-zelenskiego-w-irlandii-st8797356?source=rss",
+    "publishedAt": "2025-12-11T17:39:01.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -639,16 +709,16 @@
     "subcategory": "Konflikty zbrojne",
     "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Obawiam się, że zbyt wielu sojuszników spoczywa na laurach - mówił w czwartek szef NATO Mark Rutte. Ostrzegał przed zagrożeniem ze strony Rosji i wezwał do zintensyfikowania wysiłków obronnych, aby zapobiec wojnie, która \"mogłaby przybrać skalę porównywalną z tą, jaką przeżyli nasi dziadkowie i prad",
+    "summary": "Zanim samolot z Wołodymyrem Zełenskim na pokładzie przyleciał do Dublina, w pobliżu zaobserwowano statek rosyjskiej \"floty cieni\" - podał w czwartek dziennik \"Irish Times\". Już w czasie lotu ukraińskiego prezydenta doszło do sytuacji, którą premier Irlandii nazwał \"bardzo niepokojącym incydentem\".",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/polska/rozmowy-w-sprawie-mig-ow-dla-ukrainy-karol-nawrocki-nie-dostalem-oficjalnej-informacji-wladyslaw-kosiniak-kamysz-ten-temat-byl-poruszany-st8796643",
-    "title": "\"Nie dostałem oficjalnej informacji\". Prezydent o rozmowach w sprawie MiG-ów dla Ukrainy",
-    "description": "Tutaj musiało się wkraść jakieś nieporozumienie - mówił w czwartek prezydent Karol Nawrocki, komentując rozmowy o przekazaniu dla Kijowa polskich myśliwców. - Nie dostałem oficjalnej informacji o tego typu działaniach i o przekazaniu MiG-ów Ukrainie - przekonywał. Tymczasem szef MON w środę stwierdz",
-    "url": "https://tvn24.pl/polska/rozmowy-w-sprawie-mig-ow-dla-ukrainy-karol-nawrocki-nie-dostalem-oficjalnej-informacji-wladyslaw-kosiniak-kamysz-ten-temat-byl-poruszany-st8796643?source=rss",
-    "publishedAt": "2025-12-11T13:07:18.000Z",
+    "guid": "https://tvn24.pl/polska/szlachetna-paczka-brakuje-darczyncow-dla-kilkuset-rodzin-st8797388",
+    "title": "Brakuje darczyńców dla kilkuset rodzin. Ostatni moment na dołączenie do akcji",
+    "description": "Do piątku można dołączyć do akcji Szlachetna Paczka. Na świąteczną pomoc czeka jeszcze około 600 rodzin. Dla ponad 19 tysięcy są już darczyńcy. - Nie wyobrażam sobie żeby stanąć przed kimś i powiedzieć: \"dla ciebie zabrakło, ciebie nikt nie wybrał\" - mówi Joanna Sadzik, prezeska Stowarzyszenia Wiosn",
+    "url": "https://tvn24.pl/polska/szlachetna-paczka-brakuje-darczyncow-dla-kilkuset-rodzin-st8797388?source=rss",
+    "publishedAt": "2025-12-11T17:35:14.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
@@ -657,193 +727,273 @@
     "subcategory": "Konflikty zbrojne",
     "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Tutaj musiało się wkraść jakieś nieporozumienie - mówił w czwartek prezydent Karol Nawrocki, komentując rozmowy o przekazaniu dla Kijowa polskich myśliwców. - Nie dostałem oficjalnej informacji o tego typu działaniach i o przekazaniu MiG-ów Ukrainie - przekonywał. Tymczasem szef MON w środę stwierdz",
+    "summary": "Do piątku można dołączyć do akcji Szlachetna Paczka. Na świąteczną pomoc czeka jeszcze około 600 rodzin. Dla ponad 19 tysięcy są już darczyńcy. - Nie wyobrażam sobie żeby stanąć przed kimś i powiedzieć: \"dla ciebie zabrakło, ciebie nikt nie wybrał\" - mówi Joanna Sadzik, prezeska Stowarzyszenia Wiosn",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/kultura-i-styl/uzaleznienia-21-wieku-dziennikarka-tvn-aneta-regulska-z-nagroda-za-reportaz-cena-gry-st8793299",
-    "title": "Dziennikarka \"Czarno na białym\" z nagrodą za reportaż \"Cena gry\"",
-    "description": "Dziennikarka TVN24 Aneta Regulska zajęła pierwsze miejsce w 11. edycji konkursu \"Uzależnienia 21 wieku\". Wyróżnienie otrzymała za swój reportaż na temat nielegalnego hazardu \"Cena gry\".",
-    "url": "https://tvn24.pl/kultura-i-styl/uzaleznienia-21-wieku-dziennikarka-tvn-aneta-regulska-z-nagroda-za-reportaz-cena-gry-st8793299?source=rss",
-    "publishedAt": "2025-12-11T13:07:00.000Z",
+    "guid": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-awarie-w-alei-niepodleglosci-st8797326",
+    "title": "Dwie awarie ciepłownicze. Zamykają fragment alei Niepodległości",
+    "description": "W alei Niepodległości doszło do awarii sieci ciepłowniczej w dwóch miejscach. Od czwartku, przy Wawelskiej będzie węziej. A od piątku, nie będzie przejazdu pomiędzy Madalińskiego a Narbutta. Kierowcy pojadą objazdami. Autobusy zmienią trasy.",
+    "url": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-awarie-w-alei-niepodleglosci-st8797326?source=rss",
+    "publishedAt": "2025-12-11T17:27:55.000Z",
     "source": "TVN24",
     "sourceCategory": "News",
     "thumbnail": null,
     "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "W alei Niepodległości doszło do awarii sieci ciepłowniczej w dwóch miejscach. Od czwartku, przy Wawelskiej będzie węziej. A od piątku, nie będzie przejazdu pomiędzy Madalińskiego a Narbutta. Kierowcy pojadą objazdami. Autobusy zmienią trasy.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://tvn24.pl/swiat/czlowiek-roku-wedlug-magazynu-time-tygodnik-wyroznil-w-tym-roku-architektow-sztucznej-inteligencji-st8797357",
+    "title": "Magazyn \"Time\" ogłosił Człowieka Roku",
+    "description": "Magazyn \"Time\" tytułem Człowieka Roku wyróżnił w tym roku grupę osób, nazwaną architektami sztucznej inteligencji, którzy rozpoczynają \"wiek myślących maszyn i transformacyjnej technologii\" - podała w czwartek redakcja amerykańskiego tygodnika.",
+    "url": "https://tvn24.pl/swiat/czlowiek-roku-wedlug-magazynu-time-tygodnik-wyroznil-w-tym-roku-architektow-sztucznej-inteligencji-st8797357?source=rss",
+    "publishedAt": "2025-12-11T17:00:27.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Magazyn \"Time\" tytułem Człowieka Roku wyróżnił w tym roku grupę osób, nazwaną architektami sztucznej inteligencji, którzy rozpoczynają \"wiek myślących maszyn i transformacyjnej technologii\" - podała w czwartek redakcja amerykańskiego tygodnika.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://www.chip.pl/?p=1569852",
+    "title": "Oceaniczna anomalia nasila się zimą. Odczyty z Hawajów wskazują na skokowy wzrost stężenia żelaza",
+    "description": "Nawet w tak stosunkowo dobrze poznanym rejonie jak wody wokół Hawajów czają się nieznane zjawiska. Naukowcy od lat obserwowali sezonowe wahania poziomu żelaza, ale najnowsze badania ujawniły zupełnie nowy mechanizm, który działa akurat wtedy, gdy się go najmniej spodziewano – w środku zimy. Okazuje ",
+    "url": "https://www.chip.pl/2025/12/oceaniczna-anomalia-hawaje-stezenie-zelaza",
+    "publishedAt": "2025-12-11T19:57:48.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
+    "thumbnail": null,
+    "categories": [
+      "Nauka",
+      "Nauka i technika"
+    ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Dziennikarka TVN24 Aneta Regulska zajęła pierwsze miejsce w 11. edycji konkursu \"Uzależnienia 21 wieku\". Wyróżnienie otrzymała za swój reportaż na temat nielegalnego hazardu \"Cena gry\".",
+    "summary": "Nawet w tak stosunkowo dobrze poznanym rejonie jak wody wokół Hawajów czają się nieznane zjawiska. Naukowcy od lat obserwowali sezonowe wahania poziomu żelaza, ale najnowsze badania ujawniły zupełnie nowy mechanizm, który działa akurat wtedy, gdy się go najmniej spodziewano – w środku zimy. Okazuje ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/lodz/lodz-zamiast-deszczowki-w-kanale-lezaly-drewniane-palety-styropian-i-plastikowe-opakowania-st8796635",
-    "title": "Odpady budowlane trafiły do kanału deszczowego",
-    "description": "Pracownicy Zakładu Wodociągów i Kanalizacji w Łodzi znaleźli w kanale deszczowym pod ulicą Matek Polskich odpady budowlane. Trzy tygodnie wcześniej do tego kanału spuszczono ścieki bytowe z pobliskiej budowy. Sprawa trafiła do Wojewódzkiego Inspektora Ochrony Środowiska.",
-    "url": "https://tvn24.pl/lodz/lodz-zamiast-deszczowki-w-kanale-lezaly-drewniane-palety-styropian-i-plastikowe-opakowania-st8796635?source=rss",
-    "publishedAt": "2025-12-11T13:03:24.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569860",
+    "title": "HUAWEI FreeClip 2 zmierzają do Polski. To stylowe klipsy z inteligentnym dźwiękiem",
+    "description": "Huawei nie zwalnia tempa i podczas globalnego wydarzenia „Unfold the Moment” zapowiedział prawdziwy wysyp innowacji. Gwiazdą premiery jest druga generacja HUAWEI FreeClip 2 – słuchawek, które redefiniują komfort noszenia dzięki otwartej, klipsowej konstrukcji. Jeśli cenisz sobie elegancki design i d",
+    "url": "https://www.chip.pl/2025/12/huawei-freeclip-2-zmierzaja-do-polski-to-stylowe-klipsy-z-inteligentnym-dzwiekiem",
+    "publishedAt": "2025-12-11T19:00:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
+    "categories": [
+      "Tech",
+      "Gadżety"
+    ],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Pracownicy Zakładu Wodociągów i Kanalizacji w Łodzi znaleźli w kanale deszczowym pod ulicą Matek Polskich odpady budowlane. Trzy tygodnie wcześniej do tego kanału spuszczono ścieki bytowe z pobliskiej budowy. Sprawa trafiła do Wojewódzkiego Inspektora Ochrony Środowiska.",
+    "summary": "Huawei nie zwalnia tempa i podczas globalnego wydarzenia „Unfold the Moment” zapowiedział prawdziwy wysyp innowacji. Gwiazdą premiery jest druga generacja HUAWEI FreeClip 2 – słuchawek, które redefiniują komfort noszenia dzięki otwartej, klipsowej konstrukcji. Jeśli cenisz sobie elegancki design i d",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/polska/tluka-sie-czy-debatuja-w-pis-goraco-politycy-komentuja-st8796346",
-    "title": "\"Tłuką się\" czy \"debatują\"? W PiS gorąco, politycy komentują",
-    "description": "Pozycja Jarosława Kaczyńskiego jest teraz słabsza, bo jeszcze 2-3 lata temu nie byłoby takich walk frakcyjnych - tak Małgorzata Kidawa-Błońska komentuje doniesienia o konflikcie w PiS. I choć senator PiS Stanisław Karczewski zapewnia, że politycy \"tylko rozmawiają i debatują\", to szef zdecydował się",
-    "url": "https://tvn24.pl/polska/tluka-sie-czy-debatuja-w-pis-goraco-politycy-komentuja-st8796346?source=rss",
-    "publishedAt": "2025-12-11T13:01:29.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569833",
+    "title": "Piekło zamarzło: Disney inwestuje w OpenAI i wprowadza swoje postacie do Sory",
+    "description": "Disney właśnie oficjalnie połączył siły z twórcami ChatGPT, podpisując trzyletnią umowę licencyjną i inwestując okrągły miliard dolarów w OpenAI. Już wkrótce będziemy mogli legalnie tworzyć wideo z Myszką Miki czy Darthem Vaderem. Twoje ulubione postacie Disneya w AI – oficjalnie i legalnie The Walt",
+    "url": "https://www.chip.pl/2025/12/disney-openai-chatgpt-sora-postacie",
+    "publishedAt": "2025-12-11T18:30:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": {
-      "name": "UK",
-      "lat": 51.51,
-      "lon": -0.13
-    },
-    "summary": "Pozycja Jarosława Kaczyńskiego jest teraz słabsza, bo jeszcze 2-3 lata temu nie byłoby takich walk frakcyjnych - tak Małgorzata Kidawa-Błońska komentuje doniesienia o konflikcie w PiS. I choć senator PiS Stanisław Karczewski zapewnia, że politycy \"tylko rozmawiają i debatują\", to szef zdecydował się",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
-  },
-  {
-    "guid": "https://tvn24.pl/wroclaw/swidnica-niepewnosc-uchodzcow-dobiega-konca-wiemy-dokad-trafia-po-likwidacji-osrodka-st8796626",
-    "title": "Niepewność uchodźców dobiega końca. Wiemy, dokąd trafią po likwidacji ośrodka",
-    "description": "Dolnośląski Urząd Wojewódzki przedstawił plan relokacji uchodźców z Ukrainy po likwidacji Schroniska dla Nieletnich w Świdnicy. 49 osób, w tym dzieci z pieczy zastępczej, trafi do Domu Wycieczkowego ŚOSiR, a 25 seniorów – do ośrodka Caritas w Zagórzu Śląskim.",
-    "url": "https://tvn24.pl/wroclaw/swidnica-niepewnosc-uchodzcow-dobiega-konca-wiemy-dokad-trafia-po-likwidacji-osrodka-st8796626?source=rss",
-    "publishedAt": "2025-12-11T12:58:31.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
+    "categories": [
+      "Tech"
+    ],
     "category": "nauka",
     "subcategory": "Badania",
     "categoryConfidence": 0.6,
     "location": null,
-    "summary": "Dolnośląski Urząd Wojewódzki przedstawił plan relokacji uchodźców z Ukrainy po likwidacji Schroniska dla Nieletnich w Świdnicy. 49 osób, w tym dzieci z pieczy zastępczej, trafi do Domu Wycieczkowego ŚOSiR, a 25 seniorów – do ośrodka Caritas w Zagórzu Śląskim.",
+    "summary": "Disney właśnie oficjalnie połączył siły z twórcami ChatGPT, podpisując trzyletnią umowę licencyjną i inwestując okrągły miliard dolarów w OpenAI. Już wkrótce będziemy mogli legalnie tworzyć wideo z Myszką Miki czy Darthem Vaderem. Twoje ulubione postacie Disneya w AI – oficjalnie i legalnie The Walt",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/tvnmeteo/smog/hanoi-tonie-w-smogu-st8796324",
-    "title": "Hanoi tonie w smogu",
-    "description": "Gęsty, toksyczny smog spowił w środę Hanoi, redukując panoramę miasta do ledwie widocznych konturów. Mieszkańcy stolicy Wietnamu mówią o \"ponurej atmosferze\" i realnym zagrożeniu dla zdrowia, a władze zapowiadają radykalne ograniczenia w ruchu pojazdów, by powstrzymać narastający kryzys.",
-    "url": "https://tvn24.pl/tvnmeteo/smog/hanoi-tonie-w-smogu-st8796324?source=rss",
-    "publishedAt": "2025-12-11T12:55:32.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569664",
+    "title": "Spintronika doczekała się przełomu. Naukowcy pokazali jak spin elektronu przełącza się w 140 pikosekund",
+    "description": "Wyobraźcie sobie komputer działający tysiące razy szybciej niż obecne maszyny. Nie jest to już tylko wizja rodem z science fiction. Zespół z Uniwersytetu Tokijskiego dokonał czegoś, co jeszcze do niedawna uważano za niemożliwe. Udało im się niejako „sfilmować” procesy zachodzące w materiałach magnet",
+    "url": "https://www.chip.pl/2025/12/spintronika-rekordowo-szybkie-przelaczanie-spinu",
+    "publishedAt": "2025-12-11T18:05:58.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
+    "categories": [
+      "Nauka"
+    ],
+    "category": "nauka",
+    "subcategory": "Badania",
+    "categoryConfidence": 0.6,
+    "location": null,
+    "summary": "Wyobraźcie sobie komputer działający tysiące razy szybciej niż obecne maszyny. Nie jest to już tylko wizja rodem z science fiction. Zespół z Uniwersytetu Tokijskiego dokonał czegoś, co jeszcze do niedawna uważano za niemożliwe. Udało im się niejako „sfilmować” procesy zachodzące w materiałach magnet",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://www.chip.pl/?p=1569836",
+    "title": "Gemini coraz śmielej wkracza na iOS. Google integruje AI bezpośrednio z Chrome na urządzeniach Apple’a",
+    "description": "W świecie smartfonów wygoda i szybkość to podstawa. Google, które już we wrześniu zapowiadało zmiany, robi duży krok w kierunku zintegrowania zaawansowanej sztucznej inteligencji bezpośrednio z codziennymi narzędziami mobilnymi. Użytkownicy urządzeń Apple’a – iPhone’ów i iPadów – mogą teraz cieszyć ",
+    "url": "https://www.chip.pl/2025/12/integracja-gemini-z-chrome-na-ios",
+    "publishedAt": "2025-12-11T17:30:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
+    "thumbnail": null,
+    "categories": [
+      "Tech",
+      "Aplikacje",
+      "Sztuczna inteligencja"
+    ],
+    "category": "nauka",
+    "subcategory": "Badania",
+    "categoryConfidence": 0.6,
+    "location": null,
+    "summary": "W świecie smartfonów wygoda i szybkość to podstawa. Google, które już we wrześniu zapowiadało zmiany, robi duży krok w kierunku zintegrowania zaawansowanej sztucznej inteligencji bezpośrednio z codziennymi narzędziami mobilnymi. Użytkownicy urządzeń Apple’a – iPhone’ów i iPadów – mogą teraz cieszyć ",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://www.chip.pl/?p=1569832",
+    "title": "Potwór średniej półki na horyzoncie. Poco M8 Pro nadchodzi z wielką baterią i superszybkim ładowaniem",
+    "description": "Marka Poco, znana ze świetnego stosunku jakości do ceny, nie zwalnia tempa. Choć premiera najnowszych modeli F8 Ultra i F8 Pro miała miejsce niedawno, firma już szykuje się do zaprezentowania kolejnego smartfona – Poco M8 Pro. A to, co wiemy o tym urządzeniu dzięki globalnym certyfikacjom, sugeruje,",
+    "url": "https://www.chip.pl/2025/12/poco-m8-pro-specyfikacja-przecieki",
+    "publishedAt": "2025-12-11T17:00:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
+    "thumbnail": null,
+    "categories": [
+      "Tech",
+      "Smartfony i tablety"
+    ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Gęsty, toksyczny smog spowił w środę Hanoi, redukując panoramę miasta do ledwie widocznych konturów. Mieszkańcy stolicy Wietnamu mówią o \"ponurej atmosferze\" i realnym zagrożeniu dla zdrowia, a władze zapowiadają radykalne ograniczenia w ruchu pojazdów, by powstrzymać narastający kryzys.",
+    "summary": "Marka Poco, znana ze świetnego stosunku jakości do ceny, nie zwalnia tempa. Choć premiera najnowszych modeli F8 Ultra i F8 Pro miała miejsce niedawno, firma już szykuje się do zaprezentowania kolejnego smartfona – Poco M8 Pro. A to, co wiemy o tym urządzeniu dzięki globalnym certyfikacjom, sugeruje,",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/biznes/pieniadze/wyrok-tsue-w-sprawie-kredytow-frankowych-potracenie-nie-blokuje-zarzutu-przedawnienia-st8796463",
-    "title": "Nowy wyrok TSUE w sprawie kredytu frankowego",
-    "description": "W czwartek Trybunał Sprawiedliwości Unii Europejskiej orzekł, że złożenie przez konsumenta oświadczenia o potrąceniu nie wiąże się automatycznie ze zrzeczeniem się przez niego zarzutu przedawnienia roszczenia banku o zwrot kapitału kredytu. Pytanie prejudycjalne w tej sprawie skierował Sąd Okręgowy ",
-    "url": "https://tvn24.pl/biznes/pieniadze/wyrok-tsue-w-sprawie-kredytow-frankowych-potracenie-nie-blokuje-zarzutu-przedawnienia-st8796463?source=rss",
-    "publishedAt": "2025-12-11T12:51:53.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569800",
+    "title": "Spotify testuje Prompted Playlist i to może być naprawdę coś",
+    "description": "Spotify jest jednym z tych serwisów, które najbardziej liberalnie podchodzą do „muzyki” generowanej przez AI. Mam na ten temat swoje zdanie, raczej negatywne, ale jak się okazuje, Spotify potrafi wykorzystać sztuczną inteligencję znacznie bardziej pożytecznie. Prompted Playlist, lista odtwarzania tw",
+    "url": "https://www.chip.pl/2025/12/spotify-test-prompted-playlist-ai",
+    "publishedAt": "2025-12-11T16:30:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
+    "categories": [
+      "Tech"
+    ],
     "category": "wojna/konflikt",
     "subcategory": "Konflikty zbrojne",
     "categoryConfidence": 0.8,
     "location": null,
-    "summary": "W czwartek Trybunał Sprawiedliwości Unii Europejskiej orzekł, że złożenie przez konsumenta oświadczenia o potrąceniu nie wiąże się automatycznie ze zrzeczeniem się przez niego zarzutu przedawnienia roszczenia banku o zwrot kapitału kredytu. Pytanie prejudycjalne w tej sprawie skierował Sąd Okręgowy ",
+    "summary": "Spotify jest jednym z tych serwisów, które najbardziej liberalnie podchodzą do „muzyki” generowanej przez AI. Mam na ten temat swoje zdanie, raczej negatywne, ale jak się okazuje, Spotify potrafi wykorzystać sztuczną inteligencję znacznie bardziej pożytecznie. Prompted Playlist, lista odtwarzania tw",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/biznes/rynki/obiecujacy-debiut-innowacyjny-ceo-szansa-na-sukces-st8796662",
-    "title": "Kosmiczna spółka wybiera się na giełdę. To może być najbardziej \"szalone IPO\" w historii",
-    "description": "Inwestorzy z entuzjazmem przyjęli doniesienia o możliwym debiucie giełdowym SpaceX, który miałby wesprzeć marsjańskie ambicje Elona Muska i wycenić firmę rakietowo-satelitarną na ponad 1 bilion dolarów. Wielu z nich od lat czekało na możliwość zakupu jej akcji.",
-    "url": "https://tvn24.pl/biznes/rynki/obiecujacy-debiut-innowacyjny-ceo-szansa-na-sukces-st8796662?source=rss",
-    "publishedAt": "2025-12-11T12:46:59.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569822",
+    "title": "Instagram oddaje kontrolę nad algorytmem w nasze ręce. Nowe narzędzie personalizacji Reels już działa",
+    "description": "Algorytmy mediów społecznościowych od lat wywołują gorące dyskusje i wątpliwości. Gdzieś w tle, ukryte za miliardami linijek kodu, decydują o tym, na jakie treści trafiamy i co zajmuje naszą uwagę. Wiele osób czuje się bezsilnych wobec tej niewidzialnej ręki, która kieruje zawartością ich strony głó",
+    "url": "https://www.chip.pl/2025/12/instagram-wprowadza-funkcje-kontroli-algorytmu",
+    "publishedAt": "2025-12-11T16:30:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
+    "categories": [
+      "Tech",
+      "Aplikacje"
+    ],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Algorytmy mediów społecznościowych od lat wywołują gorące dyskusje i wątpliwości. Gdzieś w tle, ukryte za miliardami linijek kodu, decydują o tym, na jakie treści trafiamy i co zajmuje naszą uwagę. Wiele osób czuje się bezsilnych wobec tej niewidzialnej ręki, która kieruje zawartością ich strony głó",
+    "aiEnriched": false,
+    "processedAt": "2025-12-11T20:31:29.040Z"
+  },
+  {
+    "guid": "https://www.chip.pl/?p=1569812",
+    "title": "YouTube szykuje kolejny wysyp reklam i to we wszystkich formatach wideo",
+    "description": "Kiedy włączamy YouTube’a, oczekujemy filmów. Okej, oczekiwaliśmy, bo jeśli nie płacimy za Premium, Google serwuje nam w dużej mierze model telewizyjny – wideo z dużą ilością reklam. Platforma od kilku lat konsekwentnie zaciska pętlę wokół użytkowników, którzy nie chcą płacić za subskrypcję. Walka z ",
+    "url": "https://www.chip.pl/2025/12/youtube-szykuje-kolejny-wysyp-reklam-i-to-we-wszystkich-formatach-wideo",
+    "publishedAt": "2025-12-11T16:00:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
+    "thumbnail": null,
+    "categories": [
+      "Tech",
+      "Aplikacje"
+    ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Inwestorzy z entuzjazmem przyjęli doniesienia o możliwym debiucie giełdowym SpaceX, który miałby wesprzeć marsjańskie ambicje Elona Muska i wycenić firmę rakietowo-satelitarną na ponad 1 bilion dolarów. Wielu z nich od lat czekało na możliwość zakupu jej akcji.",
+    "summary": "Kiedy włączamy YouTube’a, oczekujemy filmów. Okej, oczekiwaliśmy, bo jeśli nie płacimy za Premium, Google serwuje nam w dużej mierze model telewizyjny – wideo z dużą ilością reklam. Platforma od kilku lat konsekwentnie zaciska pętlę wokół użytkowników, którzy nie chcą płacić za subskrypcję. Walka z ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/tvnwarszawa/zoliborz/basen-zamknieto-23-lata-temu-radni-chca-by-znow-dzialal-st8796681",
-    "title": "Basen zamknięto 23 lata temu, radni chcą, by znów działał",
-    "description": "Niszczejący budynek basenu Zespołu Szkół Elektronicznych i Licealnych na Żoliborzu zostanie przebudowany. To decyzja radnych którzy wybrali koncepcję jego przebudowy.",
-    "url": "https://tvn24.pl/tvnwarszawa/zoliborz/basen-zamknieto-23-lata-temu-radni-chca-by-znow-dzialal-st8796681?source=rss",
-    "publishedAt": "2025-12-11T12:44:11.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1569803",
+    "title": "Xiaomi zaskakuje. Seria Redmi Note 15 już w polskich sklepach",
+    "description": "Xiaomi zaskoczyło polski rynek w dość nietypowy sposób. Seria Redmi Note 15, obejmująca aż pięć różnych modeli, pojawiła się w ofertach przedsprzedaży w naszych sklepach, zanim ktokolwiek zdążył ogłosić jej oficjalną premierę. Tym samym poznaliśmy nie tylko pełną specyfikację, ale także oficjalne po",
+    "url": "https://www.chip.pl/2025/12/xiaomi-seria-redmi-note-15-w-polsce-ceny",
+    "publishedAt": "2025-12-11T15:30:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
+    "categories": [
+      "Tech"
+    ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Niszczejący budynek basenu Zespołu Szkół Elektronicznych i Licealnych na Żoliborzu zostanie przebudowany. To decyzja radnych którzy wybrali koncepcję jego przebudowy.",
+    "summary": "Xiaomi zaskoczyło polski rynek w dość nietypowy sposób. Seria Redmi Note 15, obejmująca aż pięć różnych modeli, pojawiła się w ofertach przedsprzedaży w naszych sklepach, zanim ktokolwiek zdążył ogłosić jej oficjalną premierę. Tym samym poznaliśmy nie tylko pełną specyfikację, ale także oficjalne po",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
-    "guid": "https://tvn24.pl/polska/wlodzimierz-czarzasty-poinformowal-ze-wystartuje-na-lidera-lewicy-st8796666",
-    "title": "Włodzimierz Czarzasty wystartuje na lidera Lewicy. Deklaracja i prośba",
-    "description": "Zdecydowałem się, po dyskusji w ramach ekipy, co podkreślam bardzo mocno, startować na przewodniczącego partii - poinformował marszałek Sejmu Włodzimierz Czarzasty. Podał też, kogo Lewica rekomendować będzie na pierwszego wiceprzewodniczącego.",
-    "url": "https://tvn24.pl/polska/wlodzimierz-czarzasty-poinformowal-ze-wystartuje-na-lidera-lewicy-st8796666?source=rss",
-    "publishedAt": "2025-12-11T12:42:00.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
+    "guid": "https://www.chip.pl/?p=1568861",
+    "title": "Test płyty głównej X870E Aorus Master X3D ICE. Topowa konstrukcja stała się jeszcze lepsza!",
+    "description": "X870E Aorus Master X3D ICE to nowa, jeszcze lepsza wersja jednej z najciekawszych płyt głównych X870E. Co ciekawego ona przynosi i czy ponownie jest to konstrukcja warta Waszych pieniędzy? Co otrzymujemy wraz z X870E Aorus Master X3D ICE? Dodatków jest całkiem sporo i obejmują one: instrukcje, opask",
+    "url": "https://www.chip.pl/2025/12/x870e-aorus-master-x3d-ice-test-recenzja-opinia",
+    "publishedAt": "2025-12-11T15:00:00.000Z",
+    "source": "Chip",
+    "sourceCategory": "Tech",
     "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
+    "categories": [
+      "Testy",
+      "Hardware"
+    ],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
     "location": null,
-    "summary": "Zdecydowałem się, po dyskusji w ramach ekipy, co podkreślam bardzo mocno, startować na przewodniczącego partii - poinformował marszałek Sejmu Włodzimierz Czarzasty. Podał też, kogo Lewica rekomendować będzie na pierwszego wiceprzewodniczącego.",
+    "summary": "X870E Aorus Master X3D ICE to nowa, jeszcze lepsza wersja jednej z najciekawszych płyt głównych X870E. Co ciekawego ona przynosi i czy ponownie jest to konstrukcja warta Waszych pieniędzy? Co otrzymujemy wraz z X870E Aorus Master X3D ICE? Dodatków jest całkiem sporo i obejmują one: instrukcje, opask",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
-  },
-  {
-    "guid": "https://tvn24.pl/lodz/lodz-dostal-mandat-za-przekroczenie-predkosci-o-jeden-kilometr-na-godzine-st8796154",
-    "title": "Dostał mandat za przekroczenie prędkości o jeden kilometr na godzinę",
-    "description": "19-latek kierujący samochodem osobowym jechał z prędkością 51 kilometrów na godzinę w terenie zabudowanym. Oznacza to, że przekroczył dozwoloną prędkość zaledwie o kilometr. Dostał za to 50 złotych mandatu.",
-    "url": "https://tvn24.pl/lodz/lodz-dostal-mandat-za-przekroczenie-predkosci-o-jeden-kilometr-na-godzine-st8796154?source=rss",
-    "publishedAt": "2025-12-11T12:38:15.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "19-latek kierujący samochodem osobowym jechał z prędkością 51 kilometrów na godzinę w terenie zabudowanym. Oznacza to, że przekroczył dozwoloną prędkość zaledwie o kilometr. Dostał za to 50 złotych mandatu.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.040Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569630",
@@ -864,7 +1014,7 @@
     "location": null,
     "summary": "Elektryczne samochody “na węgiel” brzmią jak kiepski żart z czasów kopcących kominów, a nie zapowiedź przyszłości motoryzacji. Tymczasem właśnie w węglu naukowcy ze Skoltech widzą szansę na przełamanie największej bariery, która dziś zniechęca wielu kierowców do przesiadki na auto na prąd. Zamiast k",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569788",
@@ -884,7 +1034,7 @@
     "location": null,
     "summary": "Orange Flex to moja ulubiona usługa Orange. Wygodna, szybka, idealna dla recenzenta (wymiana karty eSIM w kilka chwil, chociażby). Parę rzeczy w aplikacji do obsługi usługi jednak od dawna wymagało wygładzenia i dopracowania, tym bardziej zatem wypada się cieszyć, że Orange w końcu się wziął za robi",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569778",
@@ -904,7 +1054,7 @@
     "location": null,
     "summary": "AI od dawna służy do tworzenia grafiki i znalazła sobie miejsce także programach do jej edycji. Tego jednak, by program do edycji grafiki znalazł sobie miejsce wewnątrz czatbota się nie spodziewałem, wyobraźcie sobie zatem moje zaskoczenie, gdy OpenAI oraz Adobe połączyły swoje systemy, oferując uży",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569768",
@@ -924,7 +1074,7 @@
     "location": null,
     "summary": "Próby rozmów w zatłoczonych i głośnych miejscach nie należą do przyjemności. W takich warunkach wszystkie głosy mieszają się w jeden kakofoniczny szum, a ty musisz wytężać słuch i domyślać się reszty. Rozwiązanie może kryć się w zupełnie nowym typie inteligentnych słuchawek – system AI opracowany na",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569629",
@@ -944,7 +1094,7 @@
     "location": null,
     "summary": "W świecie rowerów miejskich nowości spadają na rynek niemal co sezon, ale prawdziwym wyzwaniem nie jest już sama oryginalność, lecz sensowność. Rowery do jazdy po mieście mają odpowiadać na bardzo konkretne potrzeby, a model Cannondale Treadwell idealnie wpisuje się w ten spór między użytecznością a",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569604",
@@ -964,7 +1114,7 @@
     "location": null,
     "summary": "Nothing pod względem wzornictwa nigdy nie stawiał na łatwe rozwiązania. Dzięki współpracy ze społecznością powstała limitowana edycja dobrze znanego smartfonu pod nazwą Nothing Phone (3a) Community Edition 2025. Projektanci z całego świata nadali mu charakterystyczny wygląd, inspirowany estetyką prz",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569628",
@@ -985,7 +1135,7 @@
     "location": null,
     "summary": "Rzymskie akwedukty i mury miejskie wyglądają jak złośliwy komentarz do współczesnego budownictwa. Stoją niewzruszone od blisko dwóch tysięcy lat, mimo trzęsień ziemi, erozji i zmian klimatu. Nie jest to jednak tylko kwestia szczęśliwego zbiegu okoliczności ani łagodniejszej pogody w basenie Morza Śr",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569157",
@@ -1006,7 +1156,7 @@
     "location": null,
     "summary": "Przez lata saturatory domowe były sprzętem do jednego zadania — miały zrobić wodę gazowaną, do której najwyżej później dodawaliśmy smakowy syrop. SodaStream MIX wychodzi z tego schematu, a właściwie to odwraca go do góry nogami. To urządzenie zaprojektowane od początku tak, żeby można było nagazować",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.466Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569582",
@@ -1026,7 +1176,7 @@
     "location": null,
     "summary": "Jeśli jesteś graczem korzystającym z PC, mamy dla ciebie dobre wieści – choć będziesz musiał na nie jeszcze chwilę poczekać. Według najnowszych doniesień Microsoft planuje znaczące usprawnienia dla graczy w systemie Windows 11, które mają zadebiutować w 2026 roku. Co szykuje Microsoft dla Windows 11",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569619",
@@ -1051,7 +1201,7 @@
     },
     "summary": "Układ Słoneczny odwiedził niecodzienny przybysz, pochodzący z przestrzeni międzygwiezdnej i oznaczony jako 3I/ATLAS. Jego zachowanie i skład chemiczny wywołały burzliwą dyskusję w środowisku naukowym, dzieląc astronomów na zwolenników naturalnego pochodzenia i tych, którzy nie wykluczają bardziej eg",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1562111",
@@ -1072,7 +1222,7 @@
     "location": null,
     "summary": "„Smart” nie musi być widowiskiem z fajerwerkami. W kuchni liczy się powtarzalność oraz jakość efektów, komfort i to, by rachunki dało się sensownie wytłumaczyć. Kiedy piekarnik, płyta, zmywarka i lodówka działają w jednym ekosystemie, zyskujemy nie kolekcję gadżetów, tylko konsekwentny porządek. Tak",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569627",
@@ -1092,7 +1242,7 @@
     "location": null,
     "summary": "Świat doczekał się kolejnego latającego biura za dziesiątki milionów dolarów. Tym jednak razem odrzutowiec Global 8000 nie jest byle nową maszyną lotniczą, a sprzętem iście rekordowym, jeśli idzie o możliwości aktualnie dostępnych samolotów na rynku. Rynek luksusowego lotnictwa biznesowego od lat ży",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569563",
@@ -1113,7 +1263,7 @@
     "location": null,
     "summary": "Astronomowie, badając największe struktury we wszechświecie, natrafili na coś, co zmusza do przemyślenia dotychczasowych założeń. Chodzi o kosmiczne włókna, czyli potężne „autostrady” materii, które spinają ze sobą gromady galaktyk. Dotąd wydawało się, że te twory ewoluują bardzo powoli, głównie pod",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569588",
@@ -1133,7 +1283,7 @@
     "location": null,
     "summary": "Na polskim rynku AGD pojawiła się nowa propozycja dla osób szukających odświeżenia w rutynie sprzątania – Mova G70. To nie jest kolejna zwykła szczotka do odkurzania, a urządzenie, które chce przekonać nas, że technologia znana z robotów może świetnie sprawdzić się w tradycyjnej formie. Czy nowy odk",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569585",
@@ -1155,7 +1305,7 @@
     "location": null,
     "summary": "Media społecznościowe stały się nieodłącznym elementem życia młodzieży, ale ich ciemna strona – od cyberbullyingu i dezinformacji po uzależniające algorytmy – zmusza rządy do radykalnych działań (w końcu!). Po miesiącach burzliwych debat, Australia postawiła historyczny krok, wprowadzając ogólnokraj",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569562",
@@ -1175,7 +1325,7 @@
     "location": null,
     "summary": "Dla współczesnej młodzieży świat cyfrowy to nie tylko portale społecznościowe. Coraz częściej ich codzienne interakcje obejmują – niestety – także rozmowy z coraz bardziej rozbudowanymi botami. Zgodnie z danymi zebranymi w ostatnich miesiącach, aż dwie trzecie nastolatków w Stanach Zjednoczonych mia",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569538",
@@ -1195,7 +1345,7 @@
     "location": null,
     "summary": "Fizyka jądrowa zafundowała właśnie naukowcom interesujący zwrot akcji. Przez lata uważano, że pewne egzotyczne zjawiska występują tylko w bardzo specyficznych i trudnych do uzyskania warunkach. Teraz okazuje się, że natura może płatać figle znacznie bliżej naszego wyobrażenia o stabilnym wszechświec",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569565",
@@ -1216,7 +1366,7 @@
     "location": null,
     "summary": "Rabat za e-fakturę i płacenie na czas wygląda na zwykłą korzyść. W praktyce jednak ten pozorny prezent od operatora może szybko zamienić się w nieprzyjemną niespodziankę na rachunku. Urząd Ochrony Konkurencji i Konsumentów postanowił dokładnie sprawdzić, jak działa ten system w sieci Play i jego wer",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569539",
@@ -1237,7 +1387,7 @@
     "location": null,
     "summary": "Spotify, platforma zdominowana przez streaming audio, od dawna obserwuje, jak jej główni konkurenci – na czele z YouTube Music i Apple Music – z powodzeniem łączą świat dźwięku i obrazu. Choć teledyski to nieodłączny element kultury muzycznej, formując trendy i budując więź między artystą a fanem, S",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569544",
@@ -1258,7 +1408,7 @@
     "location": null,
     "summary": "W erze jednorazowej elektroniki, gdzie każde uszkodzenie kabla lub baterii oznacza konieczność zakupu nowego urządzenia, Fairphone od lat jest symbolem etycznej, modułowej i łatwej do naprawy technologii. Ponad dwa lata po premierze swoich pierwszych nausznych słuchawek, holenderska firma powraca z ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569343",
@@ -1280,7 +1430,7 @@
     "location": null,
     "summary": "Porsche Cayenne S Coupé to bez dwóch zdań samochód bardzo dostojny i konkretny. Benzynowe V8 biturbo o pojemności 4,0 litra, 474 KM, 600 Nm, 8-biegowy Tiptronic S i napęd na cztery koła. Do tego nadwozie Coupé, lakier Cashmere Beige Metallic, 21-calowe felgi RS Spyder Design i pełny pakiet komfortu ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569528",
@@ -1300,7 +1450,7 @@
     "location": null,
     "summary": "Powiadomienia potrafią być prawdziwym utrapieniem – co chwilę zapala się ekran, telefon wibruje, a w panelu powiadomień rośnie sterta komunikatów od aplikacji, sklepów i znajomych. Taki ciągły strumień nie tylko potrafi skutecznie zdekoncentrować, ale też zwyczajnie jest bardzo irytujący. Na najnows",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569518",
@@ -1322,7 +1472,7 @@
     "location": null,
     "summary": "Xiaomi nie zamierza pozostać w tyle w globalnym wyścigu sztucznej inteligencji. Choć firma od lat rozwija własne systemy AI dla swojego rozległego ekosystemu urządzeń, teraz przyszedł czas na prawdziwie zaawansowanego asystenta konwersacyjnego. Według najnowszych przecieków, chiński gigant technolog",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569285",
@@ -1343,7 +1493,7 @@
     "location": null,
     "summary": "W pierwszy grudniowy weekend Bydgoszcz na moment stała się centrum polskiej informatyki. W Bydgoskim Centrum Targowo-Wystawienniczym spotkało się ponad półtora tysiąca programistów, analityków danych, UX-owców i specjalistów od cyberbezpieczeństwa, żeby w 24 godziny zmierzyć się z 16 realnymi proble",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569505",
@@ -1363,7 +1513,7 @@
     "location": null,
     "summary": "Początek 2026 roku będzie pod znakiem przetasowań u Samsunga – seria Galaxy A będzie mieć przyspieszoną premierę kosztem serii S, którą ze względu na perturbacje producent musiał przeprojektowywać i nie wyrobił się w zwykłym czasie. Wątpliwy sukces Galaxy S25 Edge pociągnął w dół całą linię i wymusi",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1562139",
@@ -1384,7 +1534,7 @@
     "location": null,
     "summary": "Święta mają swój rytm. Ktoś miesza barszcz, ktoś odkrawa mak, ktoś pilnuje piernika, a w tle krzątanina i rozmowy. To piękny bałagan — dopóki nie zamieni się w logistyczny korek, kiedy piekarnik „blokuje” deser, okap nie nadąża, naczynia piętrzą się w zlewie, a w lodówce zaczyna się gra w tetris. Do",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569432",
@@ -1405,7 +1555,7 @@
     "location": null,
     "summary": "Montaż fotowoltaiki na dachu stalowym często przypomina chodzenie po polu minowym. Z jednej strony znajduje się bowiem potrzeba solidnego zamocowania ciężkich modułów, a z drugiej absolutna konieczność zachowania szczelności pokrycia. Każdy otwór w blasze to potencjalna droga dla wody, ale paryska f",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569507",
@@ -1425,7 +1575,7 @@
     "location": null,
     "summary": "Sieć automatów Allegro One Box, sukcesywnie rozbudowywana w ostatnich miesiącach, otworzyła się na zupełnie nowy rodzaj klientów. Allegro postanowiło bowiem zapukać do ogródka, w którym panuje InPost i zająć się przesyłkami między osobami prywatnymi, a 8 tysięcy automatów paczkowych to siła, z którą",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569493",
@@ -1445,7 +1595,7 @@
     "location": null,
     "summary": "Vectra ostatnio nie ma dobrej passy. Ukarana przez UOKiK firma jednak tym razem robi coś pożytecznego, wychodząc naprzeciw potrzebom klientów, którzy nie mają czasu na wizytę w salonie w zwykły dzień roboczy. Lista miast z sobotnią obsługą Vectra Firma poinformowała bowiem, że zdecydowała się na wpr",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1566971",
@@ -1468,7 +1618,7 @@
     "location": null,
     "summary": "Może nie powinienem, ale przyznam się Wam, że nie miałem OPPO Find X9 Pro wśród smartfonów, na które mocno czekałem w 2025 roku. Ten rzutem na taśmę pojawił się w końcówce roku i zaczął obiecywać swoją specyfikacją całkiem sporo. Czy ostatecznie to on pokazał mi, że się myliłem, czy to ja pokazałem ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.041Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569429",
@@ -1488,7 +1638,7 @@
     "location": null,
     "summary": "Czy przyszłość magazynowania energii czeka w… naszej szafie? Naukowcy przyjrzeli się bliżej indygo, od pokoleń nadającemu charakterystyczny, niebieski kolor dżinsom. Okazuje się, że ten pospolity barwnik może kryć w sobie potencjał do zrewolucjonizowania baterii, czyniąc je bezpieczniejszymi i przyj",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569112",
@@ -1508,7 +1658,7 @@
     "location": null,
     "summary": "Gravel miał być złotym środkiem między szosą a MTB. Rowerem, który pojedzie szybko po asfalcie, nie spanikuje na szutrze i nie załamie się pod bagażem na kilkutygodniowej wyprawie. Z biegiem lat okazało się jednak, że taki “jeden rower do wszystkiego” to bardziej obietnica niż rzeczywistość. Produce",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569420",
@@ -1528,7 +1678,7 @@
     "location": null,
     "summary": "Projekty edukacyjne rzadko kiedy prowadzą do powstania innowacyjnych firm. Są jednak wyjątki, takie jak przypadek Elijaha Lee, któremu nauczyciel muzyki zasugerował, by połączył swoje dwie pasje – grę na wiolonczeli i technologię druku 3D. Pomysł „zagrał” i po sześciu latach ciężkiej pracy Elijah, t",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569113",
@@ -1548,7 +1698,7 @@
     "location": null,
     "summary": "Rynek motocykli sportowych od lat rządzi się prostą zasadą: emocje są równie ważne, jak liczby w arkuszu specyfikacji. Dlatego tak silnie działa na wyobraźnię połączenie znajomych nazwisk europejskich projektantów, klasycznych włoskich proporcji i ceny, która jest bliższa klasie średniej niż katalog",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569333",
@@ -1568,7 +1718,7 @@
     "location": null,
     "summary": "Szafa Twojego dziecka pęka w szwach, a i tak połowy zawartości nigdy nie widzisz na nim? Raport Epson jest bezlitosny – to nie jest odosobniona przypadłość twojej rodziny. Jak wskazują badania, nasze przyzwyczajenia zakupowe i pozbywania się niechcianych rzeczy plasują Polskę w niechlubnej czołówce ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.467Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569332",
@@ -1593,7 +1743,7 @@
     },
     "summary": "Historia astronomii zapisała właśnie nowy, szczególny rozdział. Po raz pierwszy udało się zarejestrować sygnał w zakresie promieniowania rentgenowskiego, który nie pochodzi z naszego kosmicznego podwórka. Nie chodzi bowiem o obiekt z Układu Słonecznego, gdyż rodowód 3I/ATLAS jest znacznie bardziej e",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569431",
@@ -1614,7 +1764,7 @@
     "location": null,
     "summary": "Technologie tworzone do badania odległych księżyców i planet coraz częściej wracają na Ziemię w bardzo pragmatycznej roli. Tam, gdzie kiedyś liczyły się przede wszystkim naukowe ciekawostki o składzie Marsa czy Księżyca, dziś na pierwszy plan wysuwają się bardzo konkretne pytania związane z przyszło",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569269",
@@ -1635,7 +1785,7 @@
     "location": null,
     "summary": "Naukowcy z University of Nottingham i Uniwersytetu w Ulm postanowili przyjrzeć się bliżej temu, co dzieje się w mikroświecie, gdy metal zmienia swój stan. Efekt ich pracy może znacząco wpłynąć na nasze fundamentalne rozumienie materii. Okazało się, że nie wszystkie składniki płynnej substancji zacho",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569268",
@@ -1655,237 +1805,107 @@
     "location": null,
     "summary": "Rynek technologiczny w Chinach znów się poruszył za sprawą niespodziewanego gracza. Firma ByteDance, którą wszyscy znamy głównie z TikToka, postanowiła sprawdzić swoją siłę w zupełnie nowym segmencie. Jej eksperyment z telefonem wyposażonym w wyjątkowo agresywną sztuczną inteligencję szybko pokazał,",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
-    "guid": "https://www.chip.pl/?p=1569039",
-    "title": "Gigantyczna plama słoneczna skierowana na Ziemię. Rozmiary jak przed Zdarzeniem Carringtona",
-    "description": "Na powierzchni Słońca pojawił się wyjątkowy i niepokojący gość. Astronomowie z całego globu z zapartym tchem obserwują olbrzymią plamę słoneczną, która ustawiła się dokładnie na wprost naszej planety. Co sprawia, że to zjawisko przykuwa taką uwagę? Otóż, jego skala jest porównywalna z tą, która w 18",
-    "url": "https://www.chip.pl/2025/12/gigantyczna-plama-sloneczna-skierowana-na-ziemie-grudxien-2025",
-    "publishedAt": "2025-12-09T18:08:41.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
+    "guid": "/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c17-15351553",
+    "title": "12 potraw na Wigilię - lista. To tradycyjne obowiązkowe potrawy na Wigilię. Polecają Makłowicz, Wachowicz, Brodnicki, Okrasa",
+    "description": "12 wigilijnych potraw od Gessler, Makłowicza, Wachowicz, Brodnickiego, Okrasy i Starmach. Karp, kapusta, pierogi, barszcz na Wigilię i święta. Co znani kucharze polecają na wigilijny st&oacute;ł? Wśr&oacute;d 12 potraw są obowiązkowe: karp, kapusta, pierogi, barszcz. Wypr&oacute;buj przepis&oacute;w",
+    "url": "https://gs24.pl/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c17-15351553",
+    "publishedAt": "2025-12-11T18:07:50.000Z",
+    "source": "GS24",
+    "sourceCategory": "Local",
+    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/df/8c/5fdb75fb53286_o,size,640x400,q,71,h,fbcc27.jpg",
     "categories": [
-      "Nauka"
+      {
+        "_": "Strona kobiet",
+        "$": {
+          "domain": "https://gs24.pl/strona-kobiet/"
+        }
+      }
     ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Na powierzchni Słońca pojawił się wyjątkowy i niepokojący gość. Astronomowie z całego globu z zapartym tchem obserwują olbrzymią plamę słoneczną, która ustawiła się dokładnie na wprost naszej planety. Co sprawia, że to zjawisko przykuwa taką uwagę? Otóż, jego skala jest porównywalna z tą, która w 18",
+    "summary": "12 wigilijnych potraw od Gessler, Makłowicza, Wachowicz, Brodnickiego, Okrasy i Starmach. Karp, kapusta, pierogi, barszcz na Wigilię i święta. Co znani kucharze polecają na wigilijny st&oacute;ł? Wśr&oacute;d 12 potraw są obowiązkowe: karp, kapusta, pierogi, barszcz. Wypr&oacute;buj przepis&oacute;w",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
-    "guid": "https://www.chip.pl/?p=1569265",
-    "title": "Google zaprzecza plotkom o wprowadzeniu reklam do Gemini. Przynajmniej na razie",
-    "description": "Świat sztucznej inteligencji rozwija się w błyskawicznym tempie, a wraz z nim rosną pytania o to, jak giganci technologiczni planują monetyzować swoje potężne narzędzia. Gdy Google intensywnie promuje swojego chatbota Gemini, pojawienie się reklam wydaje się nieuniknione – w końcu to właśnie reklamy",
-    "url": "https://www.chip.pl/2025/12/google-zaprzecza-plotkom-o-wprowadzeniu-reklam-do-gemini-przynajmniej-na-razie",
-    "publishedAt": "2025-12-09T17:00:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
+    "guid": "/dom-krzysztofa-rutkowskiego-zobacz-jak-mieszka-detektyw-rutkowski-rewolwer-i-rozaniec-przy-lozku-detektywa-rutkowskiego/ar/c9-1049150",
+    "title": "Dom Krzysztofa Rutkowskiego! Zobacz jak mieszka detektyw Rutkowski! Rewolwer i różaniec przy łóżku detektywa Rutkowskiego!",
+    "description": "Dom Krzysztofa Rutkowskiego! Najsławniejszy detektyw w Polsce oprowadza nas po swoim domu. Detektyw Rutkowski śpi z rewolwerem i r&oacute;żańcem przy ł&oacute;żku, a latem relaksuje się w basenie, a w spiżarni ma słoiki z grzybkami od mamy.",
+    "url": "https://gs24.pl/dom-krzysztofa-rutkowskiego-zobacz-jak-mieszka-detektyw-rutkowski-rewolwer-i-rozaniec-przy-lozku-detektywa-rutkowskiego/ar/c9-1049150",
+    "publishedAt": "2025-12-11T17:29:59.000Z",
+    "source": "GS24",
+    "sourceCategory": "Local",
+    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/e5/b1/5290a5e6a2d5f_o,size,640x400,q,71,h,aeb5a9.jpg",
     "categories": [
-      "Tech",
-      "Sztuczna inteligencja"
-    ],
-    "category": "technologia",
-    "subcategory": "IT",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "Świat sztucznej inteligencji rozwija się w błyskawicznym tempie, a wraz z nim rosną pytania o to, jak giganci technologiczni planują monetyzować swoje potężne narzędzia. Gdy Google intensywnie promuje swojego chatbota Gemini, pojawienie się reklam wydaje się nieuniknione – w końcu to właśnie reklamy",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1569244",
-    "title": "MSI pokazuje cztery nowe desktopy. Jest coś dla graczy i coś do pracy",
-    "description": "Tajwańska firma MSI z wprowadziła na rynek 4 nowe maszyny stacjonarne. W najnowszej serii znalazły się modele, które mają trafić zarówno do hardkorowych graczy, jak i do osób szukające dyskretnego, ale wydajnego sprzętu do biura. Dwa flagowe modele dla entuzjastów gier Pierwszym komputerem, który pr",
-    "url": "https://www.chip.pl/2025/12/msi-4-nowe-desktopy-pc",
-    "publishedAt": "2025-12-09T16:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Tech"
+      {
+        "_": "Dom",
+        "$": {
+          "domain": "https://gs24.pl/dom/"
+        }
+      }
     ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Tajwańska firma MSI z wprowadziła na rynek 4 nowe maszyny stacjonarne. W najnowszej serii znalazły się modele, które mają trafić zarówno do hardkorowych graczy, jak i do osób szukające dyskretnego, ale wydajnego sprzętu do biura. Dwa flagowe modele dla entuzjastów gier Pierwszym komputerem, który pr",
+    "summary": "Dom Krzysztofa Rutkowskiego! Najsławniejszy detektyw w Polsce oprowadza nas po swoim domu. Detektyw Rutkowski śpi z rewolwerem i r&oacute;żańcem przy ł&oacute;żku, a latem relaksuje się w basenie, a w spiżarni ma słoiki z grzybkami od mamy.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
-    "guid": "https://www.chip.pl/?p=1569260",
-    "title": "Już nie tylko krótkie filmiki. TikTok coraz bardziej stawia na funkcje społecznościowe",
-    "description": "Okres świąteczny to czas, kiedy naturalnie szukamy więzi, nadrabiamy zaległości z rodziną i przyjaciółmi oraz wspólnie tworzymy wspomnienia. Choć TikTok od dawna służy jako źródło inspiracji – od przepisów na świąteczne potrawy, przez pomysły na prezenty, po plany podróży – dotychczas brakowało mu n",
-    "url": "https://www.chip.pl/2025/12/tiktok-nowe-funkcje-spolecznosciowe",
-    "publishedAt": "2025-12-09T16:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
+    "guid": "/skutki-niedoboru-magnezu-niedobor-magnezu-objawy-i-przyczyny-jak-mozna-szybko-uzupelnic-magnez-w-organizmie/ar/c1-15907161",
+    "title": "Skutki niedoboru magnezu! Niedobór magnezu objawy i przyczyny. Jak można szybko uzupełnić magnez w organizmie",
+    "description": "Niedob&oacute;r magnezu objawy i przyczyny. Magnez bierze udział w kluczowych reakcjach metabolicznych i pełni ważną funkcję w gospodarce mineralnej kości. Co się dzieje jeśli jest zbyt mało magnezu w organizmie? Niedob&oacute;r magnezu jest niebezpieczny dla zdrowia i może być przyczyną wielu chor&",
+    "url": "https://gs24.pl/skutki-niedoboru-magnezu-niedobor-magnezu-objawy-i-przyczyny-jak-mozna-szybko-uzupelnic-magnez-w-organizmie/ar/c1-15907161",
+    "publishedAt": "2025-12-11T17:27:04.000Z",
+    "source": "GS24",
+    "sourceCategory": "Local",
+    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/a8/ed/61974e135144e_o,size,640x400,q,71,h,58919e.jpg",
     "categories": [
-      "Tech",
-      "Aplikacje"
+      {
+        "_": "Zdrowie",
+        "$": {
+          "domain": "https://gs24.pl/zdrowie/"
+        }
+      }
     ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Okres świąteczny to czas, kiedy naturalnie szukamy więzi, nadrabiamy zaległości z rodziną i przyjaciółmi oraz wspólnie tworzymy wspomnienia. Choć TikTok od dawna służy jako źródło inspiracji – od przepisów na świąteczne potrawy, przez pomysły na prezenty, po plany podróży – dotychczas brakowało mu n",
+    "summary": "Niedob&oacute;r magnezu objawy i przyczyny. Magnez bierze udział w kluczowych reakcjach metabolicznych i pełni ważną funkcję w gospodarce mineralnej kości. Co się dzieje jeśli jest zbyt mało magnezu w organizmie? Niedob&oacute;r magnezu jest niebezpieczny dla zdrowia i może być przyczyną wielu chor&",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
-    "guid": "https://www.chip.pl/?p=1569255",
-    "title": "Koniec wojny ekosystemów? Google i Apple łączą siły, by ułatwić przesiadkę między Androidem a iOS",
-    "description": "W świecie technologii istniała jedna odwieczna zasada: jeśli zdecydujesz się na Androida lub iOS, przesiadka na konkurencyjny system to droga przez mękę. Konieczność przenoszenia danych, wiadomości, zdjęć i aplikacji była tak uciążliwa, że wielu użytkowników rezygnowało ze zmiany urządzenia, tylko p",
-    "url": "https://www.chip.pl/2025/12/google-i-apple-lacza-sily-by-ulatwic-przesiadke-miedzy-androidem-a-ios",
-    "publishedAt": "2025-12-09T16:00:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
+    "guid": "/swiateczne-ozdoby-z-papieru-diy-pomysly-na-piekne-dekoracje-na-boze-narodzenie/ar/c9-17071693",
+    "title": "Świąteczne ozdoby z papieru DIY. Pomysły na piękne dekoracje na Boże Narodzenie",
+    "description": "Ozdoby świąteczne z papieru DIY znowu są bardzo modne. Wielu z nas żyje w duchu zero waste i stawia na ekologię. Papierowe dekoracje na Boże Narodzenie są tanie, ekologiczne i mogą pięknie ozdobić wnętrza. Wystarczy wykorzystać to, co mamy w domu, żeby zadbać o planetę i stworzyć piękne dekoracje za",
+    "url": "https://gs24.pl/swiateczne-ozdoby-z-papieru-diy-pomysly-na-piekne-dekoracje-na-boze-narodzenie/ar/c9-17071693",
+    "publishedAt": "2025-12-11T15:14:24.000Z",
+    "source": "GS24",
+    "sourceCategory": "Local",
+    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/d8/5e/657312f0211ad_o,size,640x400,q,71,h,ad8297.jpg",
     "categories": [
-      "Tech",
-      "Programy i systemy",
-      "Smartfony i tablety"
-    ],
-    "category": "technologia",
-    "subcategory": "IT",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "W świecie technologii istniała jedna odwieczna zasada: jeśli zdecydujesz się na Androida lub iOS, przesiadka na konkurencyjny system to droga przez mękę. Konieczność przenoszenia danych, wiadomości, zdjęć i aplikacji była tak uciążliwa, że wielu użytkowników rezygnowało ze zmiany urządzenia, tylko p",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1569245",
-    "title": "Adobe i YouTube łączą siły. Premiere mobile zyskało dedykowaną przestrzeń do Shorts",
-    "description": "Rynek krótkich form wideo to dziś prawdziwa arena walki o twórców. Meta ze swoimi “Edits” i CapCut należący do ByteDance (właściciela TikToka) dyktują warunki, a YouTube intensywnie walczy o to, by Shorts stały się pierwszym wyborem. Teraz do gry wkracza potężny sojusznik: Adobe. Adobe ogłosiło uruc",
-    "url": "https://www.chip.pl/2025/12/adobe-i-youtube-lacza-sily-premiere-mobile-zyskalo-dedykowana-przestrzen-do-shorts",
-    "publishedAt": "2025-12-09T15:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Tech",
-      "Aplikacje"
-    ],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Rynek krótkich form wideo to dziś prawdziwa arena walki o twórców. Meta ze swoimi “Edits” i CapCut należący do ByteDance (właściciela TikToka) dyktują warunki, a YouTube intensywnie walczy o to, by Shorts stały się pierwszym wyborem. Teraz do gry wkracza potężny sojusznik: Adobe. Adobe ogłosiło uruc",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1568864",
-    "title": "PCIe 5.0 nadeszło. Samsung 9100 PRO – dysk nowej generacji",
-    "description": "Samsung zredefiniował to, co do tej pory uznawaliśmy za flagowe możliwości dysków SSD. Najnowszy model Samsung 9100 PRO to pierwszy nośnik w ofercie producenta, który wykorzystuje cztery linie standardu PCIe 5.0, a dzięki jeszcze wydajniejszemu kontrolerowi oraz kościom pamięci względem poprzednika,",
-    "url": "https://www.chip.pl/2025/12/pcie-5-0-nadeszlo-samsung-9100-pro-dysk-nowej-generacji",
-    "publishedAt": "2025-12-09T15:15:21.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Publicystyka",
-      "Lokowanie produktu",
-      "Sprzęt i akcesoria",
-      "Tech"
+      {
+        "_": "Wnętrza",
+        "$": {
+          "domain": "https://gs24.pl/dom/wnetrza/"
+        }
+      }
     ],
     "category": "Inne",
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Samsung zredefiniował to, co do tej pory uznawaliśmy za flagowe możliwości dysków SSD. Najnowszy model Samsung 9100 PRO to pierwszy nośnik w ofercie producenta, który wykorzystuje cztery linie standardu PCIe 5.0, a dzięki jeszcze wydajniejszemu kontrolerowi oraz kościom pamięci względem poprzednika,",
+    "summary": "Ozdoby świąteczne z papieru DIY znowu są bardzo modne. Wielu z nas żyje w duchu zero waste i stawia na ekologię. Papierowe dekoracje na Boże Narodzenie są tanie, ekologiczne i mogą pięknie ozdobić wnętrza. Wystarczy wykorzystać to, co mamy w domu, żeby zadbać o planetę i stworzyć piękne dekoracje za",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1569027",
-    "title": "Akumulatory litowo-siarkowe były zbyt piękne, by działać. Ten materiał to zmieni",
-    "description": "Jeśli przyjrzeć się uważnie historii rozwoju akumulatorów, widać w niej powtarzający się schemat. Najpierw pojawia się zachwycająca koncepcja z imponującymi liczbami na slajdach: gęstość energii wyraźnie wyższa niż w rozwiązaniach litowo-jonowych, tańsze i łatwiej dostępne surowce, potencjalnie pros",
-    "url": "https://www.chip.pl/2025/12/akumulatory-litowo-siarkow-tytanowo-weglowy-kompozyt",
-    "publishedAt": "2025-12-09T13:55:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Tech",
-      "Energetyka"
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Jeśli przyjrzeć się uważnie historii rozwoju akumulatorów, widać w niej powtarzający się schemat. Najpierw pojawia się zachwycająca koncepcja z imponującymi liczbami na slajdach: gęstość energii wyraźnie wyższa niż w rozwiązaniach litowo-jonowych, tańsze i łatwiej dostępne surowce, potencjalnie pros",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1569234",
-    "title": "Firefox 146.0 już dostępny. Mozilla rusza na ratunek użytkownikom Windows 10",
-    "description": "Mozilla udostępniła nową wersję swojej przeglądarki – Firefox 146.0. Główną nowością w tym wydaniu jest dedykowane narzędzie do tworzenia kopii zapasowych, zaprojektowane specjalnie z myślą o użytkownikach przesiadających się z niewspieranego już Windowsa 10 na Windows 11. Nowe narzędzie: Firefox Ba",
-    "url": "https://www.chip.pl/2025/12/firefox-146-windows-10-backup",
-    "publishedAt": "2025-12-09T13:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Tech"
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Mozilla udostępniła nową wersję swojej przeglądarki – Firefox 146.0. Główną nowością w tym wydaniu jest dedykowane narzędzie do tworzenia kopii zapasowych, zaprojektowane specjalnie z myślą o użytkownikach przesiadających się z niewspieranego już Windowsa 10 na Windows 11. Nowe narzędzie: Firefox Ba",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1569018",
-    "title": "Ktoś pamięta jeszcze Sailfish OS? Zobaczycie go wraz z Jolla Phone",
-    "description": "Rynek smartfonów od lat zdominowany jest przez Androida i iOS. Te dwa systemy w zasadzie wycięły wszelką konkurencję – inne systemy istnieją na marginesie głównego nurtu. Do tej kategorii należy nowy Jolla Phone i rozwijany przez firmę Sailfish OS, wywodzący się w prostej linii z MeeGo Nokii. Jolla ",
-    "url": "https://www.chip.pl/2025/12/sailfish-os-jolla-phone",
-    "publishedAt": "2025-12-09T12:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Tech"
-    ],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "Rynek smartfonów od lat zdominowany jest przez Androida i iOS. Te dwa systemy w zasadzie wycięły wszelką konkurencję – inne systemy istnieją na marginesie głównego nurtu. Do tej kategorii należy nowy Jolla Phone i rozwijany przez firmę Sailfish OS, wywodzący się w prostej linii z MeeGo Nokii. Jolla ",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
-  },
-  {
-    "guid": "https://www.chip.pl/?p=1566040",
-    "title": "Cztery laptopy ASUS na świąteczny prezent, które wytrzymają próbę czasu",
-    "description": "Z prezentami jest jak z dobrym sprzętem – najlepsze są te, które nie tylko cieszą na początku, ale też przydają się na co dzień i nie zawodzą po roku. W tym sezonie najrozsądniej wypadają laptopy, które łączą nowoczesne ekrany, kulturę pracy i realną wydajność w codziennych zadaniach. Oferta ASUS-a ",
-    "url": "https://www.chip.pl/2025/12/cztery-laptopy-asus-na-swiateczny-prezent",
-    "publishedAt": "2025-12-09T11:30:00.000Z",
-    "source": "Chip",
-    "sourceCategory": "Tech",
-    "thumbnail": null,
-    "categories": [
-      "Lokowanie produktu",
-      "CHIP Święta 2025"
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Z prezentami jest jak z dobrym sprzętem – najlepsze są te, które nie tylko cieszą na początku, ale też przydają się na co dzień i nie zawodzą po roku. W tym sezonie najrozsądniej wypadają laptopy, które łączą nowoczesne ekrany, kulturę pracy i realną wydajność w codziennych zadaniach. Oferta ASUS-a ",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "/mistrzowie-parkowania-z-koszalina-tak-nigdy-nie-parkujcie-tych-kierowcow-poniosla-fantazja-mamy-nowe-zdjecia/ar/c4-17396157",
@@ -1910,7 +1930,7 @@
     "location": null,
     "summary": "Na trawnikach, przejściach dla pieszych, na chodniku, tam, gdzie obowiązuje zakaz zatrzymywania i postoju, na dw&oacute;ch miejscach parkingowych - wyobraźnia części kierowc&oacute;w nie zna naprawdę granic. Brak wolnego miejsca w wybranej przez nas lokalizacji nie może usprawiedliwiać parkowania w ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.042Z"
   },
   {
     "guid": "/prezenty-swiateczne-w-prlu-i-ponad-200-lat-temu/ar/c1-9203426",
@@ -1935,7 +1955,7 @@
     "location": null,
     "summary": "Dlaczego dajemy prezenty? Naukowcy tłumaczą, że &bdquo;podarunki są zewnętrznym przejawem nawiązywania lub podtrzymywania relacji&rdquo;. Przypominamy, jakie prezenty dawaliśmy sobie 200 lat temu, a jakie w czasach PRL-u.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/szklany-kubek-wycofana-ze-sprzedazy-picie-z-niego-zagraza-zdrowiu-najnowsze-ostrzezenie-gis/ar/c1-15169020",
@@ -1960,7 +1980,7 @@
     "location": null,
     "summary": "Gł&oacute;wny Inspektorat Sanitarny pokazał produkty szkodliwe dla zdrowia człowieka. Nowe ostrzeżenie GIS z 10 grudnia 2025 roku dotyczy szklanego kubka!",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.468Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/szczecin-na-poczatku-xxi-wieku-tak-wtedy-wygladalo-miasto-zdjecia/ar/c1-15302535",
@@ -1985,7 +2005,7 @@
     "location": null,
     "summary": "Jak wyglądał Szczecin na początku lat 2000? Zobaczcie archiwalne zdjęcia w naszej galerii i oceńcie sami, co się zmieniło przez ostatnie 25 lat.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/koszalin-ponad-20-lat-temu-jak-wygladalo-zycie-w-miescie-na-poczatku-xxi-wieku-unikatowe-zdjecia/ar/c1-15003385",
@@ -2010,7 +2030,7 @@
     "location": null,
     "summary": "Jak wyglądał Koszalin na początku XXI wieku? Oto kolejne zdjęcia z bogatego archiwum Krzysztofa Sokołowa, znanego koszalińskiego fotografa. Zapraszamy do oglądania!",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/czy-pamietasz-te-przedmioty-z-prlu-kultowe-rzeczy-z-lat-70-80-i-90-kosztuja-fortune-znowu-wrocila-moda-na-wnetrza-z-prlu-zdjecia/ar/c9-16544871",
@@ -2035,7 +2055,7 @@
     "location": null,
     "summary": "Przedmioty Z PRL-u &ndash; syfon z nabojami, lampa lava, kula disco, kasety, telefon z obrotową tarczą czy kultowa farelka to gadżety, kt&oacute;re kr&oacute;lowały w polskich domach w latach 70., 80. i 90. XX wieku. Wiele os&oacute;b wspomina je z wielkim sentymentem i znowu po nie sięga. Niekt&oac",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/gwiazda-betlejemska-najmodniejsza-dekoracja-na-boze-narodzenie-piekne-stroiki-swiateczne-z-poinsecji/ar/c9-17114859",
@@ -2060,7 +2080,7 @@
     "location": null,
     "summary": "Gwiazda betlejemska to niezwykle popularna roślina świąteczna, kt&oacute;rą co roku większość z nas pięknie dekoruje dom na Boże Narodzenie. Poinsecja jest tania, niezwykle efektowna i trwała, dlatego świetnie się sprawdza jako świąteczna dekoracja. Podpowiadamy, jak pomysłowo ozdobić wnętrza za pom",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/uczniowie-sa-bezczelni-czas-na-ciete-riposty-nauczycieli-to-prawdziwe-hity-sprawdzianow/ar/c5-15117002",
@@ -2085,7 +2105,7 @@
     "location": null,
     "summary": "W edukacji łatwo nie jest. Nauczyciele zawsze muszą trzymać nerwy na wodzy, ale czasem nie żałują sobie małych lub dużych złośliwości. Uczniowie, kt&oacute;rzy w nosie mają naukę, tracą czas na wypisywanie głupich komentarzy na sprawdzianach pisemnych. Na szczęście coraz częściej i nauczyciele nie g",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/jedzenie-niezdrowe-dla-psa-czy-pies-powinien-jesc-produkty-mleczne-tego-pies-nie-powinien-dostawac-do-jedzenia/ar/c1-16003383",
@@ -2110,7 +2130,7 @@
     "location": null,
     "summary": "Czego tw&oacute;j pies nie może jeść?! Pies to najlepszy przyjaciel człowieka. Bardzo troszczymy się o jego zdrowie i samopoczucie. Chcemy dla niego jak najlepiej, ale czasami nieświadomie możemy mu wyrządzić krzywdę. Jednym z największych przewinień właścicieli zwierząt jest karmienie czworonog&oac",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/absolutnie-nie-odbieraj-tych-polaczen-z-tych-numerow-dzwonia-oszusci-stracisz-pieniadze-7122025/ar/c1-18976655",
@@ -2135,7 +2155,7 @@
     "location": null,
     "summary": "Oszuści nie pr&oacute;żnują i wymyślają kolejne metody &quot;jak zarobić&quot; pieniądze kosztem niewinnych os&oacute;b. Wystarczy, że jedynie odbierzemy połączenie z tych numer&oacute;w, a stracimy duże pieniądze. Sprawdź jakich połączeń unikać i z jakich numer&oacute;w nie odbierać telefonu.",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "/mezczyzni-o-tych-imionach-sa-najgorszymi-mezami-maja-trudny-charakter-lista-7122025/ar/c15-17214381",
@@ -2160,107 +2180,7 @@
     "location": null,
     "summary": "Od początku wydają się wspaniałymi partnerami życiowymi, a po ślubie wszystko diametralnie się zmienia. Co możemy wyczytać z konkretnych imion? Zobacz, jacy mężczyźni muszą się bardzo starać w roli męż&oacute;w. Potrzeba jednak więcej silnej woli - ci mężczyźni muszą się mocniej starać, aby być dobr",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
-  },
-  {
-    "guid": "/gala-finalowa-plebiscytu-medycznego-hipokrates-2025-poznaj-ogolnopolskich-laureatow-zobacz-zdjecia-szczegolowa-relacja-z/ar/c14-19121149",
-    "title": "Gala finałowa Plebiscytu Medycznego HIPOKRATES 2025. Poznaj ogólnopolskich laureatów, zobacz zdjęcia. Szczegółowa relacja z wydarzenia!",
-    "description": "Na Zamku Kr&oacute;lewskim w Warszawie zakończyła się uroczysta gala Plebiscytu Medycznego HIPOKRATES 2025. To wydarzenie zorganizowane na cześć og&oacute;lnokrajowych zwycięzc&oacute;w tegorocznej edycji konkursu: najlepszych i najbardziej docenianych medyk&oacute;w i profesjonalist&oacute;w branży",
-    "url": "https://gs24.pl/gala-finalowa-plebiscytu-medycznego-hipokrates-2025-poznaj-ogolnopolskich-laureatow-zobacz-zdjecia-szczegolowa-relacja-z/ar/c14-19121149",
-    "publishedAt": "2025-12-06T14:34:00.000Z",
-    "source": "GS24",
-    "sourceCategory": "Local",
-    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/2d/f1/6934635ba57ba_o,size,640x400,q,71,h,b07c8b.jpg",
-    "categories": [
-      {
-        "_": "Zdrowie",
-        "$": {
-          "domain": "https://gs24.pl/zdrowie/"
-        }
-      }
-    ],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Na Zamku Kr&oacute;lewskim w Warszawie zakończyła się uroczysta gala Plebiscytu Medycznego HIPOKRATES 2025. To wydarzenie zorganizowane na cześć og&oacute;lnokrajowych zwycięzc&oacute;w tegorocznej edycji konkursu: najlepszych i najbardziej docenianych medyk&oacute;w i profesjonalist&oacute;w branży",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
-  },
-  {
-    "guid": "/horror-najgorsze-mieszkania-do-wynajecia-lazienka-z-lozkiem-i-balkon-z-kolumnami/ar/c1-15426969",
-    "title": "Horror! Najgorsze mieszkania do wynajęcia. Łazienka z łóżkiem i balkon z kolumnami",
-    "description": "W czasach kilkumetrowych mikrokawalerek mało kt&oacute;re ogłoszenia są w stanie zaskoczyć. Tym jednak z pewnością się uda, bo pomysły os&oacute;b, kt&oacute;re oferują mieszkania do wynajęcia jeżą włos na głowie! Zdjęcia niekt&oacute;rych mieszkań po prostu budzą grozę. Gusta są r&oacute;żne i o ni",
-    "url": "https://gs24.pl/horror-najgorsze-mieszkania-do-wynajecia-lazienka-z-lozkiem-i-balkon-z-kolumnami/ar/c1-15426969",
-    "publishedAt": "2025-12-06T10:12:15.000Z",
-    "source": "GS24",
-    "sourceCategory": "Local",
-    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/e9/48/6934012a551c2_o,size,640x400,q,71,h,864270.jpg",
-    "categories": [
-      {
-        "_": "Dom",
-        "$": {
-          "domain": "https://gs24.pl/dom/"
-        }
-      }
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "W czasach kilkumetrowych mikrokawalerek mało kt&oacute;re ogłoszenia są w stanie zaskoczyć. Tym jednak z pewnością się uda, bo pomysły os&oacute;b, kt&oacute;re oferują mieszkania do wynajęcia jeżą włos na głowie! Zdjęcia niekt&oacute;rych mieszkań po prostu budzą grozę. Gusta są r&oacute;żne i o ni",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
-  },
-  {
-    "guid": "/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c1-15351553",
-    "title": "12 potraw na Wigilię - lista. To tradycyjne obowiązkowe potrawy na Wigilię. Polecają Makłowicz, Wachowicz, Brodnicki, Okrasa",
-    "description": "12 wigilijnych potraw od Gessler, Makłowicza, Wachowicz, Brodnickiego, Okrasy i Starmach. Karp, kapusta, pierogi, barszcz na Wigilię i święta. Co znani kucharze polecają na wigilijny st&oacute;ł? Wśr&oacute;d 12 potraw są obowiązkowe: karp, kapusta, pierogi, barszcz. Wypr&oacute;buj przepis&oacute;w",
-    "url": "https://gs24.pl/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c1-15351553",
-    "publishedAt": "2025-12-06T10:10:58.000Z",
-    "source": "GS24",
-    "sourceCategory": "Local",
-    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/df/8c/5fdb75fb53286_o,size,640x400,q,71,h,fbcc27.jpg",
-    "categories": [
-      {
-        "_": "Strona kobiet",
-        "$": {
-          "domain": "https://gs24.pl/strona-kobiet/"
-        }
-      }
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "12 wigilijnych potraw od Gessler, Makłowicza, Wachowicz, Brodnickiego, Okrasy i Starmach. Karp, kapusta, pierogi, barszcz na Wigilię i święta. Co znani kucharze polecają na wigilijny st&oacute;ł? Wśr&oacute;d 12 potraw są obowiązkowe: karp, kapusta, pierogi, barszcz. Wypr&oacute;buj przepis&oacute;w",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
-  },
-  {
-    "guid": "/dom-krzysztofa-rutkowskiego-zobacz-jak-mieszka-detektyw-rutkowski-rewolwer-i-rozaniec-przy-lozku-detektywa-rutkowskiego/ar/c9-1049150",
-    "title": "Dom Krzysztofa Rutkowskiego! Zobacz jak mieszka detektyw Rutkowski! Rewolwer i różaniec przy łóżku detektywa Rutkowskiego!",
-    "description": "Dom Krzysztofa Rutkowskiego! Najsławniejszy detektyw w Polsce oprowadza nas po swoim domu. Detektyw Rutkowski śpi z rewolwerem i r&oacute;żańcem przy ł&oacute;żku, a latem relaksuje się w basenie, a w spiżarni ma słoiki z grzybkami od mamy.",
-    "url": "https://gs24.pl/dom-krzysztofa-rutkowskiego-zobacz-jak-mieszka-detektyw-rutkowski-rewolwer-i-rozaniec-przy-lozku-detektywa-rutkowskiego/ar/c9-1049150",
-    "publishedAt": "2025-12-06T08:15:53.000Z",
-    "source": "GS24",
-    "sourceCategory": "Local",
-    "thumbnail": "https://d-pt.ppstatic.pl/kadry/k/r/1/e5/b1/5290a5e6a2d5f_o,size,640x400,q,71,h,aeb5a9.jpg",
-    "categories": [
-      {
-        "_": "Dom",
-        "$": {
-          "domain": "https://gs24.pl/dom/"
-        }
-      }
-    ],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Dom Krzysztofa Rutkowskiego! Najsławniejszy detektyw w Polsce oprowadza nas po swoim domu. Detektyw Rutkowski śpi z rewolwerem i r&oacute;żańcem przy ł&oacute;żku, a latem relaksuje się w basenie, a w spiżarni ma słoiki z grzybkami od mamy.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
@@ -2278,7 +2198,7 @@
     "location": null,
     "summary": "Specjaliści IT są cały czas pożądani na rynku pracy, a zatrudnienia można szukać na wiele różnych sposobów. Sprawdź, co może pomóc Ci w znalezieniu wymarzonej pracy w branży i już teraz rozpocznij działania, które przybliżą Cię do celu. Najpopularniejszym sposobem poszukiwania pracy w IT jest dziś s",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
@@ -2296,7 +2216,7 @@
     "location": null,
     "summary": "Czy słyszeliście o Chat Control – unijnym prawie, które ma wprowadzić skanowanie treści w komunikatorach pod kątem materiałów pedofilskich? Wbrew obawom nie będzie ono “programem inwigilacji”, co nie zmienia faktu, że UE rzeczywiście chciałaby zapewnić służbom dostęp do szyfrowanej komunikacji. Jeśl",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
@@ -2314,7 +2234,7 @@
     "location": null,
     "summary": "Czy moja firma podlega pod NIS2? Co zrobić, jeśli zdarzy nam się atak ransomware? Z badań firm ESET i DAGMA Bezpieczeństwo IT wynika, że wciąż wiele osób w polskich firmach nie zna odpowiedzi na te pytania. Niemal dokładnie rok temu pisaliśmy w Niebezpieczniku o tym, że cyberbezpieczeństwo to jakby ",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
@@ -2332,7 +2252,7 @@
     "location": null,
     "summary": "Odnotujmy ważną z punktu OSINT-owego zmianę: Twitter (obecnie: X) zaczął pokazywać kraj i lokalizację, z powiązane z danym kontem. Oznaczane jest też użycie VPN-a. Zmiana wywołała dużo emocji — nagle okazało się, że wiele profili tylko udaje lokalnych komentatorów, a w rzeczywistości jest prowadzona",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
@@ -2350,7 +2270,7 @@
     "location": null,
     "summary": "W środę, w odpowiedzi na podłożenie ładunków wybuchowych na torach kolejowych, wicepremier Kosiniak-Kamysz ogłosił operację Horyzont, której celem jest przeciwdziałanie aktom dywersji, zwłaszcza jeśli dotyczą infrastruktury krytycznej. Jednym z elementów operacji ma być aplikacja mobilna, którą stwo",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
@@ -2368,7 +2288,7 @@
     "location": null,
     "summary": "Jeśli zamawialiście kiedykolwiek jedzenie online w serwisie NaWynos.elblag.pl to niestety mamy dla Was smutną informację. Można było pobrać dane wszystkich osób, które od 2011 roku korzystały z usług tego serwisu, a zdaniem administratora portalu, to nie jest duży problem i nie są to dane w żaden sp",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
@@ -2386,7 +2306,7 @@
     "location": null,
     "summary": "Z nieskrywaną przyjemnością informuję, że marcinnowak2080, czyli podszywacz, który od 4 lat uprzykrzał życie wielu Polakom, a zwłaszcza ludziom z branży cyberbezpieczeństwa, w tym mnie osobiście, został zatrzymany przez poznańskich policjantów z CBZC. Szczere gratulacje i dla nich i dla prokuratorów",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
@@ -2404,7 +2324,7 @@
     "location": null,
     "summary": "Kolejny groźny atak na puszki od Fortineta — upewnijcie się, że Wasz FortiWeb jest w wersji 8.0.2 zanim doczytacie ten artykuł do końca. Wystawiono exploita na sprzedaż i już widać ataki 6 listopada wystawiono na sprzedaż exploita na FortiWeb (Web Application Firewall). źródło: Rapid7.com Exploit po",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
@@ -2422,7 +2342,7 @@
     "location": null,
     "summary": "Rosnąca liczba procesów, danych i narzędzi w firmach powoduje, że w każdej organizacji prędzej czy później nadchodzi moment decyzji o wdrożeniu systemu ERP. Spójny system zarządzania zasobami to już nie tylko udogodnienie, ale warunek utrzymania konkurencyjności. A w coraz bardziej cyfrowych organiz",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
@@ -2440,7 +2360,7 @@
     "location": null,
     "summary": "Oszuści podszywają się pod Medfile.pl — usługę dla gabinetów i przychodni medycznych służącą m.in. do zarządzania dokumentacją. Tak ukierunkowany phishing może być mniej zauważalny, ale jego skutki mogą być bardzo bolesne. O sprawie powiadomił nas Paweł, nasz Czytelnik i lekarz, który na swoją komór",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
@@ -2458,7 +2378,7 @@
     "location": null,
     "summary": "W 2020 roku młody mężczyzna, znany jako JK, starał się o przyjęcie do służb mundurowych. Napotkał jednak problem – w Krajowym Systemie Informacyjnym Policji (KSIP) nadal widniały informacje o postępowaniu karnym toczącym się dwa lata wcześniej. JK był podejrzany o spowodowanie wypadku komunikacyjneg",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
@@ -2476,7 +2396,7 @@
     "location": null,
     "summary": "Otrzymujemy zgłoszenia, że oszuści podszywają się pod NFZ i wysyłają Polakom wiadomości o “zwrocie kosztów zakupu leków” oraz zachęcają do uzupełnienia formularza zwrotu. Uzupełnienie formularza może spowodować nie zwrot, a kradzież pieniędzy z rachunku bankowego. Jak wygląda fałszywa wiadomość? Oto",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
@@ -2494,7 +2414,7 @@
     "location": null,
     "summary": "Jeśli korzystałeś z usług serwisu SuperGrosz.pl oferującego pożyczki, to jak najszybciej zastrzeż swój PESEL — tu znajdziesz instrukcję jak to zrobić. Najlepiej zastrzeż swój PESEL już teraz, zanim doczytasz ten artykuł do końca. Wyciekły wszystkie dane klientów Jak przed godziną poinformował wicepr",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
@@ -2512,7 +2432,7 @@
     "location": null,
     "summary": "Jak informują nas użytkownicy aplikacji Bolt, w aplikacji zaczęły pojawiać się dane kontaktowe do kierowców. O ile wcześniej zamawiając przejazd można było zobaczyć tylko imię i ew. nazwę firmy z którą współpracował kierowca, to od wczoraj widać także: adres email kierowcy (nawet jeśli ktoś jest pod",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
@@ -2530,6 +2450,6 @@
     "location": null,
     "summary": "Dziś rano platforma sky-shop.pl, która umożliwia każdemu założenie swojego sklepu internetowego (i której twórcą jest Przemo od “phpBB2 by Przemo”), poinformowała swoich klientów (czyli właścicieli sklepów) o tym, że dane ich klientów (czyli zapewne sporej części z Was, drodzy internauci) zostały wy",
     "aiEnriched": false,
-    "processedAt": "2025-12-11T14:28:37.469Z"
+    "processedAt": "2025-12-11T20:31:29.043Z"
   }
 ]
