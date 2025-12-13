@@ -1,67 +1,359 @@
 [
   {
-    "guid": "4e970649-5202-4cbb-902b-57bced50665c",
-    "title": "\"Fronty Wojny. Podsumowanie tygodnia\". Ten dokument wstrząsnął Europą. \"Okno, przez które próbuje wejść Rosja\"",
-    "description": "W podsumowaniu tygodnia autorzy podcastu \"Fronty Wojny\" omawiali, jak amerykańska strategia bezpieczeństwa może wciągnąć Polskę w szarą strefę rosyjskich wpływów. Zastanawiali się też nad tym, co dostaniemy od Ukrainy za przekazanie do tego kraju myśliwców MiG-29. W wielkim hukiem powróciła też hist",
-    "url": "https://wiadomosci.onet.pl/tylko-w-onecie/fronty-wojny-ten-dokument-wstrzasnal-europa-rosja-probuje-wejsc-przez-to-okno/n0sdnj7",
-    "publishedAt": "2025-12-12T20:07:25.000Z",
+    "guid": "2ad4018c-d8c1-4339-8e6d-300556433b8e",
+    "title": "Zielona Góra - sprawdź prognozę pogody w dniu 13.12.2025",
+    "description": "Zielona Góra. Jaka pogoda będzie dziś w twoim mieście? Co przyniesie prognoza pogody w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo lubuskie.",
+    "url": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-13122025/d602ytc",
+    "publishedAt": "2025-12-13T03:05:02.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/zcWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYWUzNmE0OTY2NzBmNGJhZWNjZDNmNDg2NzFiZjE1Ni5qcGeSlQMAzNDNB9DNBGWTBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Zielona Góra. Jaka pogoda będzie dziś w twoim mieście? Co przyniesie prognoza pogody w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo lubuskie.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.276Z"
+  },
+  {
+    "guid": "6714ac05-b12a-43dc-961a-cc3ba4626094",
+    "title": "Wrocław - 13.12.2025. Prognoza pogody w mieście",
+    "description": "Sprawdź, jaka pogoda czeka województwo dolnośląskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "url": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-13122025/nhx7zxk",
+    "publishedAt": "2025-12-13T03:04:56.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Sprawdź, jaka pogoda czeka województwo dolnośląskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "7c0de690-e6db-490e-ae4b-038fd15fd3ed",
+    "title": "Warszawa - 13.12.2025. Pogoda na dziś",
+    "description": "Warszawa. Prognoza pogody w twoim mieście. Jak będzie pogoda na zewnątrz w dniu 13.12.2025? Przedstawiamy najnowsze przewidywania meteorologów. Województwo mazowieckie - jaka jest aktualna prognoza pogody?",
+    "url": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-13122025/gbbljq9",
+    "publishedAt": "2025-12-13T03:04:45.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Warszawa. Prognoza pogody w twoim mieście. Jak będzie pogoda na zewnątrz w dniu 13.12.2025? Przedstawiamy najnowsze przewidywania meteorologów. Województwo mazowieckie - jaka jest aktualna prognoza pogody?",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "1e9a4c20-f79c-472c-b7e7-13f4edc4d3f1",
+    "title": "Toruń. Prognoza pogody w dniu 13.12.2025",
+    "description": "Jaka pogoda będzie dziś w twoim mieście? Toruń - prognoza w dniu 13.12.2025. Prezentujemy najnowsze przewidywania meteorologów. Województwo kujawsko-pomorskie - sprawdź prognozę pogody.",
+    "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-13122025/rhbk3ee",
+    "publishedAt": "2025-12-13T03:04:43.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Jaka pogoda będzie dziś w twoim mieście? Toruń - prognoza w dniu 13.12.2025. Prezentujemy najnowsze przewidywania meteorologów. Województwo kujawsko-pomorskie - sprawdź prognozę pogody.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "889e1042-aca3-4ff1-ab21-b53c312ea2d6",
+    "title": "Szczecin. Sprawdź prognozę pogody w dniu 13.12.2025",
+    "description": "Szczecin. Sprawdź, jaka pogoda będzie dziś w twoim mieście. Zobacz, czy aura w dniu 13.12.2025 sprzyjać będzie przebywaniu na świeżym powietrzu? Prognoza pogody - województwo zachodniopomorskie. Sprawdź, jaka pogoda czeka nas dziś. Prezentujemy najnowsze informacje meteorologiczne.",
+    "url": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-13122025/cmfe9ks",
+    "publishedAt": "2025-12-13T03:04:32.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Szczecin. Sprawdź, jaka pogoda będzie dziś w twoim mieście. Zobacz, czy aura w dniu 13.12.2025 sprzyjać będzie przebywaniu na świeżym powietrzu? Prognoza pogody - województwo zachodniopomorskie. Sprawdź, jaka pogoda czeka nas dziś. Prezentujemy najnowsze informacje meteorologiczne.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "9124161c-2223-4671-9ab7-774b1d0a14f0",
+    "title": "Rzeszów: Jaka pogoda na dziś? Prognoza w dniu 13.12.2025",
+    "description": "Prognoza pogody dla miasta Rzeszów. Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo podkarpackie. Czy warunki dziś pozwolą na spokojny spacer? Sprawdzamy.",
+    "url": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-13122025/kxp30tc",
+    "publishedAt": "2025-12-13T03:04:30.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Prognoza pogody dla miasta Rzeszów. Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo podkarpackie. Czy warunki dziś pozwolą na spokojny spacer? Sprawdzamy.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "3ef5e420-b2fd-4fb0-8987-de5de3c5cf2d",
+    "title": "Poznań - sprawdź prognozę pogody w dniu 13.12.2025",
+    "description": "Sprawdź, jaka pogoda czeka województwo wielkopolskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "url": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-13122025/jlngej8",
+    "publishedAt": "2025-12-13T03:04:19.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Sprawdź, jaka pogoda czeka województwo wielkopolskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "d69df571-2c5e-4cbd-bb6c-c37685839015",
+    "title": "Opole: Jaka pogoda na dziś? Prognoza w dniu 13.12.2025",
+    "description": "Opole - czy dziś będzie ciepło w twoim mieście? Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo opolskie.",
+    "url": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-13122025/v4x4g16",
+    "publishedAt": "2025-12-13T03:04:13.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Mink9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNTk5YTBkZTgxNjFlYTI0ZGQxYjZjMzMyZWZkYTMwMi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Opole - czy dziś będzie ciepło w twoim mieście? Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo opolskie.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "7c80a8a3-7939-4aab-bf25-7c1e1451e054",
+    "title": "Olsztyn - prognoza pogody w dniu 13.12.2025",
+    "description": "Sprawdź, jaka pogoda czeka województwo warmińsko-mazurskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "url": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-13122025/5ree69k",
+    "publishedAt": "2025-12-13T03:04:02.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Sprawdź, jaka pogoda czeka województwo warmińsko-mazurskie. Czy warto zabrać ze sobą parasol i ciepłe okrycie. Pogoda na dziś!",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "35a4d6cf-24ac-49a3-b069-38e25eede926",
+    "title": "Lublin - sprawdź prognozę pogody w dniu 13.12.2025",
+    "description": "Lublin. Jaka pogoda będzie dziś w twoim mieście? Sprawdź prognozę w dniu 13.12.2025. Prezentujemy najnowsze przewidywania meteorologów. Województwo lubelskie - aktualna prognoza pogody.",
+    "url": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-13122025/0w6xf2g",
+    "publishedAt": "2025-12-13T03:04:00.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Lublin. Jaka pogoda będzie dziś w twoim mieście? Sprawdź prognozę w dniu 13.12.2025. Prezentujemy najnowsze przewidywania meteorologów. Województwo lubelskie - aktualna prognoza pogody.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "f64a123d-9e2a-4de5-b311-1803c8d1ee8f",
+    "title": "Łódź: jaka pogoda czeka nas 13.12.2025?",
+    "description": "Prognoza pogody dla miasta Łódź. Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo łódzkie. Czy warunki dziś pozwolą na spokojny spacer? Sprawdzamy.",
+    "url": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-13122025/qk9n46e",
+    "publishedAt": "2025-12-13T03:03:47.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Prognoza pogody dla miasta Łódź. Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo łódzkie. Czy warunki dziś pozwolą na spokojny spacer? Sprawdzamy.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "abdbb862-4e77-4a90-bb5d-81bb6a424b04",
+    "title": "Kraków - 13.12.2025. Jaka będzie pogoda w mieście?",
+    "description": "Kraków. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo małopolskie - jaka jest aktualna prognoza pogody?",
+    "url": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-13122025/seffpft",
+    "publishedAt": "2025-12-13T03:03:46.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Kraków. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo małopolskie - jaka jest aktualna prognoza pogody?",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.277Z"
+  },
+  {
+    "guid": "d7efd02a-8033-49c2-a064-cd7df560c074",
+    "title": "Kielce - prognoza pogody w dniu 13.12.2025",
+    "description": "Kielce. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo świętokrzyskie - jaka jest aktualna prognoza pogody?",
+    "url": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-13122025/dt64ts3",
+    "publishedAt": "2025-12-13T03:03:28.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/r5Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OGYzMDkwZjdiYWM1OTg1YzMyMDRkOGI3NTU4YjkxMS5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Kielce. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo świętokrzyskie - jaka jest aktualna prognoza pogody?",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "9714293b-1059-41bc-a282-6a7dd98b3453",
+    "title": "Katowice: Jaka pogoda na dziś? Prognoza w dniu 13.12.2025",
+    "description": "Katowice - czy dziś będzie ciepło w twoim mieście? Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo śląskie.",
+    "url": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-13122025/r0q9sky",
+    "publishedAt": "2025-12-13T03:03:27.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Katowice - czy dziś będzie ciepło w twoim mieście? Co przyniesie aura w dniu 13.12.2025? Prezentujemy najnowsze przewidywania meteorologów. Prognoza pogody - województwo śląskie.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "89f6a1d7-58d0-4d19-9acd-b96456d92dc6",
+    "title": "Gorzów Wielkopolski. Sprawdź prognozę pogody w dniu 13.12.2025",
+    "description": "Gorzów Wielkopolski. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo lubuskie - jaka jest aktualna prognoza pogody?",
+    "url": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-13122025/jwfxxqr",
+    "publishedAt": "2025-12-13T03:03:14.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Gorzów Wielkopolski. Jaka będzie pogoda w mieście? Czy w dniu 13.12.2025 przydadzą się nam parasole? Przedstawiamy najnowsze przewidywania meteorologów. Województwo lubuskie - jaka jest aktualna prognoza pogody?",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "ba32fa38-5194-4c01-9c63-89686f1dc325",
+    "title": "Gdańsk. Prognoza pogody w dniu 13.12.2025",
+    "description": "Gdańsk. Sprawdź, jaka pogoda będzie dziś w twoim mieście. Zobacz, czy aura w dniu 13.12.2025 sprzyjać będzie przebywaniu na świeżym powietrzu? Prognoza pogody - województwo pomorskie. Sprawdź, jaka pogoda czeka nas dziś. Prezentujemy najnowsze informacje meteorologiczne.",
+    "url": "https://wiadomosci.onet.pl/trojmiasto/gdansk-prognoza-pogody-w-dniu-13122025/cymlj5m",
+    "publishedAt": "2025-12-13T03:03:13.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Mink9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNTk5YTBkZTgxNjFlYTI0ZGQxYjZjMzMyZWZkYTMwMi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Gdańsk. Sprawdź, jaka pogoda będzie dziś w twoim mieście. Zobacz, czy aura w dniu 13.12.2025 sprzyjać będzie przebywaniu na świeżym powietrzu? Prognoza pogody - województwo pomorskie. Sprawdź, jaka pogoda czeka nas dziś. Prezentujemy najnowsze informacje meteorologiczne.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "1c392d4c-cbed-4579-8f5f-cdb08d914dcc",
+    "title": "Bydgoszcz - jakiej pogody możemy się spodziewać 13.12.2025?",
+    "description": "Bydgoszcz. Prognoza pogody w twoim mieście. Jak będzie pogoda na zewnątrz w dniu 13.12.2025? Przedstawiamy najnowsze przewidywania meteorologów. Województwo kujawsko-pomorskie - jaka jest aktualna prognoza pogody?",
+    "url": "https://wiadomosci.onet.pl/kujawsko-pomorskie/bydgoszcz-prognoza-pogody-w-dniu-13122025/mh4jcjm",
+    "publishedAt": "2025-12-13T03:02:56.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Bydgoszcz. Prognoza pogody w twoim mieście. Jak będzie pogoda na zewnątrz w dniu 13.12.2025? Przedstawiamy najnowsze przewidywania meteorologów. Województwo kujawsko-pomorskie - jaka jest aktualna prognoza pogody?",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "de6e4968-b9ed-4996-94fc-fa5eee160619",
+    "title": "Białystok: jaka pogoda czeka nas 13.12.2025?",
+    "description": "Lekki wiatr, wysoka temperatura odczuwalna i nieznaczne zachmurzenie? Białystok 13.12.2025 - czy możemy liczyć na świetną pogodę? Czy powinniśmy oczekiwać opadów deszczu? Oto pogoda na dziś - sprawdź, czy warto wziąć parasol. Oto pogoda w mieście Białystok!",
+    "url": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-13122025/bdk5xq0",
+    "publishedAt": "2025-12-13T03:02:55.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i1pk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mNmY5ZWI3MjU4MWMyZDkwNWZkNTk5MjkyZGQyYzBhZi5qcGeRkwXNCWDNBkDeAAKhMAehMQQ",
+    "categories": [],
+    "category": "wojna/konflikt",
+    "subcategory": "Konflikty zbrojne",
+    "categoryConfidence": 0.8,
+    "location": null,
+    "summary": "Lekki wiatr, wysoka temperatura odczuwalna i nieznaczne zachmurzenie? Białystok 13.12.2025 - czy możemy liczyć na świetną pogodę? Czy powinniśmy oczekiwać opadów deszczu? Oto pogoda na dziś - sprawdź, czy warto wziąć parasol. Oto pogoda w mieście Białystok!",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "78f628df-c630-43ea-8f8c-a3cd89239463",
+    "title": "USA jednak pojawią się na rozmowach o Ukrainie? Nowe doniesienia",
+    "description": "Specjalny wysłannik USA Steve Witkoff w ten weekend spotka się w Berlinie z prezydentem Ukrainy Wołodymyrem Zełenskim i europejskimi przywódcami — poinformował w piątek dziennik \"Wall Street Journal\", powołując się na źródła.",
+    "url": "https://wiadomosci.onet.pl/swiat/rozmowy-o-ukrainie-w-europie-media-trump-jednak-wysle-swojego-czlowieka/9xsykbk",
+    "publishedAt": "2025-12-13T02:46:42.000Z",
+    "source": "Onet",
+    "sourceCategory": "News",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/QZKk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kNmEyYWYzZjc2Y2Q4MDViNjNhZGViYTcwMTU1OGMyYi5qcGeSlQMAXc0Llc0Gg5MFzQlgzQZA3gACoTAHoTEE",
     "categories": [],
     "category": "nauka",
     "subcategory": "Badania",
     "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "W podsumowaniu tygodnia autorzy podcastu \"Fronty Wojny\" omawiali, jak amerykańska strategia bezpieczeństwa może wciągnąć Polskę w szarą strefę rosyjskich wpływów. Zastanawiali się też nad tym, co dostaniemy od Ukrainy za przekazanie do tego kraju myśliwców MiG-29. W wielkim hukiem powróciła też hist",
+    "location": {
+      "name": "USA",
+      "lat": 37.09,
+      "lon": -95.71
+    },
+    "summary": "Specjalny wysłannik USA Steve Witkoff w ten weekend spotka się w Berlinie z prezydentem Ukrainy Wołodymyrem Zełenskim i europejskimi przywódcami — poinformował w piątek dziennik \"Wall Street Journal\", powołując się na źródła.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.070Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
-    "guid": "fbcc7fc2-364b-474f-8d7b-66ca412e04a9",
-    "title": "Atak na hiszpańskich kibiców. Funkcjonariuszka Służby Więziennej zawieszona",
-    "description": "Funkcjonariuszka Służby Więziennej z Białegostoku została zawieszona w czynnościach służbowych. Kobieta została wcześniej zatrzymana przez policję i jest podejrzewana o napaść na hiszpańskich kibiców niedaleko Ostrowi Mazowieckiej — poinformowała rzeczniczka SW Arleta Pęconek.",
-    "url": "https://wiadomosci.onet.pl/bialystok/atak-na-hiszpanskich-kibicow-funkcjonariuszka-sluzby-wieziennej-zawieszona/m85vjgw",
-    "publishedAt": "2025-12-12T20:04:43.000Z",
+    "guid": "c7039178-5433-43d7-852e-4afc3e75780d",
+    "title": "Donald Trump zapytany o \"wolną strefę ekonomiczną\" w Donbasie. \"Wiele osób jej chce\"",
+    "description": "Prezydent USA Donald Trump powiedział, że utworzenie \"wolnej strefy ekonomicznej\" w Donbasie na wschodzie Ukrainy to skomplikowana sprawa, ale wyraził jednocześnie przekonanie, że wiele osób chciałoby, żeby powstała.",
+    "url": "https://wiadomosci.onet.pl/swiat/trump-zapytany-o-wolna-strefe-ekonomiczna-w-donbasie-wiele-osob-jej-chce/7ykrhh7",
+    "publishedAt": "2025-12-13T00:59:52.000Z",
     "source": "Onet",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/wWrk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNzg2YTYwMWQ5NTc4MzE3ZmNkNTMxZjg2ZDE2NWNjNi5qcGeSlQMAAM0Xl80NRZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Funkcjonariuszka Służby Więziennej z Białegostoku została zawieszona w czynnościach służbowych. Kobieta została wcześniej zatrzymana przez policję i jest podejrzewana o napaść na hiszpańskich kibiców niedaleko Ostrowi Mazowieckiej — poinformowała rzeczniczka SW Arleta Pęconek.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.070Z"
-  },
-  {
-    "guid": "ea8ee847-6335-473d-a913-8ddd3b3ca264",
-    "title": "Karol Nawrocki zrywa z tradycją swoich poprzedników. Nie będzie Chanuki w Pałacu Prezydenckim",
-    "description": "W tym roku w Pałacu Prezydenckim nie odbędą się obchody Chanuki, co potwierdzają \"Rzeczpospolitej\" przedstawiciele społeczności żydowskiej w Polsce. Uroczystości chanukowe odbędą się jednak w Sejmie, gdzie tradycja ta jest równie długa.",
-    "url": "https://wiadomosci.onet.pl/kraj/brak-obchodow-chanuki-w-palacu-prezydenckimnawrocki-przerywa-tradycje/r8e3jtv",
-    "publishedAt": "2025-12-12T20:03:46.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/u8Jk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lZmNmMjBhMGIzYzcxOTQxNTVkZmJjZGNmMWYwYzg3OS5qcGeSlQMAzInNEU3NCbuTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "W tym roku w Pałacu Prezydenckim nie odbędą się obchody Chanuki, co potwierdzają \"Rzeczpospolitej\" przedstawiciele społeczności żydowskiej w Polsce. Uroczystości chanukowe odbędą się jednak w Sejmie, gdzie tradycja ta jest równie długa.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.070Z"
-  },
-  {
-    "guid": "9971b3c3-9e44-4a7d-8589-7120f79b11c9",
-    "title": "Donald Trump ogłosił zawieszenie broni między Tajlandią a Kambodżą",
-    "description": "Prezydent USA Donald Trump poinformował, że rozmawiał z premierami Tajlandii i Kambodży. Przywódca Stanów Zjednoczonych przekazał, że liderzy zgodzili się na wstrzymanie wymiany ognia od piątkowego wieczoru.",
-    "url": "https://wiadomosci.onet.pl/swiat/donald-trump-oglosil-zawieszenie-broni-miedzy-tajlandia-a-kambodza/8lwz8jf",
-    "publishedAt": "2025-12-12T19:58:13.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/c4Zk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xZTcyMWU2Yi03ZWY3LTQ2ODMtYmQzNy1jMTE4ZDczYTY0YzMuanBlZ5KVAwDMts0W9s0M7ZMFzQlgzQZA3gACoTAHoTEE",
+    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/QuVk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iMWEwYWIyYzc0M2M0MzM1NzlmZTRhNDk2NTExMTA0NC5qcGeSlQMAzMPNGHXNDcGTBc0JYM0GQN4AAqEwB6ExBA",
     "categories": [],
     "category": "polityka",
     "subcategory": "Międzynarodowe",
@@ -71,318 +363,108 @@
       "lat": 37.09,
       "lon": -95.71
     },
-    "summary": "Prezydent USA Donald Trump poinformował, że rozmawiał z premierami Tajlandii i Kambodży. Przywódca Stanów Zjednoczonych przekazał, że liderzy zgodzili się na wstrzymanie wymiany ognia od piątkowego wieczoru.",
+    "summary": "Prezydent USA Donald Trump powiedział, że utworzenie \"wolnej strefy ekonomicznej\" w Donbasie na wschodzie Ukrainy to skomplikowana sprawa, ale wyraził jednocześnie przekonanie, że wiele osób chciałoby, żeby powstała.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.070Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
-    "guid": "ff9c6ed3-a3d0-4fa7-833d-8711351f3a4d",
-    "title": "Nie będzie spotkania w sprawie Ukrainy w Paryżu. Nieoficjalne ustalenia",
-    "description": "Według doniesień źródła w Pałacu Elizejskim, w sobotę nie dojdzie do spotkania w sprawie Ukrainy, o którym informowały media. Z nieoficjalnych informacji wynikało, że udział w nim mieli wziąć wysokiej rangi przedstawiciele Ukrainy, USA i krajów europejskich.",
-    "url": "https://wiadomosci.onet.pl/swiat/nieoficjalnie-w-sobote-nie-bedzie-spotkania-w-sprawie-ukrainy-w-paryzu/6h7d3k3",
-    "publishedAt": "2025-12-12T19:32:01.000Z",
-    "source": "Onet",
+    "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-13-12-miejscami-moze-padac-deszcz-ze-sniegiem-st8799121",
+    "title": "Pogoda na dziś - sobota, 13.12. Miejscami może padać deszcz ze śniegiem",
+    "description": "Pogoda na dziś. Sobota, 13.12. w większości kraju przyniesie chmury. W niektórych regionach popada, a miejscami może zaznaczyć się nawet deszcz ze śniegiem. Na termometrach pokaże się maksymalnie 8 stopni.",
+    "url": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-13-12-miejscami-moze-padac-deszcz-ze-sniegiem-st8799121?source=rss",
+    "publishedAt": "2025-12-13T01:00:00.000Z",
+    "source": "TVN24",
     "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/KHJk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNzYxOGMyODAyY2Q4MzdhZGUwNzNlZWI4MGJiMTliOS5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
+    "thumbnail": null,
     "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Pogoda na dziś. Sobota, 13.12. w większości kraju przyniesie chmury. W niektórych regionach popada, a miejscami może zaznaczyć się nawet deszcz ze śniegiem. Na termometrach pokaże się maksymalnie 8 stopni.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "https://tvn24.pl/swiat/krol-karol-iii-podzielil-sie-dobra-nowina-chodzi-walke-z-nowotworem-st8799390",
+    "title": "Król Karol III podzielił się \"dobrą nowiną\"",
+    "description": "Król Karol III przekazał, że leczenie jego choroby nowotworowej przebiega na tyle skutecznie, że w przyszłym roku terapia może zostać ograniczona. Monarcha w programie telewizyjnym zaapelował do widzów o to, aby jednym z ich postanowień noworocznych było wykonanie badań przesiewowych.",
+    "url": "https://tvn24.pl/swiat/krol-karol-iii-podzielil-sie-dobra-nowina-chodzi-walke-z-nowotworem-st8799390?source=rss",
+    "publishedAt": "2025-12-12T21:29:33.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Król Karol III przekazał, że leczenie jego choroby nowotworowej przebiega na tyle skutecznie, że w przyszłym roku terapia może zostać ograniczona. Monarcha w programie telewizyjnym zaapelował do widzów o to, aby jednym z ich postanowień noworocznych było wykonanie badań przesiewowych.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "https://tvn24.pl/polska/grzegorz-braun-grozil-ministrowi-wieszaniem-posel-konfederacji-michal-wawer-to-zapowiedz-rozliczen-st8799297",
+    "title": "Braun groził ministrowi \"wieszaniem\". Poseł Konfederacji: to zapowiedź rozliczeń",
+    "description": "Poseł Konfederacji Michał Wawer bronił w \"#BezKitu\" w TVN24 działania Grzegorza Brauna sprzed lat. Ocenił między innymi, że to Braun \"był raczej atakowany\", kiedy gasił w Sejmie świece chanukowe i skierował proszek gaśniczy w stronę powstrzymującej go kobiety. Odniósł się też do groźby Brauna pod ad",
+    "url": "https://tvn24.pl/polska/grzegorz-braun-grozil-ministrowi-wieszaniem-posel-konfederacji-michal-wawer-to-zapowiedz-rozliczen-st8799297?source=rss",
+    "publishedAt": "2025-12-12T20:57:25.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Poseł Konfederacji Michał Wawer bronił w \"#BezKitu\" w TVN24 działania Grzegorza Brauna sprzed lat. Ocenił między innymi, że to Braun \"był raczej atakowany\", kiedy gasił w Sejmie świece chanukowe i skierował proszek gaśniczy w stronę powstrzymującej go kobiety. Odniósł się też do groźby Brauna pod ad",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-12-13-12-geste-mgly-gdzie-widzialnosc-bedzie-ograniczona-st8795857",
+    "title": "Noc z niebezpieczną aurą. IMGW ostrzega",
+    "description": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy w wielu województwach pojawią się mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie uważać na drogach.",
+    "url": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-12-13-12-geste-mgly-gdzie-widzialnosc-bedzie-ograniczona-st8795857?source=rss",
+    "publishedAt": "2025-12-12T06:04:00.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
+    "location": null,
+    "summary": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenia meteorologiczne. W nocy w wielu województwach pojawią się mgły, które znacznie ograniczą widzialność. Sprawdź, gdzie uważać na drogach.",
+    "aiEnriched": false,
+    "processedAt": "2025-12-13T03:21:52.278Z"
+  },
+  {
+    "guid": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-usa-i-kanadzie-ratowali-mieszkancow-helikopterami-ze-strychow-i-dachow-samochodow-st8797806",
+    "title": "Powodzie w USA i Kanadzie. Ratowali mieszkańców helikopterami ze strychów i dachów samochodów",
+    "description": "Północno-zachodnie Stany Zjednoczone mierzą się z powodziami wywołanymi silnymi opadami deszczu. Władze stanu Waszyngton zaleciły ewakuację około 100 tysiącom mieszkańcom. Niektóre osoby musiały być ratowane z wykorzystaniem helikoptera. Niebezpieczna sytuacja panuje także w południowo-zachodniej Ka",
+    "url": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-usa-i-kanadzie-ratowali-mieszkancow-helikopterami-ze-strychow-i-dachow-samochodow-st8797806?source=rss",
+    "publishedAt": "2025-12-12T08:18:57.000Z",
+    "source": "TVN24",
+    "sourceCategory": "News",
+    "thumbnail": null,
+    "categories": [],
+    "category": "Inne",
+    "subcategory": "Ogólne",
+    "categoryConfidence": 0.5,
     "location": {
       "name": "USA",
       "lat": 37.09,
       "lon": -95.71
     },
-    "summary": "Według doniesień źródła w Pałacu Elizejskim, w sobotę nie dojdzie do spotkania w sprawie Ukrainy, o którym informowały media. Z nieoficjalnych informacji wynikało, że udział w nim mieli wziąć wysokiej rangi przedstawiciele Ukrainy, USA i krajów europejskich.",
+    "summary": "Północno-zachodnie Stany Zjednoczone mierzą się z powodziami wywołanymi silnymi opadami deszczu. Władze stanu Waszyngton zaleciły ewakuację około 100 tysiącom mieszkańcom. Niektóre osoby musiały być ratowane z wykorzystaniem helikoptera. Niebezpieczna sytuacja panuje także w południowo-zachodniej Ka",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.070Z"
-  },
-  {
-    "guid": "a80386c4-8d19-4fea-8966-9e186758ded8",
-    "title": "To Donald Trump, a nie Ukraina, jest prawdziwym przegranym. Prezydent USA nie zdał najbardziej podstawowego testu przywództwa [OPINIA]",
-    "description": "Donald Trump jest przekonany, że prowadzi wyrafinowaną grę, podczas gdy świat płonie. Uważa się za negocjatora i stratega, człowieka, który dostrzega rzeczy, których inni nie widzą. Jednak w przypadku Ukrainy jego działania sugerują coś zupełnie innego. Nie przechytrzył nikogo. Zamiast tego jawi się",
-    "url": "https://wiadomosci.onet.pl/swiat/to-donald-trump-a-nie-ukraina-jest-prawdziwym-przegranym-prezydent-usa-nie-zdal/3kqy07n",
-    "publishedAt": "2025-12-12T19:31:28.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/HKqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84NjdmNTY1N2M4ZGQwMWYwYTg3NjljOGUwYTU5ZTNiMy5qcGeSlQPNAtnNAXLNCpDNBfGTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "polityka",
-    "subcategory": "Międzynarodowe",
-    "categoryConfidence": 0.7,
-    "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
-    },
-    "summary": "Donald Trump jest przekonany, że prowadzi wyrafinowaną grę, podczas gdy świat płonie. Uważa się za negocjatora i stratega, człowieka, który dostrzega rzeczy, których inni nie widzą. Jednak w przypadku Ukrainy jego działania sugerują coś zupełnie innego. Nie przechytrzył nikogo. Zamiast tego jawi się",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "2a6aaa5f-9088-460b-b5d1-02cd2d43436a",
-    "title": "UE podjęła decyzję w sprawie rosyjskich aktywów. Dwa kraje były przeciw",
-    "description": "Państwa członkowskie Unii Europejskiej podjęły w piątek decyzję o zamrożeniu na stałe rosyjskich aktywów przechowywanych na terenie wspólnoty — poinformowała duńska prezydencja. Przeciwko rozporządzeniu ustanawiającym zakaz transferu środków z powrotem do Rosji były tylko dwa kraje. Wcześniej Stany ",
-    "url": "https://wiadomosci.onet.pl/swiat/ue-podjela-decyzje-w-sprawie-rosyjskich-aktywow-dwa-kraje-byly-przeciw/x9zh550",
-    "publishedAt": "2025-12-12T19:07:32.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/i41k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYTAyYWYwMjEwNDU4MjA2YWI0NGY2OGMwODNiYTI4YS5qcGeSlQMAzNrNFErNC2qTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Państwa członkowskie Unii Europejskiej podjęły w piątek decyzję o zamrożeniu na stałe rosyjskich aktywów przechowywanych na terenie wspólnoty — poinformowała duńska prezydencja. Przeciwko rozporządzeniu ustanawiającym zakaz transferu środków z powrotem do Rosji były tylko dwa kraje. Wcześniej Stany ",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "d05a98fd-d5a2-4b44-9fe5-7e1e478fe847",
-    "title": "Moskwa zmienia mundury, nie zasady. Analityk mocno o \"demilitaryzacji\" Donbasu. \"Tego nie da się traktować poważnie\"",
-    "description": "Kreml próbuje sprzedać wizję \"demilitaryzacji\" Donbasu, która w praktyce ma niewiele wspólnego z rozbrojeniem. Zamiast armii — Rosgwardia, zamiast ustępstw — zachowanie pełnej kontroli. Analityk Gieorgij Czyżow nie ma złudzeń: to nie plan pokoju, lecz zmiana dekoracji. W tym kontekście pojawia się z",
-    "url": "https://wiadomosci.onet.pl/swiat/moskwa-zmienia-mundury-nie-zasady-analityk-mocno-o-demilitaryzacji-donbasu-tego-nie/4xf2dpx",
-    "publishedAt": "2025-12-12T19:07:30.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/maek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jZmI2OGQ0YjFhYjRmOGVmMWVkNzMwNWEyMzMxZWJiYS5qcGeSlQMAzK7NFcDNDDyTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Kreml próbuje sprzedać wizję \"demilitaryzacji\" Donbasu, która w praktyce ma niewiele wspólnego z rozbrojeniem. Zamiast armii — Rosgwardia, zamiast ustępstw — zachowanie pełnej kontroli. Analityk Gieorgij Czyżow nie ma złudzeń: to nie plan pokoju, lecz zmiana dekoracji. W tym kontekście pojawia się z",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "3a39a54d-4f03-4a3c-b28f-ac1849dcd373",
-    "title": "Rzecznik Kremla odpowiada na propozycję Wołodymyra Zełenskiego. \"Naturalnie to się nie powiedzie\"",
-    "description": "Rzecznik Kremla Dmitrij Pieskow odniósł się do propozycji Wołodymyra Zełenskiego, który w reakcji na amerykański plan zakładający utworzenie zdemilitaryzowanej strefy w Donbasie wyraził gotowość do przeprowadzenia referendum w tej sprawie. — Jeśli pomysł polega na stworzeniu pretekstu do żądania zaw",
-    "url": "https://wiadomosci.onet.pl/swiat/pieskow-odpowiada-na-pomysl-zelenskiego-to-sie-nie-powiedzie/nknnpm0",
-    "publishedAt": "2025-12-12T18:53:25.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/-f_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mMjg4NmUzYjhmZDFjMDJlZTMwMjA2ZDRlY2NlYzAzNC5qcGeSlQMAzKjNFRfNC9yTBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Rzecznik Kremla Dmitrij Pieskow odniósł się do propozycji Wołodymyra Zełenskiego, który w reakcji na amerykański plan zakładający utworzenie zdemilitaryzowanej strefy w Donbasie wyraził gotowość do przeprowadzenia referendum w tej sprawie. — Jeśli pomysł polega na stworzeniu pretekstu do żądania zaw",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "1a1a7bd8-6d7a-4ce8-b872-f08524d9442e",
-    "title": "Politycy przepychali się przed mikrofonem. Wszystko się nagrało",
-    "description": "Przepychanka między politykami zakłóciła uroczystość otwarcia obwodnicy Nowego Korczyna (woj. świętokrzyskie). Najpierw zaczął przemawiać, nieuwzględniony w programie, burmistrz Paweł Zagaja. Następnie między dwojgiem posłów PiS Michałem Cieślakiem i Anną Krupką doszło do przepychanki o mikrofon.",
-    "url": "https://wiadomosci.onet.pl/kraj/przepychanka-na-otwarciu-obwodnicy-poszlo-o-dostep-do-mikrofonu/wdm3nh1",
-    "publishedAt": "2025-12-12T18:43:33.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/SBLk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yNmEyNTA1Yzc0NTdkZDY2MjBmYmI1ZDMxM2NkNmYyZS5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "Przepychanka między politykami zakłóciła uroczystość otwarcia obwodnicy Nowego Korczyna (woj. świętokrzyskie). Najpierw zaczął przemawiać, nieuwzględniony w programie, burmistrz Paweł Zagaja. Następnie między dwojgiem posłów PiS Michałem Cieślakiem i Anną Krupką doszło do przepychanki o mikrofon.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "584a0cbe-f8f7-46a2-8273-ea46379c8e73",
-    "title": "Wołodymyr Zełenski pojawił się w Kupiańsku. Tuż przy pozycjach Rosji. \"Najbardziej zuchwałe i najodważniejsze posunięcie w historii\"",
-    "description": "Wołodymyr Zełenski był w piątek w obwodzie charkowskim, na kierunku kupiańskim, gdzie odwiedził żołnierzy na linii frontu. Prezydent Ukrainy opublikował z tego miejsca nagranie — znajdował się zaledwie 2 kilometry od najbliższych rosyjskich pozycji. To jedno z \"najbardziej zuchwałych i najodważniejs",
-    "url": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-na-linii-frontu-pod-kupianskiem-tuz-przy-rosyjskich-pozycjach/g0xxdhm",
-    "publishedAt": "2025-12-12T18:10:57.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Zzkk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9jMDQ4N2YyZmQxMGQ5NzE0MGFjNTY2MGMzMGM2MzdkZS5qcGeSlQNKAM0GSM0DiZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "Wołodymyr Zełenski był w piątek w obwodzie charkowskim, na kierunku kupiańskim, gdzie odwiedził żołnierzy na linii frontu. Prezydent Ukrainy opublikował z tego miejsca nagranie — znajdował się zaledwie 2 kilometry od najbliższych rosyjskich pozycji. To jedno z \"najbardziej zuchwałych i najodważniejs",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "84b7b4f3-4c9a-406f-aaf0-2c3eec4a8ce2",
-    "title": "Kłótnia o MiG-29. Polski pilot z dramatycznym apelem. \"Pilnie potrzebujemy!\"",
-    "description": "— Jeśli nie zbudujemy sprawnego, zintegrowanego systemu obrony powietrznej, to w perspektywie najbliższej dekady, w przypadku konfliktu zbrojnego, możemy zobaczyć w polskich miastach zniszczenia podobne do tych, które dziś obserwujemy na Ukrainie — ostrzega w rozmowie z Onetem płk. rez. Krystian Zię",
-    "url": "https://wiadomosci.onet.pl/kraj/klotnia-o-mig-29-polski-pilot-z-dramatycznym-apelem-do-rzadzacych-i-generalow-pilnie/29g9y6f",
-    "publishedAt": "2025-12-12T18:09:42.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/0Oqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83MjExZGZlNWRmMDI5NWZlNjVhN2IzNDhhOGU5ZDg3MC5qcGeSlQPM980Cvs0M4s0HQZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "— Jeśli nie zbudujemy sprawnego, zintegrowanego systemu obrony powietrznej, to w perspektywie najbliższej dekady, w przypadku konfliktu zbrojnego, możemy zobaczyć w polskich miastach zniszczenia podobne do tych, które dziś obserwujemy na Ukrainie — ostrzega w rozmowie z Onetem płk. rez. Krystian Zię",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "ab4767f4-bbac-43a1-a64a-3bc49ab3c40e",
-    "title": "Burzliwa narada w PiS bez Mateusza Morawieckiego. \"Pokazał prezesowi miejsce w szeregu\"",
-    "description": "W siedzibie Prawa i Sprawiedliwości pojawili się najważniejsi politycy z prezesem tej partii na czele. Powodem spotkania są ciągłe i narastające napięcia pomiędzy wewnętrznymi frakcjami: \"maślarzami\" i ludźmi kojarzonymi z Mateuszem Morawieckim. Były premier nie pojawił się jednak przy Nowogrodzkiej",
-    "url": "https://wiadomosci.onet.pl/tylko-w-onecie/burzliwa-narada-w-pis-bez-mateusza-morawieckiego-pokazal-prezesowi-miejsce-w-szeregu/t1ced2s",
-    "publishedAt": "2025-12-12T18:01:00.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/f4ik9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yMzlkNzAzZTAzYTFlNTNlM2MwNzQ0ZTc0ZjQwMzlhMy5qcGeSlQMAAM0JOc0FMZMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "W siedzibie Prawa i Sprawiedliwości pojawili się najważniejsi politycy z prezesem tej partii na czele. Powodem spotkania są ciągłe i narastające napięcia pomiędzy wewnętrznymi frakcjami: \"maślarzami\" i ludźmi kojarzonymi z Mateuszem Morawieckim. Były premier nie pojawił się jednak przy Nowogrodzkiej",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "47101745-1509-42ab-b632-9730ced295cb",
-    "title": "Wołodymyr Zełenski podsumowuje prace nad zakończeniem wojny. Wskazał trzy kierunki",
-    "description": "Wołodymyr Zełenski w wieczornym wpisie w mediach społecznościowych podsumował działania zespołów, które pracują nad stworzeniem sprawiedliwego planu pokojowego. Ukraiński prezydent poinformował, że prace odbywają się trzytorowo. \"We wszystkich obszarach mamy jeden cel: zbliżyć się do rzeczywistego z",
-    "url": "https://wiadomosci.onet.pl/swiat/prace-nad-pokojem-dla-ukrainy-wolodymyr-zelenski-o-trzech-kierunkach/7msjdsj",
-    "publishedAt": "2025-12-12T17:49:39.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/GMlk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMzZhNDk4MDBhNTFjNjJkNjUyM2M1MzkyMTA0MGQwOS5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
-    "location": null,
-    "summary": "Wołodymyr Zełenski w wieczornym wpisie w mediach społecznościowych podsumował działania zespołów, które pracują nad stworzeniem sprawiedliwego planu pokojowego. Ukraiński prezydent poinformował, że prace odbywają się trzytorowo. \"We wszystkich obszarach mamy jeden cel: zbliżyć się do rzeczywistego z",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "5b93b77c-1f85-4873-af10-979a82811ee4",
-    "title": "Spór w PiS. Mateusz Morawiecki nie stawił się w siedzibie partii. Zaapelował o jedność",
-    "description": "— Zwyciężaliśmy i zwyciężamy, kiedy rozumiemy, że spory w polityce są czymś naturalnym. Przychodzi jednak moment, kiedy trzeba iść razem — skomentowała wewnętrzne spory w Prawie i Sprawiedliwości była premier Beata Szydło. — Nie zajmujmy się kwestiami takimi jak to, kto będzie premierem, kto będzie ",
-    "url": "https://wiadomosci.onet.pl/rzeszow/spor-w-pis-mateusz-morawiecki-nie-stawil-sie-w-siedzibie-partii-apeluje-o-jednosc/409pj67",
-    "publishedAt": "2025-12-12T17:40:48.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/5bBk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hOWQ4ZjlkZS1jNTllLTRhYzgtYWNkMS0xZjNiNGQ2YmFhMzUuanBlZ5KVAwDMi80RlM0J45MFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "— Zwyciężaliśmy i zwyciężamy, kiedy rozumiemy, że spory w polityce są czymś naturalnym. Przychodzi jednak moment, kiedy trzeba iść razem — skomentowała wewnętrzne spory w Prawie i Sprawiedliwości była premier Beata Szydło. — Nie zajmujmy się kwestiami takimi jak to, kto będzie premierem, kto będzie ",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "3eea6370-46f3-40e7-a0c7-552c1a94f80f",
-    "title": "Jedni ciągną wózek, inni patrzą z boku. Europa pęka w sprawie Ukrainy. \"To poważny krok wstecz\". Alarmujące dane z Niemiec [RAPORT]",
-    "description": "Nowe dane renomowanego Instytutu Kilońskiego pokazują, że wsparcie finansowe i militarne ze strony europejskich sojuszników wyraźnie słabnie i zmierza do najniższego poziomu od początku pełnoskalowej wojny. Choć część państw zwiększyła swoje deklaracje, luka po USA wciąż pozostaje niezałatana. W efe",
-    "url": "https://wiadomosci.onet.pl/swiat/zaciagniety-hamulec-w-srodku-wojny-europa-gra-na-zwloke-ukraina-walczy-o-przetrwanie/8c0sdz4",
-    "publishedAt": "2025-12-12T17:37:25.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/7Duk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lYjVhMjExZGFkNWUxYTc3OGI1OGRlZTgzNmJjNzk2YS5qcGeSlQMAAM0KAM0FoJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "nauka",
-    "subcategory": "Badania",
-    "categoryConfidence": 0.6,
-    "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
-    },
-    "summary": "Nowe dane renomowanego Instytutu Kilońskiego pokazują, że wsparcie finansowe i militarne ze strony europejskich sojuszników wyraźnie słabnie i zmierza do najniższego poziomu od początku pełnoskalowej wojny. Choć część państw zwiększyła swoje deklaracje, luka po USA wciąż pozostaje niezałatana. W efe",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "0a8276c2-1813-40e6-8a42-5623342ea6bc",
-    "title": "Karol Nawrocki odebrany brudną limuzyną. Trzy oczywiste fakty",
-    "description": "Po wizycie Karola Nawrockiego na Łotwie, w prawicowych mediach oraz na kontach społecznościowych polityków PiS pojawiła się cała seria wpisów o tym, że polski rząd przy okazji wizyty prezydenta w Rydze okazał brak szacunku i pogardę głowie państwa. Dowodem miało być zdjęcie, na którym widać zabrudzo",
-    "url": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-odebrany-brudna-limuzyna-trzy-oczywiste-fakty/lk4z2zb",
-    "publishedAt": "2025-12-12T17:03:14.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/s_Bk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xMWIwNjBiZjk1M2ZlZjM3NDQwYzg4NTEwMGEzYjYyMS5qcGeSlQMAW80GQM0DhJMFzQlgzQZA3gACoTAHoTEE",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Po wizycie Karola Nawrockiego na Łotwie, w prawicowych mediach oraz na kontach społecznościowych polityków PiS pojawiła się cała seria wpisów o tym, że polski rząd przy okazji wizyty prezydenta w Rydze okazał brak szacunku i pogardę głowie państwa. Dowodem miało być zdjęcie, na którym widać zabrudzo",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "cd6ff75f-b51f-4cab-9d71-121bd61d4326",
-    "title": "Polska w centrum uwagi. Nowy ambasador USA w Warszawie ostrzega: nie możemy dłużej czekać",
-    "description": "Europa ma poważne problemy. Ich rozwiązanie znajduje się tutaj, w Polsce — mówi Onetowi ambasador USA w Polsce Thomas Rose. Przekonuje, że \"nadszedł czas, aby poszła za przykładem Warszawy i potraktowała sprawę poważnie\". — Nie tylko poprzez retorykę, ustne zobowiązania, a nawet pisemne zobowiązania",
-    "url": "https://wiadomosci.onet.pl/tylko-w-onecie/nowy-ambasador-usa-w-polsce-ostrzega-nie-mozemy-dluzej-czekac/h8x3q69",
-    "publishedAt": "2025-12-12T16:41:21.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/y0ak9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81YWM4Y2FiOTI4ODA3NmIwMGNmYTBjZGZiOWNjNTVkMy5qcGeSlQMAzKLNFGzNC32TBc0JYM0GQN4AAqEwB6ExBA",
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": {
-      "name": "USA",
-      "lat": 37.09,
-      "lon": -95.71
-    },
-    "summary": "Europa ma poważne problemy. Ich rozwiązanie znajduje się tutaj, w Polsce — mówi Onetowi ambasador USA w Polsce Thomas Rose. Przekonuje, że \"nadszedł czas, aby poszła za przykładem Warszawy i potraktowała sprawę poważnie\". — Nie tylko poprzez retorykę, ustne zobowiązania, a nawet pisemne zobowiązania",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "4d13312f-3050-4e66-be20-5247cf6a1efa",
-    "title": "Premier Pakistanu nie wytrzymał. Wtargnął na zamknięte spotkanie Putina",
-    "description": "Na międzynarodowym forum w Turkmenistanie premier Pakistanu Shehbaz Sharif miał spotkać się z Władimirem Putinem. Po 40 minutach oczekiwania, zniecierpliwiony polityk zdecydował się wejść na zamknięte spotkanie prezydentów Rosji i Turcji. Nagranie tego momentu obiegło sieć.",
-    "url": "https://wiadomosci.onet.pl/swiat/wladimir-putin-kazal-na-siebie-czekac-premier-pakistanu-nie-wytrzymal/esw16tr",
-    "publishedAt": "2025-12-12T16:37:08.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/Wjek9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81YTMxNjFjMmQyMjFhZWYxM2I0ODU1Y2E2N2VmMTM4OS5qcGeSlQMAzQElzRyXzRAUkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Na międzynarodowym forum w Turkmenistanie premier Pakistanu Shehbaz Sharif miał spotkać się z Władimirem Putinem. Po 40 minutach oczekiwania, zniecierpliwiony polityk zdecydował się wejść na zamknięte spotkanie prezydentów Rosji i Turcji. Nagranie tego momentu obiegło sieć.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
-  },
-  {
-    "guid": "8efe96a1-2d80-494d-bf6b-34324ccfbda2",
-    "title": "Szymon Hołownia nie został wybrany na ważne stanowisko. Teraz reaguje. \"Ten wybór jest zaskoczeniem dla wszystkich\"",
-    "description": "Szymon Hołownia ocenił, że decyzja o powołaniu na stanowisko Wysokiego Komisarza ONZ ds. Uchodźców byłego prezydenta Iraku — Barhama Ahmeda Saliha jest zaskoczeniem \"chyba dla wszystkich\" w ONZ, w środowisku NGO i w UNHCR. Dodał, że choć on sam komisarzem nie zostanie to \"na starość\" zamierza zostać",
-    "url": "https://wiadomosci.onet.pl/kraj/szymon-holownia-nie-zostal-wybrany-na-wazne-stanowisko-teraz-reaguje-ten-wybor-jest/5wcfv94",
-    "publishedAt": "2025-12-12T16:33:28.000Z",
-    "source": "Onet",
-    "sourceCategory": "News",
-    "thumbnail": "https://cdn.wiadomosci.onet.pl/1/aM9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zOGQ0N2IwODJlNzQyNDVkMzcxMDhjMDJjOGIxY2U1Mi5qcGeSlQMCzQIdzRQdzQtSkwXNCWDNBkDeAAKhMAehMQQ",
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Szymon Hołownia ocenił, że decyzja o powołaniu na stanowisko Wysokiego Komisarza ONZ ds. Uchodźców byłego prezydenta Iraku — Barhama Ahmeda Saliha jest zaskoczeniem \"chyba dla wszystkich\" w ONZ, w środowisku NGO i w UNHCR. Dodał, że choć on sam komisarzem nie zostanie to \"na starość\" zamierza zostać",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/polska/szlachetna-paczka-wszystkie-rodziny-znalazly-darczyncow-st8797957",
-    "title": "Ostatnia prosta przed \"Weekendem Cudów\". Wszystkie rodziny znalazły darczyńców",
-    "description": "Wszystkie potrzebujące rodziny będą mogły liczyć na wymarzoną paczkę. W piątek wieczorem znaleźli się darczyńcy dla wszystkich na liście. A już w sobotę finał akcji Szlachetnej Paczki, znany jako \"Weekend Cudów\".",
+    "title": "Ostatnia prosta przed \"Weekendem cudów\". Wszystkie rodziny znalazły darczyńców",
+    "description": "Wszystkie potrzebujące rodziny będą mogły liczyć na wymarzoną paczkę. W piątek wieczorem znaleźli się darczyńcy dla wszystkich na liście. A już w sobotę finał akcji Szlachetnej Paczki, znany jako \"Weekend cudów\".",
     "url": "https://tvn24.pl/polska/szlachetna-paczka-wszystkie-rodziny-znalazly-darczyncow-st8797957?source=rss",
     "publishedAt": "2025-12-12T10:35:17.000Z",
     "source": "TVN24",
@@ -393,9 +475,9 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Wszystkie potrzebujące rodziny będą mogły liczyć na wymarzoną paczkę. W piątek wieczorem znaleźli się darczyńcy dla wszystkich na liście. A już w sobotę finał akcji Szlachetnej Paczki, znany jako \"Weekend Cudów\".",
+    "summary": "Wszystkie potrzebujące rodziny będą mogły liczyć na wymarzoną paczkę. W piątek wieczorem znaleźli się darczyńcy dla wszystkich na liście. A już w sobotę finał akcji Szlachetnej Paczki, znany jako \"Weekend cudów\".",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-12-grudnia-2025-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8799356",
@@ -413,7 +495,7 @@
     "location": null,
     "summary": "Piątkowe losowanie Eurojackpot nie przyniosło głównej wygranej, a kumulacja rośnie do 90 milionów złotych. W Polsce najwyższe okazały się wygrane piątego stopnia. Oto wyniki losowania z 12 grudnia 2025 roku.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/swiat/grozna-pogoda-w-hiszpanii-fale-moga-miec-nawet-siedem-metrow-st8799219",
@@ -431,12 +513,12 @@
     "location": null,
     "summary": "Mieszkańcy i turyści w wielu rejonach Hiszpanii muszą przygotować się na niebezpieczną pogodę. W kolejnych dniach kraj nawiedzą front atmosferyczny i silna burza, które przyniosą intensywne opady i wysokie fale.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/polska/czy-nalezy-przywrocic-pobor-general-mieczyslaw-bieniek-i-general-stanislaw-koziej-w-faktach-po-faktach-tvn24-st8799307",
     "title": "Czy należy przywrócić pobór? \"My musimy zacząć tworzyć formacje rezerwowe\"",
-    "description": "Polska nie potrzebuje obecnie przywrócenia powszechnego poboru do wojska - ocenili w \"Faktach po Faktach\" TVN24 doradca szefa MON gen. Mieczysław Bieniek oraz były szef BBN gen. Stanisław Koziej. Obaj za to pokreślili znaczenie rezerw na wypadek wybuchu wojny.",
+    "description": "Były szef BBN generał Stanisław Koziej ocenił w \"Faktach po Faktach\" TVN24, że Polska nie potrzebuje przywracać poboru. Generał Mieczysław Bieniek powiedział, że można rozpocząć dyskusję na ten temat, ale armia zawodowa i korpus rezerwistów są obecnie \"wystarczające\".",
     "url": "https://tvn24.pl/polska/czy-nalezy-przywrocic-pobor-general-mieczyslaw-bieniek-i-general-stanislaw-koziej-w-faktach-po-faktach-tvn24-st8799307?source=rss",
     "publishedAt": "2025-12-12T20:02:03.000Z",
     "source": "TVN24",
@@ -451,9 +533,9 @@
       "lat": 52.23,
       "lon": 21.01
     },
-    "summary": "Polska nie potrzebuje obecnie przywrócenia powszechnego poboru do wojska - ocenili w \"Faktach po Faktach\" TVN24 doradca szefa MON gen. Mieczysław Bieniek oraz były szef BBN gen. Stanisław Koziej. Obaj za to pokreślili znaczenie rezerw na wypadek wybuchu wojny.",
+    "summary": "Były szef BBN generał Stanisław Koziej ocenił w \"Faktach po Faktach\" TVN24, że Polska nie potrzebuje przywracać poboru. Generał Mieczysław Bieniek powiedział, że można rozpocząć dyskusję na ten temat, ale armia zawodowa i korpus rezerwistów są obecnie \"wystarczające\".",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/polska/polityczna-przyszlosc-holowni-szkoda-zeby-sie-marnowal-st8799277",
@@ -471,11 +553,11 @@
     "location": null,
     "summary": "Szymon Hołownia ma wiele pomysłów na swoje życie i mówię to z absolutną sympatią - przekonywała posłanka Joanna Mucha w \"Faktach po Faktach\" w TVN24. Robert Biedroń wskazywał, że \"Hołownia preferuje politykę międzynarodową\".",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-piec-nowych-kangurow-rudych-w-zoo-st8799286",
-    "title": "Gdy wpełzają do torby mają wielkość fasolki. W zoo na świat przyszło pięć kangurów",
+    "title": "Gdy wpełzają do torby, mają wielkość fasolki. W zoo na świat przyszło pięć kangurów",
     "description": "Pięć kangurów rudych przyszło na świat w stołecznym ogrodzie zoologicznym. To trzy samce i jedna samica, a jeden maluch wciąż przebywa w torbie matki, więc jego płeć pozostaje tajemnicą.",
     "url": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-piec-nowych-kangurow-rudych-w-zoo-st8799286?source=rss",
     "publishedAt": "2025-12-12T19:34:30.000Z",
@@ -489,7 +571,7 @@
     "location": null,
     "summary": "Pięć kangurów rudych przyszło na świat w stołecznym ogrodzie zoologicznym. To trzy samce i jedna samica, a jeden maluch wciąż przebywa w torbie matki, więc jego płeć pozostaje tajemnicą.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/wola/warszawa-nowy-smogowoz-strazy-miejskiej-st8799190",
@@ -507,7 +589,7 @@
     "location": null,
     "summary": "Pierwszy w pełni elektryczny pojazd zasilił flotę warszawskiej straży miejskiej. Smogowóz, bo o nim mowa, będzie służył do kontroli powietrza.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-63-rajd-barborka-trasa-strefa-kibica-utrudnienia-zamkniete-ulice-i-zakazy-parkowania-st8793246",
@@ -525,12 +607,12 @@
     "location": null,
     "summary": "63. Rajd Barbórka to gratka dla fanów motosportu i ból głowy dla miłośników zabytków. W sobotę najlepsi kierowcy będą rywalizowali na historycznym wiadukcie Markiewicza. Karowa i okoliczne ulice zostaną zamknięte dla ruchu, pojawią się też zakazy parkowania.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.278Z"
   },
   {
     "guid": "https://tvn24.pl/katowice/bielsko-biala-na-porodowce-nie-bylo-ginekologa-anna-nie-zyje-szpital-zostanie-zamkniety-st8799170",
     "title": "Na porodówce nie było ginekologa, Anna nie żyje. Wojewoda wykreślił szpital z rejestru",
-    "description": "Sześć kobiet w tym dniu nie miało w szpitalu opieki ginekologa po cesarskim cięciu, jedna z nich zmarła. Takie są ustalenia prokuratury. Cztery osoby usłyszały zarzuty. W piątek wojewoda wykreślił placówkę z rejestru podmiotów wykonujących działalność leczniczą. Oznacza to, że szpital przestaje istn",
+    "description": "Sześć kobiet w tym dniu nie miało w szpitalu opieki ginekologa po cesarskim cięciu, jedna z nich zmarła. Takie są ustalenia prokuratury. Cztery osoby usłyszały zarzuty. W piątek wojewoda wykreślił placówkę z rejestru podmiotów wykonujących działalność leczniczą. Oznacza to, że szpital przestanie ist",
     "url": "https://tvn24.pl/katowice/bielsko-biala-na-porodowce-nie-bylo-ginekologa-anna-nie-zyje-szpital-zostanie-zamkniety-st8799170?source=rss",
     "publishedAt": "2025-12-12T18:54:27.000Z",
     "source": "TVN24",
@@ -541,9 +623,9 @@
     "subcategory": "Ogólne",
     "categoryConfidence": 0.5,
     "location": null,
-    "summary": "Sześć kobiet w tym dniu nie miało w szpitalu opieki ginekologa po cesarskim cięciu, jedna z nich zmarła. Takie są ustalenia prokuratury. Cztery osoby usłyszały zarzuty. W piątek wojewoda wykreślił placówkę z rejestru podmiotów wykonujących działalność leczniczą. Oznacza to, że szpital przestaje istn",
+    "summary": "Sześć kobiet w tym dniu nie miało w szpitalu opieki ginekologa po cesarskim cięciu, jedna z nich zmarła. Takie są ustalenia prokuratury. Cztery osoby usłyszały zarzuty. W piątek wojewoda wykreślił placówkę z rejestru podmiotów wykonujących działalność leczniczą. Oznacza to, że szpital przestanie ist",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/polska/spotkanie-kierownictwa-pis-na-nowogrodzkiej-jaroslaw-kaczynski-bedzie-chcial-zakonczyc-dyskusje-na-temat-kwestii-wewnetrznych-st8798907",
@@ -561,7 +643,7 @@
     "location": null,
     "summary": "Najprawdopodobniej jeszcze w tym roku odbędzie się kolejne prezydium komitetu politycznego Prawa i Sprawiedliwości - poinformował rzecznik tej partii Rafał Bochenek po zakończeniu obrad kierownictwa PiS w Warszawie. Jak dodał, na spotkaniu omawiane były \"kwestie wewnętrzne\". W piątkowych rozmowach n",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.071Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/ze-swiata/wazna-decyzja-w-sprawie-zamrozonych-rosyjskich-aktywow-st8799239",
@@ -579,7 +661,7 @@
     "location": null,
     "summary": "W piątek państwa członkowskie zdecydowały o zamrożeniu na stałe rosyjskich aktywów znajdujących się na terytorium Unii Europejskiej - poinformowała duńska prezydencja. Jedynie dwa kraje sprzeciwiły się rozporządzeniu wprowadzającemu zakaz przekazywania tych środków z powrotem do Rosji.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/tech/nvidia-chinscy-giganci-w-kolejce-zainteresowanie-przewyzsza-moce-producenta-st8798984",
@@ -597,7 +679,7 @@
     "location": null,
     "summary": "Nvidia rozważa zwiększenie produkcji zaawansowanych chipów AI H200 po tym, jak popyt ze strony chińskich firm przekroczył obecne moce wytwórcze – informuje Reuters.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sobota-13-12-w-czesci-kraju-noc-bedzie-mrozna-st8799026",
@@ -615,7 +697,7 @@
     "location": null,
     "summary": "Pogoda na jutro, czyli na sobotę, 13.12. Noc będzie pochmurna, a w dużej części kraju pojawią się mgły. Miejscami temperatura spadnie poniżej zera. Chmury nie odpuszczą także w dzień.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/z-kraju/jest-decyzja-w-sprawie-zmian-w-polskim-kpo-st8799128",
@@ -633,7 +715,7 @@
     "location": null,
     "summary": "W piątek ministrowie finansów i gospodarki państw Unii Europejskiej zatwierdzili zmiany w polskim Krajowym Planie Odbudowy (KPO). Decyzja ta zamyka proces rewizji planu i otwiera Polsce drogę do złożenia wniosku o kolejną transzę środków z funduszu odbudowy.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-watpliwy-konkurs-na-dyrektora-muzeum-literatury-ministra-nie-zgadza-sie-na-dyrektorke-radna-st8799103",
@@ -651,7 +733,7 @@
     "location": null,
     "summary": "Ministra kultury Marta Cienkowska nie zgodziła się objęcie przez Beatę Michalec stanowiska dyrektorki Muzeum Literatury w Warszawie - poinformował w piątek resort. W ocenie ministerstwa konkurs od początku budził wątpliwości, resort oczekuje rozpisania nowego.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://tvn24.pl/biznes/handel/wielka-kara-dla-biedronki-jest-decyzja-sadu-st8799183",
@@ -673,169 +755,7 @@
     },
     "summary": "Sąd utrzymał w mocy decyzję Urzędu Ochrony Konkurencji i Konsumentów, nakładającą na Jeronimo Martins Polska karę 160 milionów złotych za wprowadzanie klientów w błąd podczas akcji \"Tarcza Biedronki antyinflacyjna\" z 2022 roku - poinformował w piątek urząd. \"To bardzo smutny dzień dla polskich konsu",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/swiat/proces-bez-oskarzonych-na-sali-sedziowie-mtk-skazani-w-rosji-st8798983",
-    "title": "Sędziowie, którzy wydali nakaz aresztowania Putina, skazani w Moskwie. Wśród nich Polak",
-    "description": "Sędziowie Międzynarodowego Trybunału Karnego zostali skazani zaocznie w Moskwie. Kary wahają się od trzech i pół do 15 lat więzienia. \"Prezydium MTK działało bez żadnych legalnych podstaw i instruowało sędziów Izby Przygotowawczej, tak by wydali nielegalne nakazy aresztowania\" - uzasadnił tę decyzję",
-    "url": "https://tvn24.pl/swiat/proces-bez-oskarzonych-na-sali-sedziowie-mtk-skazani-w-rosji-st8798983?source=rss",
-    "publishedAt": "2025-12-12T16:14:42.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Sędziowie Międzynarodowego Trybunału Karnego zostali skazani zaocznie w Moskwie. Kary wahają się od trzech i pół do 15 lat więzienia. \"Prezydium MTK działało bez żadnych legalnych podstaw i instruowało sędziów Izby Przygotowawczej, tak by wydali nielegalne nakazy aresztowania\" - uzasadnił tę decyzję",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/polska/weekend-w-tvn24-czym-jest-wypalenie-zawodowe-jak-sobie-poradzic-ze-stresem-w-swieta-st8799106",
-    "title": "Czym jest wypalenie zawodowe? Jak sobie poradzić ze stresem w święta? Weekend w TVN24+",
-    "description": "TVN24+ przygotował na ten weekend szereg propozycji. W reportażu Joanny Stempień o wypaleniu zawodowym, które może dotknąć każdego - bez względu na wiek i zawód. Piotr Jacoń rozmawiał z polską pionierką mody Grażyną Hase. Natomiast w podcaście \"Mamy Temat\" Maria Mikołajewska i Karolina Bałuc porozma",
-    "url": "https://tvn24.pl/polska/weekend-w-tvn24-czym-jest-wypalenie-zawodowe-jak-sobie-poradzic-ze-stresem-w-swieta-st8799106?source=rss",
-    "publishedAt": "2025-12-12T17:22:03.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "TVN24+ przygotował na ten weekend szereg propozycji. W reportażu Joanny Stempień o wypaleniu zawodowym, które może dotknąć każdego - bez względu na wiek i zawód. Piotr Jacoń rozmawiał z polską pionierką mody Grażyną Hase. Natomiast w podcaście \"Mamy Temat\" Maria Mikołajewska i Karolina Bałuc porozma",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/polska/jaroslaw-kaczynski-o-mateuszu-morawieckim-i-wojnie-frakcji-w-pis-st8798366",
-    "title": "Kaczyński \"miał nadzieję\", że Morawiecki pojawi się na Nowogrodzkiej. Byłego premiera nie ma",
-    "description": "W Prawie i Sprawiedliwości emocje sięgają sufitu. Walki frakcji doprowadziły do organizacji specjalnego posiedzenia partii. W Warszawie nie ma Mateusza Morawieckiego, nie ma też Beaty Szydło, a więc dwójki byłych premierów. Prezes Jarosław Kaczyński przekazał, że Morawiecki \"został powiadomiony takż",
-    "url": "https://tvn24.pl/polska/jaroslaw-kaczynski-o-mateuszu-morawieckim-i-wojnie-frakcji-w-pis-st8798366?source=rss",
-    "publishedAt": "2025-12-12T12:25:24.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "wojna/konflikt",
-    "subcategory": "Konflikty zbrojne",
-    "categoryConfidence": 0.8,
-    "location": null,
-    "summary": "W Prawie i Sprawiedliwości emocje sięgają sufitu. Walki frakcji doprowadziły do organizacji specjalnego posiedzenia partii. W Warszawie nie ma Mateusza Morawieckiego, nie ma też Beaty Szydło, a więc dwójki byłych premierów. Prezes Jarosław Kaczyński przekazał, że Morawiecki \"został powiadomiony takż",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/polska/szymon-holownia-ma-plan-na-starosc-komisarzem-nie-zostane-st8799152",
-    "title": "Szymon Hołownia \"ma plan na starość\". \"Komisarzem nie zostanę\"",
-    "description": "W ocenie Szymona Hołowni, który ubiegał się o funkcję Wysokiego Komisarza ONZ do spraw Uchodźców, wybór Barhama Ahmeda Saliha na to stanowisko, jest \"zaskoczeniem\". Zdaniem wicemarszałka Sejmu jego \"krótka, trzymiesięczna szarża przyniesie owoce\" Polsce. Podzielił się też osobistymi planami na przys",
-    "url": "https://tvn24.pl/polska/szymon-holownia-ma-plan-na-starosc-komisarzem-nie-zostane-st8799152?source=rss",
-    "publishedAt": "2025-12-12T17:19:23.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "W ocenie Szymona Hołowni, który ubiegał się o funkcję Wysokiego Komisarza ONZ do spraw Uchodźców, wybór Barhama Ahmeda Saliha na to stanowisko, jest \"zaskoczeniem\". Zdaniem wicemarszałka Sejmu jego \"krótka, trzymiesięczna szarża przyniesie owoce\" Polsce. Podzielił się też osobistymi planami na przys",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/tvnwarszawa/okolice/pionki-na-komisariacie-doszlo-do-wystrzalu-z-broni-policjantka-zawieszona-st8799058",
-    "title": "Incydent na komisariacie. \"Doszło do niekontrolowanego wystrzału z broni\"",
-    "description": "Na komisariacie w miejscowości Pionki (Mazowieckie) doszło do niekontrolowanego wystrzału z broni. Wobec funkcjonariuszki wszczęto postępowanie dyscyplinarne.",
-    "url": "https://tvn24.pl/tvnwarszawa/okolice/pionki-na-komisariacie-doszlo-do-wystrzalu-z-broni-policjantka-zawieszona-st8799058?source=rss",
-    "publishedAt": "2025-12-12T17:16:41.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Na komisariacie w miejscowości Pionki (Mazowieckie) doszło do niekontrolowanego wystrzału z broni. Wobec funkcjonariuszki wszczęto postępowanie dyscyplinarne.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.072Z"
-  },
-  {
-    "guid": "https://tvn24.pl/lodz/lawinowy-wzrost-wypadkow-na-hulajnogach-policja-podaje-dane-st8795634",
-    "title": "Lawinowy wzrost liczby wypadków na hulajnogach. \"Witajcie na Dzikim Zachodzie\"",
-    "description": "Od początku roku do 8 grudnia w całej Polsce doszło do 1149 wypadków z udziałem osób na hulajnogach elektrycznych - niemal dwukrotnie więcej niż w analogicznym okresie ubiegłego roku. Ofiar też jest niemal dwa razy więcej. Policja mówi o \"niepokojącym trendzie\", eksperci - o legislacyjnym zacofaniu.",
-    "url": "https://tvn24.pl/lodz/lawinowy-wzrost-wypadkow-na-hulajnogach-policja-podaje-dane-st8795634?source=rss",
-    "publishedAt": "2025-12-12T17:13:47.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Od początku roku do 8 grudnia w całej Polsce doszło do 1149 wypadków z udziałem osób na hulajnogach elektrycznych - niemal dwukrotnie więcej niż w analogicznym okresie ubiegłego roku. Ofiar też jest niemal dwa razy więcej. Policja mówi o \"niepokojącym trendzie\", eksperci - o legislacyjnym zacofaniu.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
-  },
-  {
-    "guid": "https://tvn24.pl/biznes/ze-swiata/australia-oszukuja-system-robiac-miny-duze-klopoty-z-zakazem-st8798142",
-    "title": "Oszukują system, robiąc miny. Duże kłopoty z zakazem",
-    "description": "Australia jako pierwszy kraj na świecie wprowadziła ograniczenia w korzystaniu z mediów społecznościowych przez osoby poniżej 16. roku życia. Zapowiadając ustawę, premier Anthony Albanese przyznał, że młodzi użytkownicy mogą znaleźć sposoby na ominięcia zakazu. Tak się stało.",
-    "url": "https://tvn24.pl/biznes/ze-swiata/australia-oszukuja-system-robiac-miny-duze-klopoty-z-zakazem-st8798142?source=rss",
-    "publishedAt": "2025-12-12T17:08:47.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Australia jako pierwszy kraj na świecie wprowadziła ograniczenia w korzystaniu z mediów społecznościowych przez osoby poniżej 16. roku życia. Zapowiadając ustawę, premier Anthony Albanese przyznał, że młodzi użytkownicy mogą znaleźć sposoby na ominięcia zakazu. Tak się stało.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
-  },
-  {
-    "guid": "https://tvn24.pl/swiat/zdjecia-jeffreya-epsteina-opublikowane-przez-demokratow-na-nich-donald-trump-i-kondom-z-jego-wizerunkiem-a-takze-bill-clinton-bill-gates-woody-allen-i-steve-bannon-st8799077",
-    "title": "\"Jestem OLBRZYMIIIIIII!\". Ujawnili nowe zdjęcia z kolekcji Epsteina",
-    "description": "Demokraci z komisji ds. nadzoru Izby Reprezentantów opublikowali w piątek 19 zdjęć, które były w posiadaniu Jeffreya Epsteina. Widać na nich Donalda Trumpa z młodymi kobietami, kondom z jego wizerunkiem na opakowaniu, a także Billa Clintona, Steve'a Bannona, Billa Gatesa, Richarda Bransona, Woody'eg",
-    "url": "https://tvn24.pl/swiat/zdjecia-jeffreya-epsteina-opublikowane-przez-demokratow-na-nich-donald-trump-i-kondom-z-jego-wizerunkiem-a-takze-bill-clinton-bill-gates-woody-allen-i-steve-bannon-st8799077?source=rss",
-    "publishedAt": "2025-12-12T17:08:14.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "polityka",
-    "subcategory": "Międzynarodowe",
-    "categoryConfidence": 0.7,
-    "location": null,
-    "summary": "Demokraci z komisji ds. nadzoru Izby Reprezentantów opublikowali w piątek 19 zdjęć, które były w posiadaniu Jeffreya Epsteina. Widać na nich Donalda Trumpa z młodymi kobietami, kondom z jego wizerunkiem na opakowaniu, a także Billa Clintona, Steve'a Bannona, Billa Gatesa, Richarda Bransona, Woody'eg",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
-  },
-  {
-    "guid": "https://tvn24.pl/tvnmeteo/swiat/usa-kolorado-wiatr-zniszczyl-swiateczne-dekoracje-i-przewrocil-przyczepe-st8799112",
-    "title": "Zniszczył świąteczne dekoracje i przewrócił przyczepę",
-    "description": "Jedna z instalacji świątecznych w amerykańskim stanie Kolorado zmagała się z niewidzialnym przeciwnikiem. Choć osoba odpowiedzialna za jej działanie była przygotowana na silnie wiejący wiatr, nie spodziewała się, że porywy wywołają zniszczenia o tak dużej skali.",
-    "url": "https://tvn24.pl/tvnmeteo/swiat/usa-kolorado-wiatr-zniszczyl-swiateczne-dekoracje-i-przewrocil-przyczepe-st8799112?source=rss",
-    "publishedAt": "2025-12-12T17:03:41.000Z",
-    "source": "TVN24",
-    "sourceCategory": "News",
-    "thumbnail": null,
-    "categories": [],
-    "category": "Inne",
-    "subcategory": "Ogólne",
-    "categoryConfidence": 0.5,
-    "location": null,
-    "summary": "Jedna z instalacji świątecznych w amerykańskim stanie Kolorado zmagała się z niewidzialnym przeciwnikiem. Choć osoba odpowiedzialna za jej działanie była przygotowana na silnie wiejący wiatr, nie spodziewała się, że porywy wywołają zniszczenia o tak dużej skali.",
-    "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570065",
@@ -856,7 +776,7 @@
     "location": null,
     "summary": "Podczas gdy wysyłamy sondy w odległe zakątki kosmosu, to co dzieje się kilkanaście kilometrów pod naszymi stopami często pozostaje równie niezbadane. Wyjątkowym miejscem, które od dziesięcioleci intrygowało geologów, jest archipelag Bermudów. Dlaczego ta wyspa wciąż góruje nad dnem oceanu, skoro nie",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570098",
@@ -877,7 +797,7 @@
     "location": null,
     "summary": "Od lat fani Samsunga, zwłaszcza ci korzystający z flagowych modeli Ultra, czekali na jedną, kluczową innowację, która w świecie Androida stała się już standardem: szybsze ładowanie przewodowe. Podczas gdy konkurencja oferowała już trzykrotnie wyższe prędkości, Samsung konsekwentnie trzymał się umiar",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569621",
@@ -897,7 +817,7 @@
     "location": null,
     "summary": "Kamczatka to jeden z najbardziej niespokojnych geologicznie zakątków Ziemi. Wśród kilkudziesięciu wulkanów tego rosyjskiego półwyspu szczególną historię ma Bezimienny – góra, która w połowie ubiegłego wieku została dosłownie rozerwana podczas kolosalnej erupcji. Dziś, niemal siedem dekad po tamtej k",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570095",
@@ -919,7 +839,7 @@
     "location": null,
     "summary": "Kolejna odsłona systemu operacyjnego Xiaomi powoli znajduje drogę do smartfonów użytkowników. HyperOS 3, oparty na Androidzie 16, zaczyna pojawiać się na wybranych urządzeniach, choć proces ten daleki jest od jednorazowej, masowej aktualizacji. Firma stosuje rozłożone w czasie wdrażanie, co jest doś",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570089",
@@ -941,7 +861,7 @@
     "location": null,
     "summary": "Drony od DJI od lat są synonimem jakości, ale właśnie wkroczyły w erę prawdziwie futurystycznego sterowania. W listopadzie światło dzienne ujrzał DJI Neo 2, a już dziś, dzięki nowej aktualizacji oprogramowania, stał się on pierwszym mainstreamowym dronem DJI w pełni kontrolowanym bezpośrednio z Appl",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570062",
@@ -961,7 +881,7 @@
     "location": null,
     "summary": "Dominująca pozycja Chrome na rynku przeglądarek wydaje się nie do podważenia – nawet najpoważniejsza konkurencja korzysta bowiem do wyświetlania stron z silnika Blink, będącego częścią projektu Chromium. Disco jednak to projekt własny Google, a zarazem być może najgroźniejszy konkuren Chrome w przys",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570060",
@@ -983,7 +903,7 @@
     "location": null,
     "summary": "Mamy dobrą wiadomość dla właścicieli OnePlusa 15. Firma rozpoczęła wdrażanie kolejnej aktualizacji OxygenOS 16. Ta grudniowa paczka to nie tylko standardowe poprawki bezpieczeństwa (grudniowy patch Androida 2025), ale także zestaw naprawdę przydatnych usprawnień, które podnoszą komfort korzystania z",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570050",
@@ -1005,7 +925,7 @@
     "location": null,
     "summary": "Jeszcze do niedawna inteligentne zegarki służyły głównie do mierzenia kroków i wyświetlania powiadomień. Dziś stają się czymś więcej: osobistymi asystentami zintegrowanymi ze sztuczną inteligencją. Na polskim rynku pojawił się właśnie nowy gracz, który ma szansę zmienić zasady gry – Bemi Zeno. To sm",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570033",
@@ -1025,7 +945,7 @@
     "location": null,
     "summary": "Wyścig wśród dostawców AI zdaje się nabierać tempa – po premierze bardzo udanego Gemini 3 od Google OpenAI poczuło się chyba zagrożone, bardzo szybko bowiem wprowadziło kolejną iterację swojego flagowego modelu. Aktualizacja ChatGPT 5.2 trafiła jednocześnie do API oraz subskrybentów płatnych planów.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569673",
@@ -1046,7 +966,7 @@
     "location": null,
     "summary": "Asus ROG Strix B860-F Gaming WiFi to ciekawa płyta główna przeznaczona dla procesorów LGA1851. Na co możecie liczyć jeśli zdecydujecie się na jej zakup? Co otrzymujemy wraz z Asus ROG Strix B860-F Gaming WiFi? Asus dodaje do płyty dwa kable SATA, antenę Wi-Fi, akcesoria do dysków M.2, opaski zacisko",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1570022",
@@ -1066,7 +986,7 @@
     "location": null,
     "summary": "Muszę się przyznać, że jako wielki fan gier Knights of the Old Republic poczułem od dawna nieodczuwany dreszczyk emocji, gdy podczas ostatniej gali The Game Awards 2025 usłyszałem tę jedną zapowiedź. Chodzi oczywiście o Fate of the Old Republic, grę, która ma szansę w końcu stać się godnym następcą ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.279Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569884",
@@ -1087,7 +1007,7 @@
     "location": null,
     "summary": "Okna są najsłabszym ogniwem nawet w nowych budynkach, bo muszą jednocześnie przepuszczać światło, zapewniać widok i chronić przed ucieczką ciepła czy przegrzewaniem latem. Efekt? Można dołożyć kolejne centymetry styropianu, wymienić źródło ciepła na pompę, zainstalować automatykę sterującą i intelig",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569980",
@@ -1107,7 +1027,7 @@
     "location": null,
     "summary": "Epic Games Store, znany ze swoich hojnych akcji promocyjnych, wytoczył najcięższe działa w tegorocznej świątecznej ofercie. Na promocji – tej najlepszej – znajdziemy bowiem Dziedzictwo Hogwartu Za darmo to zawsze uczciwa cena Gdy Epic Games zapowiada „tajemnicze gry” na koniec roku, oczekiwania są z",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569883",
@@ -1127,7 +1047,7 @@
     "location": null,
     "summary": "Kanadyjska marka Knolly Bikes od lat funkcjonuje gdzieś obok głównego nurtu rynku. Zamiast walczyć o medialne reflektory, buduje konsekwentnie sprzęt dla ludzi, którzy naprawdę jeżdżą w górach, nie tylko o nich czytają. Tym razem w świecie, w którym rowery gravelowe coraz częściej upodabniają się do",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569885",
@@ -1147,7 +1067,7 @@
     "location": null,
     "summary": "Akumulator rozruchowy pod maską samochodu to jeden z tych elementów, które przez dekady wydawały się niezmienne. Mimo postępów w innych obszarach motoryzacji podstawowa technologia zasilania rozrusznika i elektroniki pokładowej pozostawała bez zmian. Oto jednak teraz kalifornijski startup UNIGRID tw",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569842",
@@ -1168,7 +1088,7 @@
     "location": null,
     "summary": "Stabilne Wi-Fi w domu to coś więcej niż szybszy Internet – daje nam poczucie swobody. Przestajesz szukać jednego miejsca, gdzie „jeszcze łapie”, nie musisz prosić bliskich o chwilę ciszy, bo wideo-rozmowa się rwie, a filmy przestają zatrzymywać się w najbardziej nieodpowiednim momencie. Wybór router",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569851",
@@ -1189,7 +1109,7 @@
     "location": null,
     "summary": "Od ponad dziesięciu lat na orbicie Marsa pracuje niezmordowany badacz – sonda MAVEN. Jej misja miała się zakończyć lata temu, lecz aparat wciąż dostarczał cennych danych, aż do teraz. Kilka dni temu coś się popsuło, a Ziemia przestała odbierać jakiekolwiek sygnały z tego oddalonego o miliony kilomet",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569882",
@@ -1210,7 +1130,7 @@
     "location": null,
     "summary": "Data 11 grudnia 2025 roku może zostać zapamiętana jako moment, w którym koncepcja powietrznego nosiciela bezzałogowców przestała być jedynie teoretycznym pomysłem, a stała się rzeczywistością. Wtedy bowiem maszyna o nazwie Jetank oderwała się od ziemi w prowincji Shaanxi. Jetank to 16-tonowy kolos, ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569852",
@@ -1231,7 +1151,7 @@
     "location": null,
     "summary": "Nawet w tak stosunkowo dobrze poznanym rejonie jak wody wokół Hawajów czają się nieznane zjawiska. Naukowcy od lat obserwowali sezonowe wahania poziomu żelaza, ale najnowsze badania ujawniły zupełnie nowy mechanizm, który działa akurat wtedy, gdy się go najmniej spodziewano – w środku zimy. Okazuje ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569860",
@@ -1252,7 +1172,7 @@
     "location": null,
     "summary": "Huawei nie zwalnia tempa i podczas globalnego wydarzenia „Unfold the Moment” zapowiedział prawdziwy wysyp innowacji. Gwiazdą premiery jest druga generacja HUAWEI FreeClip 2 – słuchawek, które redefiniują komfort noszenia dzięki otwartej, klipsowej konstrukcji. Jeśli cenisz sobie elegancki design i d",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569833",
@@ -1272,7 +1192,7 @@
     "location": null,
     "summary": "Disney właśnie oficjalnie połączył siły z twórcami ChatGPT, podpisując trzyletnią umowę licencyjną i inwestując okrągły miliard dolarów w OpenAI. Już wkrótce będziemy mogli legalnie tworzyć wideo z Myszką Miki czy Darthem Vaderem. Twoje ulubione postacie Disneya w AI – oficjalnie i legalnie The Walt",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569664",
@@ -1292,7 +1212,7 @@
     "location": null,
     "summary": "Wyobraźcie sobie komputer działający tysiące razy szybciej niż obecne maszyny. Nie jest to już tylko wizja rodem z science fiction. Zespół z Uniwersytetu Tokijskiego dokonał czegoś, co jeszcze do niedawna uważano za niemożliwe. Udało im się niejako „sfilmować” procesy zachodzące w materiałach magnet",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569836",
@@ -1314,7 +1234,7 @@
     "location": null,
     "summary": "W świecie smartfonów wygoda i szybkość to podstawa. Google, które już we wrześniu zapowiadało zmiany, robi duży krok w kierunku zintegrowania zaawansowanej sztucznej inteligencji bezpośrednio z codziennymi narzędziami mobilnymi. Użytkownicy urządzeń Apple’a – iPhone’ów i iPadów – mogą teraz cieszyć ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569832",
@@ -1335,7 +1255,7 @@
     "location": null,
     "summary": "Marka Poco, znana ze świetnego stosunku jakości do ceny, nie zwalnia tempa. Choć premiera najnowszych modeli F8 Ultra i F8 Pro miała miejsce niedawno, firma już szykuje się do zaprezentowania kolejnego smartfona – Poco M8 Pro. A to, co wiemy o tym urządzeniu dzięki globalnym certyfikacjom, sugeruje,",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.073Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569800",
@@ -1355,7 +1275,7 @@
     "location": null,
     "summary": "Spotify jest jednym z tych serwisów, które najbardziej liberalnie podchodzą do „muzyki” generowanej przez AI. Mam na ten temat swoje zdanie, raczej negatywne, ale jak się okazuje, Spotify potrafi wykorzystać sztuczną inteligencję znacznie bardziej pożytecznie. Prompted Playlist, lista odtwarzania tw",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569822",
@@ -1376,7 +1296,7 @@
     "location": null,
     "summary": "Algorytmy mediów społecznościowych od lat wywołują gorące dyskusje i wątpliwości. Gdzieś w tle, ukryte za miliardami linijek kodu, decydują o tym, na jakie treści trafiamy i co zajmuje naszą uwagę. Wiele osób czuje się bezsilnych wobec tej niewidzialnej ręki, która kieruje zawartością ich strony głó",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569812",
@@ -1397,7 +1317,7 @@
     "location": null,
     "summary": "Kiedy włączamy YouTube’a, oczekujemy filmów. Okej, oczekiwaliśmy, bo jeśli nie płacimy za Premium, Google serwuje nam w dużej mierze model telewizyjny – wideo z dużą ilością reklam. Platforma od kilku lat konsekwentnie zaciska pętlę wokół użytkowników, którzy nie chcą płacić za subskrypcję. Walka z ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569803",
@@ -1417,7 +1337,7 @@
     "location": null,
     "summary": "Xiaomi zaskoczyło polski rynek w dość nietypowy sposób. Seria Redmi Note 15, obejmująca aż pięć różnych modeli, pojawiła się w ofertach przedsprzedaży w naszych sklepach, zanim ktokolwiek zdążył ogłosić jej oficjalną premierę. Tym samym poznaliśmy nie tylko pełną specyfikację, ale także oficjalne po",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1568861",
@@ -1438,7 +1358,7 @@
     "location": null,
     "summary": "X870E Aorus Master X3D ICE to nowa, jeszcze lepsza wersja jednej z najciekawszych płyt głównych X870E. Co ciekawego ona przynosi i czy ponownie jest to konstrukcja warta Waszych pieniędzy? Co otrzymujemy wraz z X870E Aorus Master X3D ICE? Dodatków jest całkiem sporo i obejmują one: instrukcje, opask",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569630",
@@ -1459,7 +1379,7 @@
     "location": null,
     "summary": "Elektryczne samochody “na węgiel” brzmią jak kiepski żart z czasów kopcących kominów, a nie zapowiedź przyszłości motoryzacji. Tymczasem właśnie w węglu naukowcy ze Skoltech widzą szansę na przełamanie największej bariery, która dziś zniechęca wielu kierowców do przesiadki na auto na prąd. Zamiast k",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569788",
@@ -1479,7 +1399,7 @@
     "location": null,
     "summary": "Orange Flex to moja ulubiona usługa Orange. Wygodna, szybka, idealna dla recenzenta (wymiana karty eSIM w kilka chwil, chociażby). Parę rzeczy w aplikacji do obsługi usługi jednak od dawna wymagało wygładzenia i dopracowania, tym bardziej zatem wypada się cieszyć, że Orange w końcu się wziął za robi",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569778",
@@ -1499,7 +1419,7 @@
     "location": null,
     "summary": "AI od dawna służy do tworzenia grafiki i znalazła sobie miejsce także programach do jej edycji. Tego jednak, by program do edycji grafiki znalazł sobie miejsce wewnątrz czatbota się nie spodziewałem, wyobraźcie sobie zatem moje zaskoczenie, gdy OpenAI oraz Adobe połączyły swoje systemy, oferując uży",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569768",
@@ -1519,7 +1439,7 @@
     "location": null,
     "summary": "Próby rozmów w zatłoczonych i głośnych miejscach nie należą do przyjemności. W takich warunkach wszystkie głosy mieszają się w jeden kakofoniczny szum, a ty musisz wytężać słuch i domyślać się reszty. Rozwiązanie może kryć się w zupełnie nowym typie inteligentnych słuchawek – system AI opracowany na",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569629",
@@ -1539,7 +1459,7 @@
     "location": null,
     "summary": "W świecie rowerów miejskich nowości spadają na rynek niemal co sezon, ale prawdziwym wyzwaniem nie jest już sama oryginalność, lecz sensowność. Rowery do jazdy po mieście mają odpowiadać na bardzo konkretne potrzeby, a model Cannondale Treadwell idealnie wpisuje się w ten spór między użytecznością a",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569604",
@@ -1559,7 +1479,7 @@
     "location": null,
     "summary": "Nothing pod względem wzornictwa nigdy nie stawiał na łatwe rozwiązania. Dzięki współpracy ze społecznością powstała limitowana edycja dobrze znanego smartfonu pod nazwą Nothing Phone (3a) Community Edition 2025. Projektanci z całego świata nadali mu charakterystyczny wygląd, inspirowany estetyką prz",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569628",
@@ -1580,7 +1500,7 @@
     "location": null,
     "summary": "Rzymskie akwedukty i mury miejskie wyglądają jak złośliwy komentarz do współczesnego budownictwa. Stoją niewzruszone od blisko dwóch tysięcy lat, mimo trzęsień ziemi, erozji i zmian klimatu. Nie jest to jednak tylko kwestia szczęśliwego zbiegu okoliczności ani łagodniejszej pogody w basenie Morza Śr",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569157",
@@ -1601,7 +1521,7 @@
     "location": null,
     "summary": "Przez lata saturatory domowe były sprzętem do jednego zadania — miały zrobić wodę gazowaną, do której najwyżej później dodawaliśmy smakowy syrop. SodaStream MIX wychodzi z tego schematu, a właściwie to odwraca go do góry nogami. To urządzenie zaprojektowane od początku tak, żeby można było nagazować",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569582",
@@ -1621,7 +1541,7 @@
     "location": null,
     "summary": "Jeśli jesteś graczem korzystającym z PC, mamy dla ciebie dobre wieści – choć będziesz musiał na nie jeszcze chwilę poczekać. Według najnowszych doniesień Microsoft planuje znaczące usprawnienia dla graczy w systemie Windows 11, które mają zadebiutować w 2026 roku. Co szykuje Microsoft dla Windows 11",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569619",
@@ -1646,7 +1566,7 @@
     },
     "summary": "Układ Słoneczny odwiedził niecodzienny przybysz, pochodzący z przestrzeni międzygwiezdnej i oznaczony jako 3I/ATLAS. Jego zachowanie i skład chemiczny wywołały burzliwą dyskusję w środowisku naukowym, dzieląc astronomów na zwolenników naturalnego pochodzenia i tych, którzy nie wykluczają bardziej eg",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.074Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1562111",
@@ -1667,7 +1587,7 @@
     "location": null,
     "summary": "„Smart” nie musi być widowiskiem z fajerwerkami. W kuchni liczy się powtarzalność oraz jakość efektów, komfort i to, by rachunki dało się sensownie wytłumaczyć. Kiedy piekarnik, płyta, zmywarka i lodówka działają w jednym ekosystemie, zyskujemy nie kolekcję gadżetów, tylko konsekwentny porządek. Tak",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.280Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569627",
@@ -1687,7 +1607,7 @@
     "location": null,
     "summary": "Świat doczekał się kolejnego latającego biura za dziesiątki milionów dolarów. Tym jednak razem odrzutowiec Global 8000 nie jest byle nową maszyną lotniczą, a sprzętem iście rekordowym, jeśli idzie o możliwości aktualnie dostępnych samolotów na rynku. Rynek luksusowego lotnictwa biznesowego od lat ży",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569563",
@@ -1708,7 +1628,7 @@
     "location": null,
     "summary": "Astronomowie, badając największe struktury we wszechświecie, natrafili na coś, co zmusza do przemyślenia dotychczasowych założeń. Chodzi o kosmiczne włókna, czyli potężne „autostrady” materii, które spinają ze sobą gromady galaktyk. Dotąd wydawało się, że te twory ewoluują bardzo powoli, głównie pod",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569588",
@@ -1728,7 +1648,7 @@
     "location": null,
     "summary": "Na polskim rynku AGD pojawiła się nowa propozycja dla osób szukających odświeżenia w rutynie sprzątania – Mova G70. To nie jest kolejna zwykła szczotka do odkurzania, a urządzenie, które chce przekonać nas, że technologia znana z robotów może świetnie sprawdzić się w tradycyjnej formie. Czy nowy odk",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569585",
@@ -1750,7 +1670,7 @@
     "location": null,
     "summary": "Media społecznościowe stały się nieodłącznym elementem życia młodzieży, ale ich ciemna strona – od cyberbullyingu i dezinformacji po uzależniające algorytmy – zmusza rządy do radykalnych działań (w końcu!). Po miesiącach burzliwych debat, Australia postawiła historyczny krok, wprowadzając ogólnokraj",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569562",
@@ -1770,7 +1690,7 @@
     "location": null,
     "summary": "Dla współczesnej młodzieży świat cyfrowy to nie tylko portale społecznościowe. Coraz częściej ich codzienne interakcje obejmują – niestety – także rozmowy z coraz bardziej rozbudowanymi botami. Zgodnie z danymi zebranymi w ostatnich miesiącach, aż dwie trzecie nastolatków w Stanach Zjednoczonych mia",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569538",
@@ -1790,7 +1710,7 @@
     "location": null,
     "summary": "Fizyka jądrowa zafundowała właśnie naukowcom interesujący zwrot akcji. Przez lata uważano, że pewne egzotyczne zjawiska występują tylko w bardzo specyficznych i trudnych do uzyskania warunkach. Teraz okazuje się, że natura może płatać figle znacznie bliżej naszego wyobrażenia o stabilnym wszechświec",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569565",
@@ -1811,7 +1731,7 @@
     "location": null,
     "summary": "Rabat za e-fakturę i płacenie na czas wygląda na zwykłą korzyść. W praktyce jednak ten pozorny prezent od operatora może szybko zamienić się w nieprzyjemną niespodziankę na rachunku. Urząd Ochrony Konkurencji i Konsumentów postanowił dokładnie sprawdzić, jak działa ten system w sieci Play i jego wer",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569539",
@@ -1832,7 +1752,7 @@
     "location": null,
     "summary": "Spotify, platforma zdominowana przez streaming audio, od dawna obserwuje, jak jej główni konkurenci – na czele z YouTube Music i Apple Music – z powodzeniem łączą świat dźwięku i obrazu. Choć teledyski to nieodłączny element kultury muzycznej, formując trendy i budując więź między artystą a fanem, S",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569544",
@@ -1853,7 +1773,7 @@
     "location": null,
     "summary": "W erze jednorazowej elektroniki, gdzie każde uszkodzenie kabla lub baterii oznacza konieczność zakupu nowego urządzenia, Fairphone od lat jest symbolem etycznej, modułowej i łatwej do naprawy technologii. Ponad dwa lata po premierze swoich pierwszych nausznych słuchawek, holenderska firma powraca z ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "https://www.chip.pl/?p=1569343",
@@ -1875,7 +1795,7 @@
     "location": null,
     "summary": "Porsche Cayenne S Coupé to bez dwóch zdań samochód bardzo dostojny i konkretny. Benzynowe V8 biturbo o pojemności 4,0 litra, 474 KM, 600 Nm, 8-biegowy Tiptronic S i napęd na cztery koła. Do tego nadwozie Coupé, lakier Cashmere Beige Metallic, 21-calowe felgi RS Spyder Design i pełny pakiet komfortu ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "/swiateczne-bombki-z-dawnych-lat-tak-wygladala-choinka-w-czasach-prlu/ar/c15-18143569",
@@ -1900,7 +1820,7 @@
     "location": null,
     "summary": "Jak wyglądały bombki i świąteczne ozdoby choinkowe kiedyś, za czas&oacute;w PRL? Bombki PRL miały wyraźny styl. Teraz moda na nie wraca. Peerelowskie bombki jednych fascynują, jako szklane dzieła sztuki użytkowej, inni zaś chętnie wracają z sentymentem do wspomnień Świąt Bożego Narodzenia sprzed lat",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "/osoby-o-tych-imionach-sa-wredne-i-zawistne-unikaj-ich-maja-ciezki-charakter-i-trudno-z-nimi-wspolpracowac-zdjecia-12122025/ar/c6-18567799",
@@ -1925,7 +1845,7 @@
     "location": null,
     "summary": "Od setek lat ezoterycy zajmują się znaczeniem imion. Według wielu z nich imię predysponuje człowieka, kt&oacute;ry je nosi, do posiadania i eksponowania niekt&oacute;rych cech charakteru. Wierzono, że imię ma wpływ na nasza osobowość, charakter, empatię i inteligencję. Jednią są empatyczni i mili in",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "/osoby-o-tym-imieniu-pija-najwiecej-alkoholu-kto-znalazl-sie-na-liscie-12122025/ar/c14-17181127",
@@ -1950,7 +1870,7 @@
     "location": null,
     "summary": "Nasze imiona odpowiadają za wiele naszych cech charakteru. Zobaczcie zatem, kto pije najwięcej alkoholu. Pamiętajcie, że alkohol szkodzi zdrowiu i jest tylko dla os&oacute;b pełnoletnich! Lista ma charakter rozrywkowy, należy ją traktować z przymrużeniem oka.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "/osoby-o-tym-imieniu-pija-najwiecej-alkoholu-kto-znalazl-sie-na-liscie-12122025/ar/c14-17429227",
@@ -1975,7 +1895,7 @@
     "location": null,
     "summary": "Znaczenie imion: dlaczego warto wiedzieć, co oznacza Twoje imię? Nasze imiona odpowiadają za wiele naszych cech charakteru. Zobaczcie zatem, kto pije najwięcej alkoholu. Potraktujcie tę listę z przymrużeniem oka i pamiętajcie, że alkohol szkodzi zdrowiu i jest tylko dla os&oacute;b pełnoletnich!",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.281Z"
   },
   {
     "guid": "/12-potraw-na-wigilie-lista-to-tradycyjne-obowiazkowe-potrawy-na-wigilie-polecaja-maklowicz-wachowicz-brodnicki-okrasa/ar/c17-15351553",
@@ -2000,7 +1920,7 @@
     "location": null,
     "summary": "12 wigilijnych potraw od Gessler, Makłowicza, Wachowicz, Brodnickiego, Okrasy i Starmach. Karp, kapusta, pierogi, barszcz na Wigilię i święta. Co znani kucharze polecają na wigilijny st&oacute;ł? Wśr&oacute;d 12 potraw są obowiązkowe: karp, kapusta, pierogi, barszcz. Wypr&oacute;buj przepis&oacute;w",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/dom-krzysztofa-rutkowskiego-zobacz-jak-mieszka-detektyw-rutkowski-rewolwer-i-rozaniec-przy-lozku-detektywa-rutkowskiego/ar/c9-1049150",
@@ -2025,7 +1945,7 @@
     "location": null,
     "summary": "Dom Krzysztofa Rutkowskiego! Najsławniejszy detektyw w Polsce oprowadza nas po swoim domu. Detektyw Rutkowski śpi z rewolwerem i r&oacute;żańcem przy ł&oacute;żku, a latem relaksuje się w basenie, a w spiżarni ma słoiki z grzybkami od mamy.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/skutki-niedoboru-magnezu-niedobor-magnezu-objawy-i-przyczyny-jak-mozna-szybko-uzupelnic-magnez-w-organizmie/ar/c1-15907161",
@@ -2050,7 +1970,7 @@
     "location": null,
     "summary": "Niedob&oacute;r magnezu objawy i przyczyny. Magnez bierze udział w kluczowych reakcjach metabolicznych i pełni ważną funkcję w gospodarce mineralnej kości. Co się dzieje jeśli jest zbyt mało magnezu w organizmie? Niedob&oacute;r magnezu jest niebezpieczny dla zdrowia i może być przyczyną wielu chor&",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/swiateczne-ozdoby-z-papieru-diy-pomysly-na-piekne-dekoracje-na-boze-narodzenie/ar/c9-17071693",
@@ -2075,7 +1995,7 @@
     "location": null,
     "summary": "Ozdoby świąteczne z papieru DIY znowu są bardzo modne. Wielu z nas żyje w duchu zero waste i stawia na ekologię. Papierowe dekoracje na Boże Narodzenie są tanie, ekologiczne i mogą pięknie ozdobić wnętrza. Wystarczy wykorzystać to, co mamy w domu, żeby zadbać o planetę i stworzyć piękne dekoracje za",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/mistrzowie-parkowania-z-koszalina-tak-nigdy-nie-parkujcie-tych-kierowcow-poniosla-fantazja-mamy-nowe-zdjecia/ar/c4-17396157",
@@ -2100,7 +2020,7 @@
     "location": null,
     "summary": "Na trawnikach, przejściach dla pieszych, na chodniku, tam, gdzie obowiązuje zakaz zatrzymywania i postoju, na dw&oacute;ch miejscach parkingowych - wyobraźnia części kierowc&oacute;w nie zna naprawdę granic. Brak wolnego miejsca w wybranej przez nas lokalizacji nie może usprawiedliwiać parkowania w ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/prezenty-swiateczne-w-prlu-i-ponad-200-lat-temu/ar/c1-9203426",
@@ -2125,7 +2045,7 @@
     "location": null,
     "summary": "Dlaczego dajemy prezenty? Naukowcy tłumaczą, że &bdquo;podarunki są zewnętrznym przejawem nawiązywania lub podtrzymywania relacji&rdquo;. Przypominamy, jakie prezenty dawaliśmy sobie 200 lat temu, a jakie w czasach PRL-u.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/szklany-kubek-wycofana-ze-sprzedazy-picie-z-niego-zagraza-zdrowiu-najnowsze-ostrzezenie-gis/ar/c1-15169020",
@@ -2150,7 +2070,7 @@
     "location": null,
     "summary": "Gł&oacute;wny Inspektorat Sanitarny pokazał produkty szkodliwe dla zdrowia człowieka. Nowe ostrzeżenie GIS z 10 grudnia 2025 roku dotyczy szklanego kubka!",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/szczecin-na-poczatku-xxi-wieku-tak-wtedy-wygladalo-miasto-zdjecia/ar/c1-15302535",
@@ -2175,7 +2095,7 @@
     "location": null,
     "summary": "Jak wyglądał Szczecin na początku lat 2000? Zobaczcie archiwalne zdjęcia w naszej galerii i oceńcie sami, co się zmieniło przez ostatnie 25 lat.",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/koszalin-ponad-20-lat-temu-jak-wygladalo-zycie-w-miescie-na-poczatku-xxi-wieku-unikatowe-zdjecia/ar/c1-15003385",
@@ -2200,7 +2120,7 @@
     "location": null,
     "summary": "Jak wyglądał Koszalin na początku XXI wieku? Oto kolejne zdjęcia z bogatego archiwum Krzysztofa Sokołowa, znanego koszalińskiego fotografa. Zapraszamy do oglądania!",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/czy-pamietasz-te-przedmioty-z-prlu-kultowe-rzeczy-z-lat-70-80-i-90-kosztuja-fortune-znowu-wrocila-moda-na-wnetrza-z-prlu-zdjecia/ar/c9-16544871",
@@ -2225,7 +2145,7 @@
     "location": null,
     "summary": "Przedmioty Z PRL-u &ndash; syfon z nabojami, lampa lava, kula disco, kasety, telefon z obrotową tarczą czy kultowa farelka to gadżety, kt&oacute;re kr&oacute;lowały w polskich domach w latach 70., 80. i 90. XX wieku. Wiele os&oacute;b wspomina je z wielkim sentymentem i znowu po nie sięga. Niekt&oac",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "/gwiazda-betlejemska-najmodniejsza-dekoracja-na-boze-narodzenie-piekne-stroiki-swiateczne-z-poinsecji/ar/c9-17114859",
@@ -2250,7 +2170,7 @@
     "location": null,
     "summary": "Gwiazda betlejemska to niezwykle popularna roślina świąteczna, kt&oacute;rą co roku większość z nas pięknie dekoruje dom na Boże Narodzenie. Poinsecja jest tania, niezwykle efektowna i trwała, dlatego świetnie się sprawdza jako świąteczna dekoracja. Podpowiadamy, jak pomysłowo ozdobić wnętrza za pom",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
@@ -2268,7 +2188,7 @@
     "location": null,
     "summary": "Specjaliści IT są cały czas pożądani na rynku pracy, a zatrudnienia można szukać na wiele różnych sposobów. Sprawdź, co może pomóc Ci w znalezieniu wymarzonej pracy w branży i już teraz rozpocznij działania, które przybliżą Cię do celu. Najpopularniejszym sposobem poszukiwania pracy w IT jest dziś s",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
@@ -2286,7 +2206,7 @@
     "location": null,
     "summary": "Czy słyszeliście o Chat Control – unijnym prawie, które ma wprowadzić skanowanie treści w komunikatorach pod kątem materiałów pedofilskich? Wbrew obawom nie będzie ono “programem inwigilacji”, co nie zmienia faktu, że UE rzeczywiście chciałaby zapewnić służbom dostęp do szyfrowanej komunikacji. Jeśl",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.075Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
@@ -2304,7 +2224,7 @@
     "location": null,
     "summary": "Czy moja firma podlega pod NIS2? Co zrobić, jeśli zdarzy nam się atak ransomware? Z badań firm ESET i DAGMA Bezpieczeństwo IT wynika, że wciąż wiele osób w polskich firmach nie zna odpowiedzi na te pytania. Niemal dokładnie rok temu pisaliśmy w Niebezpieczniku o tym, że cyberbezpieczeństwo to jakby ",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
@@ -2322,7 +2242,7 @@
     "location": null,
     "summary": "Odnotujmy ważną z punktu OSINT-owego zmianę: Twitter (obecnie: X) zaczął pokazywać kraj i lokalizację, z powiązane z danym kontem. Oznaczane jest też użycie VPN-a. Zmiana wywołała dużo emocji — nagle okazało się, że wiele profili tylko udaje lokalnych komentatorów, a w rzeczywistości jest prowadzona",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
@@ -2340,7 +2260,7 @@
     "location": null,
     "summary": "W środę, w odpowiedzi na podłożenie ładunków wybuchowych na torach kolejowych, wicepremier Kosiniak-Kamysz ogłosił operację Horyzont, której celem jest przeciwdziałanie aktom dywersji, zwłaszcza jeśli dotyczą infrastruktury krytycznej. Jednym z elementów operacji ma być aplikacja mobilna, którą stwo",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
@@ -2358,7 +2278,7 @@
     "location": null,
     "summary": "Jeśli zamawialiście kiedykolwiek jedzenie online w serwisie NaWynos.elblag.pl to niestety mamy dla Was smutną informację. Można było pobrać dane wszystkich osób, które od 2011 roku korzystały z usług tego serwisu, a zdaniem administratora portalu, to nie jest duży problem i nie są to dane w żaden sp",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
@@ -2376,7 +2296,7 @@
     "location": null,
     "summary": "Z nieskrywaną przyjemnością informuję, że marcinnowak2080, czyli podszywacz, który od 4 lat uprzykrzał życie wielu Polakom, a zwłaszcza ludziom z branży cyberbezpieczeństwa, w tym mnie osobiście, został zatrzymany przez poznańskich policjantów z CBZC. Szczere gratulacje i dla nich i dla prokuratorów",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
@@ -2394,7 +2314,7 @@
     "location": null,
     "summary": "Kolejny groźny atak na puszki od Fortineta — upewnijcie się, że Wasz FortiWeb jest w wersji 8.0.2 zanim doczytacie ten artykuł do końca. Wystawiono exploita na sprzedaż i już widać ataki 6 listopada wystawiono na sprzedaż exploita na FortiWeb (Web Application Firewall). źródło: Rapid7.com Exploit po",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
@@ -2412,7 +2332,7 @@
     "location": null,
     "summary": "Rosnąca liczba procesów, danych i narzędzi w firmach powoduje, że w każdej organizacji prędzej czy później nadchodzi moment decyzji o wdrożeniu systemu ERP. Spójny system zarządzania zasobami to już nie tylko udogodnienie, ale warunek utrzymania konkurencyjności. A w coraz bardziej cyfrowych organiz",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
@@ -2430,7 +2350,7 @@
     "location": null,
     "summary": "Oszuści podszywają się pod Medfile.pl — usługę dla gabinetów i przychodni medycznych służącą m.in. do zarządzania dokumentacją. Tak ukierunkowany phishing może być mniej zauważalny, ale jego skutki mogą być bardzo bolesne. O sprawie powiadomił nas Paweł, nasz Czytelnik i lekarz, który na swoją komór",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
@@ -2448,7 +2368,7 @@
     "location": null,
     "summary": "W 2020 roku młody mężczyzna, znany jako JK, starał się o przyjęcie do służb mundurowych. Napotkał jednak problem – w Krajowym Systemie Informacyjnym Policji (KSIP) nadal widniały informacje o postępowaniu karnym toczącym się dwa lata wcześniej. JK był podejrzany o spowodowanie wypadku komunikacyjneg",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
@@ -2466,7 +2386,7 @@
     "location": null,
     "summary": "Otrzymujemy zgłoszenia, że oszuści podszywają się pod NFZ i wysyłają Polakom wiadomości o “zwrocie kosztów zakupu leków” oraz zachęcają do uzupełnienia formularza zwrotu. Uzupełnienie formularza może spowodować nie zwrot, a kradzież pieniędzy z rachunku bankowego. Jak wygląda fałszywa wiadomość? Oto",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
@@ -2484,7 +2404,7 @@
     "location": null,
     "summary": "Jeśli korzystałeś z usług serwisu SuperGrosz.pl oferującego pożyczki, to jak najszybciej zastrzeż swój PESEL — tu znajdziesz instrukcję jak to zrobić. Najlepiej zastrzeż swój PESEL już teraz, zanim doczytasz ten artykuł do końca. Wyciekły wszystkie dane klientów Jak przed godziną poinformował wicepr",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
@@ -2502,7 +2422,7 @@
     "location": null,
     "summary": "Jak informują nas użytkownicy aplikacji Bolt, w aplikacji zaczęły pojawiać się dane kontaktowe do kierowców. O ile wcześniej zamawiając przejazd można było zobaczyć tylko imię i ew. nazwę firmy z którą współpracował kierowca, to od wczoraj widać także: adres email kierowcy (nawet jeśli ktoś jest pod",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   },
   {
     "guid": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
@@ -2520,6 +2440,6 @@
     "location": null,
     "summary": "Dziś rano platforma sky-shop.pl, która umożliwia każdemu założenie swojego sklepu internetowego (i której twórcą jest Przemo od “phpBB2 by Przemo”), poinformowała swoich klientów (czyli właścicieli sklepów) o tym, że dane ich klientów (czyli zapewne sporej części z Was, drodzy internauci) zostały wy",
     "aiEnriched": false,
-    "processedAt": "2025-12-12T20:31:00.076Z"
+    "processedAt": "2025-12-13T03:21:52.282Z"
   }
 ]
